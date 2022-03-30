@@ -4,6 +4,5 @@ public class Cqkseq {
         System.out.println("uhabs");
         System.out.println("pfkpr");
         System.out.println("bxmmg");
-        System.out.println("htugq");
     }
 }
