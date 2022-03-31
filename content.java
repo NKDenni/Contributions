@@ -1,8 +1,8 @@
-public class Cqkseq {
+public class Caygyi {
     public static void main() {
-        System.out.println("gjcqr");
-        System.out.println("uhabs");
-        System.out.println("pfkpr");
-        System.out.println("buwhg");
+        System.out.println("lqtnc");
+        System.out.println("onngh");
+        System.out.println("hihfk");
+        System.out.println("hpydq");
     }
 }
