@@ -4,7 +4,7 @@ public class Caygyi {
         System.out.println("onngh");
         System.out.println("mpcmo");
         System.out.println("fyqnm");
-        System.out.println("cuxpj");
-        System.out.println("iiedg");
+        System.out.println("gslmg");
+        System.out.println("ekxah");
     }
 }
