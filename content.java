@@ -15,9 +15,5 @@ public class Caygyi {
         System.out.println("gmkfk");
         System.out.println("btxei");
         System.out.println("vcdwj");
-        System.out.println("ybexa");
-        System.out.println("leeti");
-        System.out.println("bofyq");
-        System.out.println("obfip");
     }
 }
