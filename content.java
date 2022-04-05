@@ -8,5 +8,16 @@ public class Caygyi {
         System.out.println("ekxah");
         System.out.println("fryfa");
         System.out.println("cwrsd");
+        System.out.println("hbitq");
+        System.out.println("mdayn");
+        System.out.println("icnmy");
+        System.out.println("suisu");
+        System.out.println("gmkfk");
+        System.out.println("btxei");
+        System.out.println("vcdwj");
+        System.out.println("ybexa");
+        System.out.println("leeti");
+        System.out.println("bofyq");
+        System.out.println("obfip");
     }
 }
