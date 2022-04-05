@@ -8,7 +8,5 @@ public class Caygyi {
         System.out.println("ekxah");
         System.out.println("fryfa");
         System.out.println("cwrsd");
-        System.out.println("wnmbj");
-        System.out.println("sogfq");
     }
 }
