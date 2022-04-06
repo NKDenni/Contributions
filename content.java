@@ -9,5 +9,13 @@ public class Caygyi {
         System.out.println("fryfa");
         System.out.println("cwrsd");
         System.out.println("hbitq");
+        System.out.println("mmhes");
+        System.out.println("nocmf");
+        System.out.println("hguxn");
+        System.out.println("mkwvu");
+        System.out.println("nokdn");
+        System.out.println("hqnxs");
+        System.out.println("jspgq");
+        System.out.println("fuudn");
     }
 }
