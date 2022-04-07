@@ -64,10 +64,5 @@ public class Caygyi {
         System.out.println("nrnpf");
         System.out.println("nomcc");
         System.out.println("ysaht");
-        System.out.println("heehm");
-        System.out.println("fgsnr");
-        System.out.println("sxvuo");
-        System.out.println("cutsp");
-        System.out.println("hnskw");
     }
 }
