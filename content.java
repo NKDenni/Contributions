@@ -59,7 +59,7 @@ public class Caygyi {
         System.out.println("xhsih");
         System.out.println("thjwf");
         System.out.println("fkhup");
-        System.out.println("orapw");
-        System.out.println("irxll");
+        System.out.println("qxkrs");
+        System.out.println("nqbax");
     }
 }
