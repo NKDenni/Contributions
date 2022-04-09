@@ -76,5 +76,13 @@ public class Caygyi {
         System.out.println("lalac");
         System.out.println("qjwqu");
         System.out.println("fruxo");
+        System.out.println("bjmie");
+        System.out.println("qokdl");
+        System.out.println("bumhc");
+        System.out.println("awgod");
+        System.out.println("khkfr");
+        System.out.println("dkphg");
+        System.out.println("eobnw");
+        System.out.println("pepvi");
     }
 }
