@@ -93,5 +93,20 @@ public class Caygyi {
         System.out.println("wgblj");
         System.out.println("ndqnh");
         System.out.println("xnhdg");
+        System.out.println("duuto");
+        System.out.println("ymtrh");
+        System.out.println("niedb");
+        System.out.println("krgpp");
+        System.out.println("egkau");
+        System.out.println("bemwo");
+        System.out.println("wujso");
+        System.out.println("stetd");
+        System.out.println("etadf");
+        System.out.println("tiwsj");
+        System.out.println("cescn");
+        System.out.println("eegqb");
+        System.out.println("nmibe");
+        System.out.println("pwgas");
+        System.out.println("npuyk");
     }
 }
