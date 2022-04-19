@@ -66,6 +66,5 @@ public class Caygyi {
         System.out.println("tgddh");
         System.out.println("rvlsg");
         System.out.println("hency");
-        System.out.println("kcnqj");
     }
 }
