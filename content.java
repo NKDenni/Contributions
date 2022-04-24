@@ -97,5 +97,17 @@ public class Caygyi {
         System.out.println("selcl");
         System.out.println("kekcq");
         System.out.println("vsdar");
+        System.out.println("mvtcg");
+        System.out.println("wabfq");
+        System.out.println("jkjtk");
+        System.out.println("nllhd");
+        System.out.println("wjiav");
+        System.out.println("fkinf");
+        System.out.println("glkje");
+        System.out.println("gajqn");
+        System.out.println("jnchm");
+        System.out.println("llswv");
+        System.out.println("orqej");
+        System.out.println("ugcox");
     }
 }
