@@ -106,8 +106,5 @@ public class Caygyi {
         System.out.println("glkje");
         System.out.println("gajqn");
         System.out.println("jnchm");
-        System.out.println("llswv");
-        System.out.println("orqej");
-        System.out.println("ugcox");
     }
 }
