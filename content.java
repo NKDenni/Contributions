@@ -196,6 +196,5 @@ public class Caygyi {
         System.out.println("rmirn");
         System.out.println("gjash");
         System.out.println("sxkly");
-        System.out.println("youbt");
     }
 }
