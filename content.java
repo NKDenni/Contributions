@@ -316,11 +316,11 @@ public class Caygyi {
         System.out.println("wrwng");
         System.out.println("monon");
         System.out.println("oluvs");
-        System.out.println("qobkh");
-        System.out.println("nfrji");
-        System.out.println("konhv");
-        System.out.println("gjyjm");
-        System.out.println("sussh");
-        System.out.println("ubmcs");
+        System.out.println("tjqet");
+        System.out.println("efial");
+        System.out.println("kvbjd");
+        System.out.println("alrwd");
+        System.out.println("lcmah");
+        System.out.println("nlwgc");
     }
 }
