@@ -315,5 +315,12 @@ public class Caygyi {
         System.out.println("doycg");
         System.out.println("wrwng");
         System.out.println("monon");
+        System.out.println("oluvs");
+        System.out.println("qobkh");
+        System.out.println("nfrji");
+        System.out.println("konhv");
+        System.out.println("gjyjm");
+        System.out.println("sussh");
+        System.out.println("ubmcs");
     }
 }
