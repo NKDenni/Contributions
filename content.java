@@ -344,7 +344,5 @@ public class Caygyi {
         System.out.println("hgqjd");
         System.out.println("etoll");
         System.out.println("owyfa");
-        System.out.println("qheee");
-        System.out.println("fqvoc");
     }
 }
