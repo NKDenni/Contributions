@@ -326,11 +326,6 @@ public class Caygyi {
         System.out.println("ehxuw");
         System.out.println("uxiux");
         System.out.println("cxmlf");
-        System.out.println("pocda");
-        System.out.println("xnqrd");
-        System.out.println("dwpeo");
-        System.out.println("ewwbh");
-        System.out.println("itjkh");
-        System.out.println("blxub");
+        System.out.println("xrsfb");
     }
 }
