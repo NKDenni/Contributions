@@ -344,10 +344,5 @@ public class Caygyi {
         System.out.println("doanm");
         System.out.println("rkppd");
         System.out.println("csabx");
-        System.out.println("hsjix");
-        System.out.println("uorbs");
-        System.out.println("wrpir");
-        System.out.println("mfgqn");
-        System.out.println("qctmj");
     }
 }
