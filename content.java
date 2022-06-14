@@ -676,10 +676,10 @@ public class Caygyi {
         System.out.println("gvwwb");
         System.out.println("eyxle");
         System.out.println("bnpmv");
-        System.out.println("qoeaf");
-        System.out.println("oesaw");
-        System.out.println("tvehe");
-        System.out.println("myqyo");
-        System.out.println("hmpbl");
+        System.out.println("stmuy");
+        System.out.println("qciac");
+        System.out.println("iocgt");
+        System.out.println("qfnly");
+        System.out.println("spxpi");
     }
 }
