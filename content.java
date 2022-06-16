@@ -687,17 +687,5 @@ public class Caygyi {
         System.out.println("tkrwm");
         System.out.println("asare");
         System.out.println("omrim");
-        System.out.println("mwaem");
-        System.out.println("edrjp");
-        System.out.println("jrppw");
-        System.out.println("ddqwc");
-        System.out.println("gclkp");
-        System.out.println("esana");
-        System.out.println("aseba");
-        System.out.println("arwrh");
-        System.out.println("ebwcj");
-        System.out.println("odbvy");
-        System.out.println("eqqio");
-        System.out.println("ecxjw");
     }
 }
