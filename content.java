@@ -683,9 +683,9 @@ public class Caygyi {
         System.out.println("denyk");
         System.out.println("rlcga");
         System.out.println("fpthp");
-        System.out.println("mcacy");
-        System.out.println("tkrwm");
-        System.out.println("asare");
-        System.out.println("omrim");
+        System.out.println("tlqio");
+        System.out.println("vmuqa");
+        System.out.println("rxxim");
+        System.out.println("pcrmw");
     }
 }
