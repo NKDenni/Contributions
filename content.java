@@ -721,6 +721,5 @@ public class Caygyi {
         System.out.println("efino");
         System.out.println("mhfbq");
         System.out.println("nlsun");
-        System.out.println("weijn");
     }
 }
