@@ -837,8 +837,5 @@ public class Caygyi {
         System.out.println("fwode");
         System.out.println("utbow");
         System.out.println("ynfbd");
-        System.out.println("lcuic");
-        System.out.println("rthhj");
-        System.out.println("dpptc");
     }
 }
