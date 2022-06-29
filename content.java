@@ -1326,11 +1326,5 @@ public class Caygyi {
         System.out.println("olpvx");
         System.out.println("dbsfa");
         System.out.println("nllrf");
-        System.out.println("tdxgd");
-        System.out.println("vcojo");
-        System.out.println("dvibn");
-        System.out.println("fgfuk");
-        System.out.println("rknyq");
-        System.out.println("kiibr");
     }
 }
