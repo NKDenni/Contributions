@@ -1293,8 +1293,5 @@ public class Caygyi {
         System.out.println("wilne");
         System.out.println("ivgnh");
         System.out.println("hmcgc");
-        System.out.println("xqrqn");
-        System.out.println("prago");
-        System.out.println("iqvbj");
     }
 }
