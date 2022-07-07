@@ -1297,7 +1297,7 @@ public class Caygyi {
         System.out.println("vrllf");
         System.out.println("ktoef");
         System.out.println("eupnt");
-        System.out.println("guodk");
-        System.out.println("eqebu");
+        System.out.println("vrriv");
+        System.out.println("ufayd");
     }
 }
