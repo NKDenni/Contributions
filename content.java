@@ -1350,9 +1350,9 @@ public class Caygyi {
         System.out.println("geabu");
         System.out.println("tnmyo");
         System.out.println("rojtu");
-        System.out.println("bylei");
-        System.out.println("evlcy");
-        System.out.println("txcam");
-        System.out.println("yqvhd");
+        System.out.println("glxay");
+        System.out.println("glgly");
+        System.out.println("jdveh");
+        System.out.println("luuss");
     }
 }
