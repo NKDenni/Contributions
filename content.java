@@ -1354,10 +1354,5 @@ public class Caygyi {
         System.out.println("evlcy");
         System.out.println("txcam");
         System.out.println("yqvhd");
-        System.out.println("yyoom");
-        System.out.println("utrjh");
-        System.out.println("oeqaf");
-        System.out.println("hmqxc");
-        System.out.println("hsgvn");
     }
 }
