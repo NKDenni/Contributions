@@ -1575,9 +1575,5 @@ public class Caygyi {
         System.out.println("oadnf");
         System.out.println("htetj");
         System.out.println("amxem");
-        System.out.println("rmlao");
-        System.out.println("lcxrs");
-        System.out.println("qptby");
-        System.out.println("lmkse");
     }
 }
