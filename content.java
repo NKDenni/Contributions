@@ -1769,7 +1769,5 @@ public class Caygyi {
         System.out.println("qpckj");
         System.out.println("hoaie");
         System.out.println("phwjy");
-        System.out.println("fartx");
-        System.out.println("tqhwm");
     }
 }
