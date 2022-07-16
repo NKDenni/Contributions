@@ -1816,5 +1816,10 @@ public class Caygyi {
         System.out.println("nttjn");
         System.out.println("mqgrk");
         System.out.println("ttlym");
+        System.out.println("yhlkm");
+        System.out.println("jjrop");
+        System.out.println("fngye");
+        System.out.println("jguga");
+        System.out.println("crclj");
     }
 }
