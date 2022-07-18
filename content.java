@@ -1776,10 +1776,5 @@ public class Caygyi {
         System.out.println("ntpmo");
         System.out.println("cssbg");
         System.out.println("ratbt");
-        System.out.println("kjgyg");
-        System.out.println("ickwv");
-        System.out.println("kjccu");
-        System.out.println("fsimx");
-        System.out.println("wmrqq");
     }
 }
