@@ -1785,8 +1785,5 @@ public class Caygyi {
         System.out.println("ixpkc");
         System.out.println("lxrcx");
         System.out.println("jsiem");
-        System.out.println("mkuyu");
-        System.out.println("lkyhm");
-        System.out.println("pswxu");
     }
 }
