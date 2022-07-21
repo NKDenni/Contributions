@@ -1737,20 +1737,18 @@ public class Caygyi {
         System.out.println("gyido");
         System.out.println("qyiii");
         System.out.println("vcayb");
-        System.out.println("wqedh");
-        System.out.println("pbsyp");
-        System.out.println("wepqe");
-        System.out.println("nqmwb");
-        System.out.println("kaaks");
-        System.out.println("euvsh");
-        System.out.println("mogwi");
-        System.out.println("qglfi");
-        System.out.println("qrcnp");
-        System.out.println("rujlu");
-        System.out.println("vgupy");
-        System.out.println("cbafb");
-        System.out.println("fsgvu");
-        System.out.println("kfgre");
-        System.out.println("oyxpd");
+        System.out.println("ixcha");
+        System.out.println("gybkq");
+        System.out.println("kyibb");
+        System.out.println("voxof");
+        System.out.println("wqyvv");
+        System.out.println("jawag");
+        System.out.println("dremm");
+        System.out.println("eofwj");
+        System.out.println("guywt");
+        System.out.println("qyote");
+        System.out.println("mdbuj");
+        System.out.println("vjdnd");
+        System.out.println("eyoba");
     }
 }
