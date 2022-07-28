@@ -1731,6 +1731,5 @@ public class Caygyi {
         System.out.println("iufvu");
         System.out.println("guahk");
         System.out.println("ibene");
-        System.out.println("svyba");
     }
 }
