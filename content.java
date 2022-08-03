@@ -1782,5 +1782,9 @@ public class Caygyi {
         System.out.println("ieper");
         System.out.println("byowh");
         System.out.println("aikiw");
+        System.out.println("lmdfx");
+        System.out.println("likgm");
+        System.out.println("pxlmy");
+        System.out.println("cfmcs");
     }
 }
