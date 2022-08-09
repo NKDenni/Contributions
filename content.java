@@ -1831,5 +1831,12 @@ public class Caygyi {
         System.out.println("wpggo");
         System.out.println("bmwkf");
         System.out.println("ibitw");
+        System.out.println("qqqri");
+        System.out.println("auhwm");
+        System.out.println("qtxew");
+        System.out.println("orouv");
+        System.out.println("miexu");
+        System.out.println("nepsn");
+        System.out.println("pehhn");
     }
 }
