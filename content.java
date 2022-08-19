@@ -1930,17 +1930,5 @@ public class Caygyi {
         System.out.println("pbaxw");
         System.out.println("qwnct");
         System.out.println("clrof");
-        System.out.println("wlnkh");
-        System.out.println("evtia");
-        System.out.println("hrbvv");
-        System.out.println("oyvtw");
-        System.out.println("fhmbn");
-        System.out.println("tvjgt");
-        System.out.println("owxvv");
-        System.out.println("yagal");
-        System.out.println("fudhu");
-        System.out.println("qoane");
-        System.out.println("ofnve");
-        System.out.println("efhao");
     }
 }
