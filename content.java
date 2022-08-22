@@ -1981,14 +1981,5 @@ public class Caygyi {
         System.out.println("mqhug");
         System.out.println("wwpul");
         System.out.println("bmvhr");
-        System.out.println("sicad");
-        System.out.println("ugsus");
-        System.out.println("rgppu");
-        System.out.println("xtpkj");
-        System.out.println("kkhmn");
-        System.out.println("enaxb");
-        System.out.println("wyppx");
-        System.out.println("qllbm");
-        System.out.println("ifylj");
     }
 }
