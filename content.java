@@ -2024,7 +2024,7 @@ public class Caygyi {
         System.out.println("gxhkp");
         System.out.println("maxui");
         System.out.println("myjsm");
-        System.out.println("mosey");
-        System.out.println("kjcbx");
+        System.out.println("qyxok");
+        System.out.println("absrb");
     }
 }
