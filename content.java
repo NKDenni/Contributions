@@ -2041,17 +2041,11 @@ public class Caygyi {
         System.out.println("secjt");
         System.out.println("agoda");
         System.out.println("wteep");
-        System.out.println("dylpm");
-        System.out.println("iquyt");
-        System.out.println("ucqng");
-        System.out.println("mtynu");
-        System.out.println("jlcvd");
-        System.out.println("iwuey");
-        System.out.println("cfafj");
-        System.out.println("gfwyh");
-        System.out.println("yisvw");
-        System.out.println("ulfxh");
-        System.out.println("iervx");
-        System.out.println("spnbt");
+        System.out.println("bpswd");
+        System.out.println("morhl");
+        System.out.println("scwqf");
+        System.out.println("ctdjr");
+        System.out.println("lolvj");
+        System.out.println("mahqc");
     }
 }
