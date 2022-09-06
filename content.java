@@ -2209,20 +2209,10 @@ public class Caygyi {
         System.out.println("caddh");
         System.out.println("fordi");
         System.out.println("toiso");
-        System.out.println("fwtcw");
-        System.out.println("ajqxe");
-        System.out.println("ueovp");
-        System.out.println("hrktm");
-        System.out.println("bhkjy");
-        System.out.println("ukicg");
-        System.out.println("ueqkt");
-        System.out.println("minae");
-        System.out.println("aiwil");
-        System.out.println("vsbeo");
-        System.out.println("shsrb");
-        System.out.println("txwaa");
-        System.out.println("jrsnd");
-        System.out.println("aeysx");
-        System.out.println("akbsi");
+        System.out.println("lutfa");
+        System.out.println("gwcue");
+        System.out.println("krrus");
+        System.out.println("tfoht");
+        System.out.println("snchl");
     }
 }
