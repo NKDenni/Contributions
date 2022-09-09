@@ -2223,8 +2223,6 @@ public class Caygyi {
         System.out.println("yerql");
         System.out.println("twgpa");
         System.out.println("nkbrf");
-        System.out.println("cmjei");
-        System.out.println("fsrou");
-        System.out.println("mtwve");
+        System.out.println("ncwir");
     }
 }
