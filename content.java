@@ -2291,16 +2291,5 @@ public class Caygyi {
         System.out.println("bnjsi");
         System.out.println("sgfoc");
         System.out.println("ggnys");
-        System.out.println("skilw");
-        System.out.println("umllm");
-        System.out.println("qxkfr");
-        System.out.println("mqmna");
-        System.out.println("wtjgs");
-        System.out.println("facyl");
-        System.out.println("mmcop");
-        System.out.println("cqfxt");
-        System.out.println("eyiis");
-        System.out.println("kvanr");
-        System.out.println("foxmf");
     }
 }
