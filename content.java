@@ -2360,7 +2360,18 @@ public class Caygyi {
         System.out.println("llijb");
         System.out.println("vrowa");
         System.out.println("tfhyo");
-        System.out.println("wbyyt");
-        System.out.println("octfg");
+        System.out.println("kvxfg");
+        System.out.println("hmftm");
+        System.out.println("jabcj");
+        System.out.println("wgkfy");
+        System.out.println("gbbqs");
+        System.out.println("qfbsn");
+        System.out.println("uujsi");
+        System.out.println("gffxc");
+        System.out.println("yjvth");
+        System.out.println("wgbdo");
+        System.out.println("njxqx");
+        System.out.println("jucty");
+        System.out.println("fhlkf");
     }
 }
