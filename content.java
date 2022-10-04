@@ -2592,7 +2592,7 @@ public class Caygyi {
         System.out.println("dbyfa");
         System.out.println("uiqui");
         System.out.println("xacuc");
-        System.out.println("akhxy");
-        System.out.println("jtmyb");
+        System.out.println("awxry");
+        System.out.println("evddt");
     }
 }
