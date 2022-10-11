@@ -2697,5 +2697,7 @@ public class Caygyi {
         System.out.println("blufp");
         System.out.println("lgdix");
         System.out.println("ktosx");
+        System.out.println("pdldg");
+        System.out.println("dpxml");
     }
 }
