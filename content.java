@@ -3647,9 +3647,5 @@ public class Caygyi {
         System.out.println("uyixk");
         System.out.println("bjmcc");
         System.out.println("kcaqq");
-        System.out.println("vgerh");
-        System.out.println("iofen");
-        System.out.println("xibyt");
-        System.out.println("guxdi");
     }
 }
