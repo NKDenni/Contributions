@@ -3702,11 +3702,5 @@ public class Caygyi {
         System.out.println("dhtoh");
         System.out.println("attuk");
         System.out.println("dwnta");
-        System.out.println("inmik");
-        System.out.println("uxnjq");
-        System.out.println("aymtu");
-        System.out.println("bboil");
-        System.out.println("kheky");
-        System.out.println("naqmb");
     }
 }
