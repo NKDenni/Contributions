@@ -54,20 +54,7 @@ namespace MockCode
             Console.WriteLine("uwngw");
             Console.WriteLine("jyhxy");
             Console.WriteLine("jbhvy");
-            Console.WriteLine("ofeul");
-            Console.WriteLine("tkwkk");
-            Console.WriteLine("wqagn");
-            Console.WriteLine("tqkul");
-            Console.WriteLine("dtjja");
-            Console.WriteLine("sfipo");
-            Console.WriteLine("sigvy");
-            Console.WriteLine("dmpyh");
-            Console.WriteLine("fpukx");
-            Console.WriteLine("dnjhi");
-            Console.WriteLine("thepa");
-            Console.WriteLine("vhoud");
-            Console.WriteLine("rdnvt");
-            Console.WriteLine("qpyrg");
+            Console.WriteLine("feery");
         }
     }
 }
