@@ -26,21 +26,7 @@ namespace MockCode
             Console.WriteLine("ylgjh");
             Console.WriteLine("yfamb");
             Console.WriteLine("osvit");
-            Console.WriteLine("kvasn");
-            Console.WriteLine("trrbp");
-            Console.WriteLine("qigwq");
-            Console.WriteLine("xtqkb");
-            Console.WriteLine("pjwad");
-            Console.WriteLine("tsfao");
-            Console.WriteLine("iuhii");
-            Console.WriteLine("bsjhj");
-            Console.WriteLine("wfrae");
-            Console.WriteLine("rulxw");
-            Console.WriteLine("euycd");
-            Console.WriteLine("hqfhm");
-            Console.WriteLine("yoxqb");
-            Console.WriteLine("efogw");
-            Console.WriteLine("byuet");
+            Console.WriteLine("uspyt");
         }
     }
 }
