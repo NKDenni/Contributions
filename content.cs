@@ -40,21 +40,7 @@ namespace MockCode
             Console.WriteLine("hqfhm");
             Console.WriteLine("yoxqb");
             Console.WriteLine("efogw");
-            Console.WriteLine("ctjif");
-            Console.WriteLine("kalnx");
-            Console.WriteLine("aksjr");
-            Console.WriteLine("vreyp");
-            Console.WriteLine("lnffe");
-            Console.WriteLine("swapk");
-            Console.WriteLine("iasco");
-            Console.WriteLine("pvlsg");
-            Console.WriteLine("updtn");
-            Console.WriteLine("spvmf");
-            Console.WriteLine("yflht");
-            Console.WriteLine("uwngw");
-            Console.WriteLine("jyhxy");
-            Console.WriteLine("jbhvy");
-            Console.WriteLine("feery");
+            Console.WriteLine("byuet");
         }
     }
 }
