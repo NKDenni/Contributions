@@ -12,21 +12,7 @@ namespace MockCode
             Console.WriteLine("wivav");
             Console.WriteLine("tgbpf");
             Console.WriteLine("rtydi");
-            Console.WriteLine("vulxk");
-            Console.WriteLine("cirpo");
-            Console.WriteLine("pokjj");
-            Console.WriteLine("agyya");
-            Console.WriteLine("tvgsv");
-            Console.WriteLine("loipx");
-            Console.WriteLine("jtehw");
-            Console.WriteLine("yxxdu");
-            Console.WriteLine("eigwj");
-            Console.WriteLine("tdpvm");
-            Console.WriteLine("rcumv");
-            Console.WriteLine("ylgjh");
-            Console.WriteLine("yfamb");
-            Console.WriteLine("osvit");
-            Console.WriteLine("uspyt");
+            Console.WriteLine("hethm");
         }
     }
 }
