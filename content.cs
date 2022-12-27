@@ -28,21 +28,6 @@ namespace MockCode
             Console.WriteLine("ldhkt");
             Console.WriteLine("artos");
             Console.WriteLine("lnwed");
-            Console.WriteLine("efnot");
-            Console.WriteLine("splff");
-            Console.WriteLine("djnne");
-            Console.WriteLine("byxdu");
-            Console.WriteLine("ybbbg");
-            Console.WriteLine("vwifc");
-            Console.WriteLine("oiqhy");
-            Console.WriteLine("xyyno");
-            Console.WriteLine("luihn");
-            Console.WriteLine("rurps");
-            Console.WriteLine("tcwqa");
-            Console.WriteLine("udjcp");
-            Console.WriteLine("bygdr");
-            Console.WriteLine("kpayf");
-            Console.WriteLine("yqvbh");
         }
     }
 }
