@@ -17,7 +17,6 @@ namespace MockCode
             Console.WriteLine("crndv");
             Console.WriteLine("xjutd");
             Console.WriteLine("ammuw");
-            Console.WriteLine("ivhon");
         }
     }
 }
