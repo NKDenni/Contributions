@@ -52,16 +52,7 @@ namespace MockCode
             Console.WriteLine("gxeoo");
             Console.WriteLine("hxmgj");
             Console.WriteLine("dpmbs");
-            Console.WriteLine("ymsdf");
-            Console.WriteLine("mfmwg");
-            Console.WriteLine("yoecc");
-            Console.WriteLine("qewnh");
-            Console.WriteLine("drqbu");
-            Console.WriteLine("ygjxd");
-            Console.WriteLine("uwdjx");
-            Console.WriteLine("ydlva");
-            Console.WriteLine("ifxoe");
-            Console.WriteLine("hjqod");
+            Console.WriteLine("kxque");
         }
     }
 }
