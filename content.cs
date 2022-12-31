@@ -50,9 +50,9 @@ namespace MockCode
             Console.WriteLine("nghdn");
             Console.WriteLine("rjmvb");
             Console.WriteLine("gxeoo");
-            Console.WriteLine("hxmgj");
-            Console.WriteLine("dpmbs");
-            Console.WriteLine("kxque");
+            Console.WriteLine("wgafj");
+            Console.WriteLine("yxoew");
+            Console.WriteLine("gkxbq");
         }
     }
 }
