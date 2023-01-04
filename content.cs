@@ -60,8 +60,18 @@ namespace MockCode
             Console.WriteLine("oieue");
             Console.WriteLine("ikebm");
             Console.WriteLine("pdxwa");
-            Console.WriteLine("sqxgm");
-            Console.WriteLine("cneoa");
+            Console.WriteLine("lmgcf");
+            Console.WriteLine("cejye");
+            Console.WriteLine("mgxuy");
+            Console.WriteLine("vhfxr");
+            Console.WriteLine("iggxd");
+            Console.WriteLine("sxxos");
+            Console.WriteLine("bjhgk");
+            Console.WriteLine("anfqg");
+            Console.WriteLine("mhkrs");
+            Console.WriteLine("ecasm");
+            Console.WriteLine("fwrjx");
+            Console.WriteLine("lbxix");
         }
     }
 }
