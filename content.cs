@@ -73,7 +73,6 @@ namespace MockCode
             Console.WriteLine("kgpsd");
             Console.WriteLine("enkka");
             Console.WriteLine("mhdyk");
-            Console.WriteLine("pfkpr");
         }
     }
 }
