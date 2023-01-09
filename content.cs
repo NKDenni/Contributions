@@ -72,14 +72,6 @@ namespace MockCode
             Console.WriteLine("akvxc");
             Console.WriteLine("kgpsd");
             Console.WriteLine("enkka");
-            Console.WriteLine("mhdyk");
-            Console.WriteLine("pbjxp");
-            Console.WriteLine("jvshh");
-            Console.WriteLine("xbblf");
-            Console.WriteLine("omred");
-            Console.WriteLine("jpokw");
-            Console.WriteLine("uxkih");
-            Console.WriteLine("wbmie");
         }
     }
 }
