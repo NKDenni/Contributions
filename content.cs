@@ -80,10 +80,6 @@ namespace MockCode
             Console.WriteLine("jpokw");
             Console.WriteLine("uxkih");
             Console.WriteLine("wbmie");
-            Console.WriteLine("chdgp");
-            Console.WriteLine("axifm");
-            Console.WriteLine("loajd");
-            Console.WriteLine("mscxp");
         }
     }
 }
