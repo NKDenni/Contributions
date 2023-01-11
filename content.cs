@@ -113,8 +113,6 @@ namespace MockCode
             Console.WriteLine("rwiud");
             Console.WriteLine("bfslv");
             Console.WriteLine("vwnun");
-            Console.WriteLine("mgfuy");
-            Console.WriteLine("uuire");
         }
     }
 }
