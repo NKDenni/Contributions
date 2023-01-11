@@ -119,8 +119,9 @@ namespace MockCode
             Console.WriteLine("dhylx");
             Console.WriteLine("fdsto");
             Console.WriteLine("chkdq");
-            Console.WriteLine("thevt");
-            Console.WriteLine("srorq");
+            Console.WriteLine("bhnqp");
+            Console.WriteLine("oqjol");
+            Console.WriteLine("wkhhs");
         }
     }
 }
