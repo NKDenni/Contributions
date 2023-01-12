@@ -137,9 +137,9 @@ namespace MockCode
             Console.WriteLine("xfsqq");
             Console.WriteLine("qfdst");
             Console.WriteLine("iwgnd");
-            Console.WriteLine("rqwjb");
-            Console.WriteLine("puhlx");
-            Console.WriteLine("obygf");
+            Console.WriteLine("rieon");
+            Console.WriteLine("xklcd");
+            Console.WriteLine("hmwqr");
         }
     }
 }
