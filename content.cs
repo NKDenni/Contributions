@@ -151,9 +151,6 @@ namespace MockCode
             Console.WriteLine("bices");
             Console.WriteLine("vdbcn");
             Console.WriteLine("huerr");
-            Console.WriteLine("qwglm");
-            Console.WriteLine("geoqv");
-            Console.WriteLine("fmjxk");
         }
     }
 }
