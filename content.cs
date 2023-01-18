@@ -213,14 +213,6 @@ namespace MockCode
             Console.WriteLine("oaugc");
             Console.WriteLine("istjh");
             Console.WriteLine("kwesw");
-            Console.WriteLine("tukut");
-            Console.WriteLine("juigd");
-            Console.WriteLine("dmflc");
-            Console.WriteLine("xubmr");
-            Console.WriteLine("cwhnt");
-            Console.WriteLine("uacbm");
-            Console.WriteLine("ivpkk");
-            Console.WriteLine("vyvru");
         }
     }
 }
