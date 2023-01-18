@@ -168,21 +168,6 @@ namespace MockCode
             Console.WriteLine("evgra");
             Console.WriteLine("fiwam");
             Console.WriteLine("bmtpf");
-            Console.WriteLine("abjca");
-            Console.WriteLine("qatrx");
-            Console.WriteLine("dcakv");
-            Console.WriteLine("ikrbm");
-            Console.WriteLine("llmti");
-            Console.WriteLine("cohuj");
-            Console.WriteLine("kjsbm");
-            Console.WriteLine("cfegm");
-            Console.WriteLine("chthu");
-            Console.WriteLine("vauws");
-            Console.WriteLine("efigp");
-            Console.WriteLine("kumcq");
-            Console.WriteLine("smdfj");
-            Console.WriteLine("ecsej");
-            Console.WriteLine("bniwu");
         }
     }
 }
