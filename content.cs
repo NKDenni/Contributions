@@ -183,21 +183,6 @@ namespace MockCode
             Console.WriteLine("smdfj");
             Console.WriteLine("ecsej");
             Console.WriteLine("bniwu");
-            Console.WriteLine("hdefi");
-            Console.WriteLine("biqha");
-            Console.WriteLine("ciriy");
-            Console.WriteLine("vycsy");
-            Console.WriteLine("rdcpg");
-            Console.WriteLine("kosgr");
-            Console.WriteLine("otfax");
-            Console.WriteLine("jxsct");
-            Console.WriteLine("hkpps");
-            Console.WriteLine("ejfhu");
-            Console.WriteLine("axyue");
-            Console.WriteLine("visff");
-            Console.WriteLine("qobdv");
-            Console.WriteLine("nduqt");
-            Console.WriteLine("ydvgn");
         }
     }
 }
