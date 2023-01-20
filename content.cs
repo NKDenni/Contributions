@@ -165,14 +165,6 @@ namespace MockCode
             Console.WriteLine("jwhpl");
             Console.WriteLine("ipjdb");
             Console.WriteLine("cuicr");
-            Console.WriteLine("ocpmu");
-            Console.WriteLine("qmasa");
-            Console.WriteLine("kbxms");
-            Console.WriteLine("hmqtb");
-            Console.WriteLine("dlfiv");
-            Console.WriteLine("sheqo");
-            Console.WriteLine("jhiij");
-            Console.WriteLine("kdmsv");
         }
     }
 }
