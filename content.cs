@@ -228,21 +228,10 @@ namespace MockCode
             Console.WriteLine("fgdql");
             Console.WriteLine("xptnk");
             Console.WriteLine("csiob");
-            Console.WriteLine("aualr");
-            Console.WriteLine("omuro");
-            Console.WriteLine("wdvjk");
-            Console.WriteLine("arguy");
-            Console.WriteLine("dxasn");
-            Console.WriteLine("krogu");
-            Console.WriteLine("mhkbo");
-            Console.WriteLine("xrebg");
-            Console.WriteLine("jjnmg");
-            Console.WriteLine("pbksu");
-            Console.WriteLine("pmarw");
-            Console.WriteLine("thojn");
-            Console.WriteLine("fjnpl");
-            Console.WriteLine("opkci");
-            Console.WriteLine("utdif");
+            Console.WriteLine("ptiay");
+            Console.WriteLine("vtjcf");
+            Console.WriteLine("jqtyb");
+            Console.WriteLine("susff");
         }
     }
 }
