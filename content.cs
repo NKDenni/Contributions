@@ -222,43 +222,6 @@ namespace MockCode
             Console.WriteLine("engva");
             Console.WriteLine("wlhiy");
             Console.WriteLine("ouurk");
-            Console.WriteLine("hphdh");
-            Console.WriteLine("dbltd");
-            Console.WriteLine("bsicr");
-            Console.WriteLine("rfniq");
-            Console.WriteLine("cfuro");
-            Console.WriteLine("emyhc");
-            Console.WriteLine("unmdt");
-            Console.WriteLine("fdpra");
-            Console.WriteLine("mqcff");
-            Console.WriteLine("huqpa");
-            Console.WriteLine("hhfps");
-            Console.WriteLine("mdrnc");
-            Console.WriteLine("exymj");
-            Console.WriteLine("dwbdv");
-            Console.WriteLine("juknl");
-            Console.WriteLine("jphpy");
-            Console.WriteLine("eoivv");
-            Console.WriteLine("isuap");
-            Console.WriteLine("filqy");
-            Console.WriteLine("btyhw");
-            Console.WriteLine("fsqec");
-            Console.WriteLine("iufjv");
-            Console.WriteLine("ynarw");
-            Console.WriteLine("mnptp");
-            Console.WriteLine("djqfg");
-            Console.WriteLine("fwhax");
-            Console.WriteLine("molii");
-            Console.WriteLine("lbjmv");
-            Console.WriteLine("ufhlu");
-            Console.WriteLine("ukjlo");
-            Console.WriteLine("jwfov");
-            Console.WriteLine("igawf");
-            Console.WriteLine("poyia");
-            Console.WriteLine("duyfc");
-            Console.WriteLine("qwyaw");
-            Console.WriteLine("xqqqh");
-            Console.WriteLine("ttquc");
         }
     }
 }
