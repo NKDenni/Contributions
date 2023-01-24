@@ -217,21 +217,10 @@ namespace MockCode
             Console.WriteLine("xdseg");
             Console.WriteLine("yybpi");
             Console.WriteLine("xeqmj");
-            Console.WriteLine("jmnkd");
-            Console.WriteLine("ehlwp");
-            Console.WriteLine("tqfxk");
-            Console.WriteLine("pikiv");
-            Console.WriteLine("vmvyg");
-            Console.WriteLine("aeqcq");
-            Console.WriteLine("iaakg");
-            Console.WriteLine("gbica");
-            Console.WriteLine("fgdql");
-            Console.WriteLine("xptnk");
-            Console.WriteLine("csiob");
-            Console.WriteLine("ptiay");
-            Console.WriteLine("vtjcf");
-            Console.WriteLine("jqtyb");
-            Console.WriteLine("susff");
+            Console.WriteLine("arhbn");
+            Console.WriteLine("hfrwu");
+            Console.WriteLine("ibucb");
+            Console.WriteLine("owpxo");
         }
     }
 }
