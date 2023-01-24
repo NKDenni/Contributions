@@ -250,13 +250,10 @@ namespace MockCode
             Console.WriteLine("thahf");
             Console.WriteLine("bkvuk");
             Console.WriteLine("etywu");
-            Console.WriteLine("ljkpb");
-            Console.WriteLine("gbimq");
-            Console.WriteLine("yadml");
-            Console.WriteLine("adicv");
-            Console.WriteLine("cucwt");
-            Console.WriteLine("bflry");
-            Console.WriteLine("nugam");
+            Console.WriteLine("brywq");
+            Console.WriteLine("hqfmq");
+            Console.WriteLine("xsnid");
+            Console.WriteLine("dhvse");
         }
     }
 }
