@@ -239,21 +239,10 @@ namespace MockCode
             Console.WriteLine("jjnmg");
             Console.WriteLine("pbksu");
             Console.WriteLine("pmarw");
-            Console.WriteLine("umeam");
-            Console.WriteLine("rgngi");
-            Console.WriteLine("dhvrk");
-            Console.WriteLine("ygkla");
-            Console.WriteLine("cxcrh");
-            Console.WriteLine("bxljc");
-            Console.WriteLine("qjdbm");
-            Console.WriteLine("gmrfq");
-            Console.WriteLine("thahf");
-            Console.WriteLine("bkvuk");
-            Console.WriteLine("etywu");
-            Console.WriteLine("brywq");
-            Console.WriteLine("hqfmq");
-            Console.WriteLine("xsnid");
-            Console.WriteLine("dhvse");
+            Console.WriteLine("thojn");
+            Console.WriteLine("fjnpl");
+            Console.WriteLine("opkci");
+            Console.WriteLine("utdif");
         }
     }
 }
