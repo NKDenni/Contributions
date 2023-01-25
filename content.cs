@@ -250,13 +250,6 @@ namespace MockCode
             Console.WriteLine("spsgf");
             Console.WriteLine("jrvxx");
             Console.WriteLine("ebqoe");
-            Console.WriteLine("mutqm");
-            Console.WriteLine("kdgde");
-            Console.WriteLine("rflfb");
-            Console.WriteLine("qcyow");
-            Console.WriteLine("bbeqn");
-            Console.WriteLine("gmvlk");
-            Console.WriteLine("dxpyc");
         }
     }
 }
