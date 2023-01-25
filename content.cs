@@ -244,12 +244,6 @@ namespace MockCode
             Console.WriteLine("rajsp");
             Console.WriteLine("truaw");
             Console.WriteLine("aognw");
-            Console.WriteLine("nkdje");
-            Console.WriteLine("lijmy");
-            Console.WriteLine("lewgw");
-            Console.WriteLine("spsgf");
-            Console.WriteLine("jrvxx");
-            Console.WriteLine("ebqoe");
         }
     }
 }
