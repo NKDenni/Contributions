@@ -249,11 +249,6 @@ namespace MockCode
             Console.WriteLine("mtacs");
             Console.WriteLine("ejeep");
             Console.WriteLine("rrcbl");
-            Console.WriteLine("reilq");
-            Console.WriteLine("pdskv");
-            Console.WriteLine("himmm");
-            Console.WriteLine("kcuuy");
-            Console.WriteLine("xrcno");
         }
     }
 }
