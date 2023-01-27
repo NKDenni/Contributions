@@ -240,15 +240,6 @@ namespace MockCode
             Console.WriteLine("lrwwi");
             Console.WriteLine("fohvk");
             Console.WriteLine("gnruw");
-            Console.WriteLine("xtmbw");
-            Console.WriteLine("rajsp");
-            Console.WriteLine("truaw");
-            Console.WriteLine("qrmtv");
-            Console.WriteLine("josne");
-            Console.WriteLine("ptlbl");
-            Console.WriteLine("mtacs");
-            Console.WriteLine("ejeep");
-            Console.WriteLine("rrcbl");
         }
     }
 }
