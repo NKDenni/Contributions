@@ -300,21 +300,6 @@ namespace MockCode
             Console.WriteLine("knbgc");
             Console.WriteLine("kkipp");
             Console.WriteLine("hdxjt");
-            Console.WriteLine("ogqba");
-            Console.WriteLine("lfpya");
-            Console.WriteLine("bkeby");
-            Console.WriteLine("mknyp");
-            Console.WriteLine("lrdqs");
-            Console.WriteLine("jjqov");
-            Console.WriteLine("jbpcb");
-            Console.WriteLine("upuor");
-            Console.WriteLine("ygvjb");
-            Console.WriteLine("cxdvb");
-            Console.WriteLine("gltpb");
-            Console.WriteLine("twlls");
-            Console.WriteLine("uoowg");
-            Console.WriteLine("bmpja");
-            Console.WriteLine("ramiu");
         }
     }
 }
