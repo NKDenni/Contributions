@@ -282,8 +282,8 @@ namespace MockCode
             Console.WriteLine("sntqo");
             Console.WriteLine("rsqeb");
             Console.WriteLine("basxn");
-            Console.WriteLine("ncvtb");
-            Console.WriteLine("mkqaa");
+            Console.WriteLine("pkopy");
+            Console.WriteLine("ijhuu");
         }
     }
 }
