@@ -277,29 +277,13 @@ namespace MockCode
             Console.WriteLine("xgvuq");
             Console.WriteLine("etjdu");
             Console.WriteLine("jptsr");
-            Console.WriteLine("cflvp");
-            Console.WriteLine("fxnjl");
-            Console.WriteLine("khtfc");
-            Console.WriteLine("ywsei");
-            Console.WriteLine("lgwdg");
-            Console.WriteLine("kbnlo");
-            Console.WriteLine("vuaml");
-            Console.WriteLine("nchmu");
-            Console.WriteLine("wnbwe");
-            Console.WriteLine("nldol");
-            Console.WriteLine("vkrvy");
-            Console.WriteLine("btxnr");
-            Console.WriteLine("lrgsx");
-            Console.WriteLine("ljnwb");
-            Console.WriteLine("gfrhf");
-            Console.WriteLine("grmbt");
-            Console.WriteLine("dxuck");
-            Console.WriteLine("qeomx");
-            Console.WriteLine("ceytg");
-            Console.WriteLine("ccujg");
-            Console.WriteLine("knbgc");
-            Console.WriteLine("kkipp");
-            Console.WriteLine("hdxjt");
+            Console.WriteLine("ewsbp");
+            Console.WriteLine("hnfpf");
+            Console.WriteLine("enqaq");
+            Console.WriteLine("vrqta");
+            Console.WriteLine("qtfkj");
+            Console.WriteLine("gjmws");
+            Console.WriteLine("uyaab");
         }
     }
 }
