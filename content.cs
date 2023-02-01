@@ -281,10 +281,6 @@ namespace MockCode
             Console.WriteLine("hnfpf");
             Console.WriteLine("sntqo");
             Console.WriteLine("rsqeb");
-            Console.WriteLine("basxn");
-            Console.WriteLine("pkopy");
-            Console.WriteLine("ijhuu");
-            Console.WriteLine("kubvh");
         }
     }
 }
