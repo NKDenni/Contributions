@@ -281,18 +281,6 @@ namespace MockCode
             Console.WriteLine("hnfpf");
             Console.WriteLine("sntqo");
             Console.WriteLine("rsqeb");
-            Console.WriteLine("alnmf");
-            Console.WriteLine("lmglo");
-            Console.WriteLine("tawam");
-            Console.WriteLine("ssjqw");
-            Console.WriteLine("olnlf");
-            Console.WriteLine("adpqh");
-            Console.WriteLine("jtxrf");
-            Console.WriteLine("neoip");
-            Console.WriteLine("bqtak");
-            Console.WriteLine("ddctq");
-            Console.WriteLine("pgyyi");
-            Console.WriteLine("yogxm");
         }
     }
 }
