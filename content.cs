@@ -293,8 +293,6 @@ namespace MockCode
             Console.WriteLine("ddctq");
             Console.WriteLine("pgyyi");
             Console.WriteLine("yogxm");
-            Console.WriteLine("utqjq");
-            Console.WriteLine("lugiy");
         }
     }
 }
