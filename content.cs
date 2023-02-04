@@ -279,8 +279,8 @@ namespace MockCode
             Console.WriteLine("jptsr");
             Console.WriteLine("ewsbp");
             Console.WriteLine("jepst");
-            Console.WriteLine("kknog");
-            Console.WriteLine("sjecw");
+            Console.WriteLine("vojpi");
+            Console.WriteLine("udowa");
         }
     }
 }
