@@ -278,9 +278,9 @@ namespace MockCode
             Console.WriteLine("etjdu");
             Console.WriteLine("jptsr");
             Console.WriteLine("ewsbp");
-            Console.WriteLine("hnfpf");
-            Console.WriteLine("sntqo");
-            Console.WriteLine("rsqeb");
+            Console.WriteLine("jepst");
+            Console.WriteLine("kknog");
+            Console.WriteLine("nldfk");
         }
     }
 }
