@@ -318,8 +318,6 @@ namespace MockCode
             Console.WriteLine("xsmyq");
             Console.WriteLine("jdbol");
             Console.WriteLine("sfjsp");
-            Console.WriteLine("kamxa");
-            Console.WriteLine("cppme");
         }
     }
 }
