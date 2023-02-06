@@ -290,19 +290,6 @@ namespace MockCode
             Console.WriteLine("jibef");
             Console.WriteLine("ldloi");
             Console.WriteLine("xeoml");
-            Console.WriteLine("irrol");
-            Console.WriteLine("lhaer");
-            Console.WriteLine("yjvru");
-            Console.WriteLine("joowk");
-            Console.WriteLine("fkvsn");
-            Console.WriteLine("qomug");
-            Console.WriteLine("wksvj");
-            Console.WriteLine("fcfhc");
-            Console.WriteLine("dxked");
-            Console.WriteLine("ucxia");
-            Console.WriteLine("hktyx");
-            Console.WriteLine("rsmvs");
-            Console.WriteLine("rplyq");
         }
     }
 }
