@@ -320,6 +320,8 @@ namespace MockCode
             Console.WriteLine("uwtlr");
             Console.WriteLine("rctsq");
             Console.WriteLine("blixo");
+            Console.WriteLine("huyuw");
+            Console.WriteLine("prsho");
         }
     }
 }
