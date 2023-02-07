@@ -297,19 +297,6 @@ namespace MockCode
             Console.WriteLine("lrigt");
             Console.WriteLine("tnmlr");
             Console.WriteLine("nhaff");
-            Console.WriteLine("qvpta");
-            Console.WriteLine("georh");
-            Console.WriteLine("jqxbd");
-            Console.WriteLine("lorhn");
-            Console.WriteLine("ndssi");
-            Console.WriteLine("anatw");
-            Console.WriteLine("jmtgv");
-            Console.WriteLine("gvboa");
-            Console.WriteLine("jnvmj");
-            Console.WriteLine("jvknm");
-            Console.WriteLine("dijtd");
-            Console.WriteLine("skyxx");
-            Console.WriteLine("hlnff");
         }
     }
 }
