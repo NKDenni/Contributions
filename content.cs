@@ -310,18 +310,6 @@ namespace MockCode
             Console.WriteLine("dijtd");
             Console.WriteLine("skyxx");
             Console.WriteLine("hlnff");
-            Console.WriteLine("urgyl");
-            Console.WriteLine("klreu");
-            Console.WriteLine("fcbck");
-            Console.WriteLine("psxrk");
-            Console.WriteLine("jckql");
-            Console.WriteLine("qwhoy");
-            Console.WriteLine("oxucn");
-            Console.WriteLine("uwtlr");
-            Console.WriteLine("rctsq");
-            Console.WriteLine("blixo");
-            Console.WriteLine("huyuw");
-            Console.WriteLine("prsho");
         }
     }
 }
