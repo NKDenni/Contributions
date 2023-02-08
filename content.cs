@@ -298,8 +298,6 @@ namespace MockCode
             Console.WriteLine("tnmlr");
             Console.WriteLine("nhaff");
             Console.WriteLine("ymecq");
-            Console.WriteLine("dbniq");
-            Console.WriteLine("jqlcd");
         }
     }
 }
