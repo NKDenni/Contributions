@@ -306,20 +306,6 @@ namespace MockCode
             Console.WriteLine("qmkct");
             Console.WriteLine("pwgmm");
             Console.WriteLine("cscus");
-            Console.WriteLine("tqrsv");
-            Console.WriteLine("njrcp");
-            Console.WriteLine("shrsh");
-            Console.WriteLine("plyqi");
-            Console.WriteLine("aakyg");
-            Console.WriteLine("icssk");
-            Console.WriteLine("tikst");
-            Console.WriteLine("xyfeu");
-            Console.WriteLine("wbqbd");
-            Console.WriteLine("tipsk");
-            Console.WriteLine("qfldt");
-            Console.WriteLine("mqkav");
-            Console.WriteLine("vubjl");
-            Console.WriteLine("spvwh");
         }
     }
 }
