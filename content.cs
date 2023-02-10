@@ -320,8 +320,6 @@ namespace MockCode
             Console.WriteLine("mqkav");
             Console.WriteLine("vubjl");
             Console.WriteLine("spvwh");
-            Console.WriteLine("wvuid");
-            Console.WriteLine("qwvmi");
         }
     }
 }
