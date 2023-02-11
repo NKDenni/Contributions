@@ -304,8 +304,8 @@ namespace MockCode
             Console.WriteLine("jpklb");
             Console.WriteLine("orvsd");
             Console.WriteLine("qmkct");
-            Console.WriteLine("pwgmm");
-            Console.WriteLine("cscus");
+            Console.WriteLine("xprjw");
+            Console.WriteLine("qqwjq");
         }
     }
 }
