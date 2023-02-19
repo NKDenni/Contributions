@@ -310,7 +310,6 @@ namespace MockCode
             Console.WriteLine("wkite");
             Console.WriteLine("vwckb");
             Console.WriteLine("dmwhm");
-            Console.WriteLine("ydbyn");
         }
     }
 }
