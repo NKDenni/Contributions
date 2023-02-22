@@ -364,16 +364,6 @@ namespace MockCode
             Console.WriteLine("fqwdu");
             Console.WriteLine("cldwx");
             Console.WriteLine("ivxtl");
-            Console.WriteLine("qmfch");
-            Console.WriteLine("amfkm");
-            Console.WriteLine("hdhmr");
-            Console.WriteLine("snaon");
-            Console.WriteLine("gygvy");
-            Console.WriteLine("fthdi");
-            Console.WriteLine("wuupp");
-            Console.WriteLine("ihnek");
-            Console.WriteLine("ohdpt");
-            Console.WriteLine("cbvci");
         }
     }
 }
