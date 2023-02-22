@@ -314,11 +314,6 @@ namespace MockCode
             Console.WriteLine("qwsmq");
             Console.WriteLine("lcmgm");
             Console.WriteLine("eciha");
-            Console.WriteLine("exdws");
-            Console.WriteLine("mfubk");
-            Console.WriteLine("orwev");
-            Console.WriteLine("umnya");
-            Console.WriteLine("qtgrd");
         }
     }
 }
