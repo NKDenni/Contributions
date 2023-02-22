@@ -334,21 +334,6 @@ namespace MockCode
             Console.WriteLine("iiagi");
             Console.WriteLine("syvfy");
             Console.WriteLine("xfqlh");
-            Console.WriteLine("xamhj");
-            Console.WriteLine("doloo");
-            Console.WriteLine("qdjhg");
-            Console.WriteLine("txpes");
-            Console.WriteLine("sodfk");
-            Console.WriteLine("ryeod");
-            Console.WriteLine("tlrdn");
-            Console.WriteLine("kjtmi");
-            Console.WriteLine("dcway");
-            Console.WriteLine("lyjlf");
-            Console.WriteLine("hptss");
-            Console.WriteLine("ftpeh");
-            Console.WriteLine("axije");
-            Console.WriteLine("doqfa");
-            Console.WriteLine("fhvel");
         }
     }
 }
