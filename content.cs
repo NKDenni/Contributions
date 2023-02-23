@@ -304,16 +304,8 @@ namespace MockCode
             Console.WriteLine("jpklb");
             Console.WriteLine("orvsd");
             Console.WriteLine("qmkct");
-            Console.WriteLine("wemlv");
-            Console.WriteLine("kixgf");
-            Console.WriteLine("fwspp");
-            Console.WriteLine("wkite");
-            Console.WriteLine("vwckb");
-            Console.WriteLine("dmwhm");
-            Console.WriteLine("dlcuo");
-            Console.WriteLine("qwsmq");
-            Console.WriteLine("lcmgm");
-            Console.WriteLine("eciha");
+            Console.WriteLine("dpqis");
+            Console.WriteLine("thsgw");
         }
     }
 }
