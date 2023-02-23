@@ -305,7 +305,6 @@ namespace MockCode
             Console.WriteLine("orvsd");
             Console.WriteLine("qmkct");
             Console.WriteLine("dpqis");
-            Console.WriteLine("thsgw");
         }
     }
 }
