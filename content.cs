@@ -316,8 +316,6 @@ namespace MockCode
             Console.WriteLine("vbybq");
             Console.WriteLine("dhouu");
             Console.WriteLine("wvwng");
-            Console.WriteLine("qldsk");
-            Console.WriteLine("jplaa");
         }
     }
 }
