@@ -322,11 +322,6 @@ namespace MockCode
             Console.WriteLine("gacsg");
             Console.WriteLine("acvyu");
             Console.WriteLine("yucft");
-            Console.WriteLine("gtkgl");
-            Console.WriteLine("ppqwb");
-            Console.WriteLine("gjpux");
-            Console.WriteLine("cylxe");
-            Console.WriteLine("ojwuk");
         }
     }
 }
