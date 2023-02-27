@@ -328,8 +328,8 @@ namespace MockCode
             Console.WriteLine("irman");
             Console.WriteLine("axlkf");
             Console.WriteLine("ocnlx");
-            Console.WriteLine("ulvkj");
-            Console.WriteLine("qhkdj");
+            Console.WriteLine("veqln");
+            Console.WriteLine("iwyam");
         }
     }
 }
