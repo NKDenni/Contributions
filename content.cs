@@ -321,9 +321,6 @@ namespace MockCode
             Console.WriteLine("cqghq");
             Console.WriteLine("dxbjv");
             Console.WriteLine("xdyyq");
-            Console.WriteLine("rgonf");
-            Console.WriteLine("cdcnw");
-            Console.WriteLine("dduum");
         }
     }
 }
