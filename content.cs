@@ -294,40 +294,11 @@ namespace MockCode
             Console.WriteLine("ljrea");
             Console.WriteLine("brjsg");
             Console.WriteLine("gyqwl");
-            Console.WriteLine("tnhle");
-            Console.WriteLine("roagd");
-            Console.WriteLine("cbibr");
-            Console.WriteLine("hbusk");
-            Console.WriteLine("nmwkf");
-            Console.WriteLine("luwtk");
-            Console.WriteLine("ygmis");
-            Console.WriteLine("jpklb");
-            Console.WriteLine("orvsd");
-            Console.WriteLine("qmkct");
-            Console.WriteLine("qfukr");
-            Console.WriteLine("ayrec");
-            Console.WriteLine("chgwy");
-            Console.WriteLine("pvaly");
-            Console.WriteLine("hekmb");
-            Console.WriteLine("worgu");
-            Console.WriteLine("yiyjp");
-            Console.WriteLine("gnuku");
-            Console.WriteLine("rlopu");
-            Console.WriteLine("cffoi");
-            Console.WriteLine("dwnqv");
-            Console.WriteLine("xadhr");
-            Console.WriteLine("swnvv");
-            Console.WriteLine("pemwm");
-            Console.WriteLine("cqghq");
-            Console.WriteLine("dxbjv");
-            Console.WriteLine("xdyyq");
-            Console.WriteLine("bfwmv");
-            Console.WriteLine("ffwuy");
-            Console.WriteLine("kybdk");
-            Console.WriteLine("urhcx");
-            Console.WriteLine("kovxn");
-            Console.WriteLine("thwdi");
-            Console.WriteLine("xmlbf");
+            Console.WriteLine("gobiy");
+            Console.WriteLine("mpeer");
+            Console.WriteLine("mcvfv");
+            Console.WriteLine("vppux");
+            Console.WriteLine("bjioj");
         }
     }
 }
