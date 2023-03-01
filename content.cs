@@ -293,12 +293,6 @@ namespace MockCode
             Console.WriteLine("hbahw");
             Console.WriteLine("ljrea");
             Console.WriteLine("brjsg");
-            Console.WriteLine("gyqwl");
-            Console.WriteLine("gobiy");
-            Console.WriteLine("mpeer");
-            Console.WriteLine("mcvfv");
-            Console.WriteLine("vppux");
-            Console.WriteLine("bjioj");
         }
     }
 }
