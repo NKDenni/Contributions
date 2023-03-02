@@ -331,17 +331,6 @@ namespace MockCode
             Console.WriteLine("dlbhx");
             Console.WriteLine("uycov");
             Console.WriteLine("eyxxp");
-            Console.WriteLine("qnmtk");
-            Console.WriteLine("onrce");
-            Console.WriteLine("cyusn");
-            Console.WriteLine("vgoyy");
-            Console.WriteLine("cgtgb");
-            Console.WriteLine("iqcco");
-            Console.WriteLine("hymga");
-            Console.WriteLine("schle");
-            Console.WriteLine("ogdtu");
-            Console.WriteLine("lsfkp");
-            Console.WriteLine("nexrg");
         }
     }
 }
