@@ -304,14 +304,6 @@ namespace MockCode
             Console.WriteLine("bxlad");
             Console.WriteLine("bromy");
             Console.WriteLine("sfcbp");
-            Console.WriteLine("cjutn");
-            Console.WriteLine("raojh");
-            Console.WriteLine("nrrtc");
-            Console.WriteLine("rdcml");
-            Console.WriteLine("vtthh");
-            Console.WriteLine("ikmyl");
-            Console.WriteLine("chtdn");
-            Console.WriteLine("nxblc");
         }
     }
 }
