@@ -301,19 +301,6 @@ namespace MockCode
             Console.WriteLine("ebelu");
             Console.WriteLine("mymwy");
             Console.WriteLine("dfoxm");
-            Console.WriteLine("nbsbi");
-            Console.WriteLine("oelob");
-            Console.WriteLine("jguct");
-            Console.WriteLine("vwenk");
-            Console.WriteLine("cjpui");
-            Console.WriteLine("ewrgt");
-            Console.WriteLine("sypxf");
-            Console.WriteLine("sqyjt");
-            Console.WriteLine("nbyor");
-            Console.WriteLine("giwpt");
-            Console.WriteLine("sfncv");
-            Console.WriteLine("qaupg");
-            Console.WriteLine("cguba");
         }
     }
 }
