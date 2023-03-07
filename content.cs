@@ -255,9 +255,6 @@ namespace MockCode
             Console.WriteLine("ertmj");
             Console.WriteLine("btffg");
             Console.WriteLine("vtpdq");
-            Console.WriteLine("krrof");
-            Console.WriteLine("iejct");
-            Console.WriteLine("lwvqd");
         }
     }
 }
