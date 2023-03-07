@@ -258,21 +258,6 @@ namespace MockCode
             Console.WriteLine("krrof");
             Console.WriteLine("iejct");
             Console.WriteLine("lwvqd");
-            Console.WriteLine("hvhkp");
-            Console.WriteLine("mblmm");
-            Console.WriteLine("pdyeu");
-            Console.WriteLine("mpqrd");
-            Console.WriteLine("kgcxx");
-            Console.WriteLine("edyth");
-            Console.WriteLine("odsou");
-            Console.WriteLine("dsttr");
-            Console.WriteLine("fftgn");
-            Console.WriteLine("rifak");
-            Console.WriteLine("kwato");
-            Console.WriteLine("pwyip");
-            Console.WriteLine("lvadk");
-            Console.WriteLine("lukgb");
-            Console.WriteLine("bsopk");
         }
     }
 }
