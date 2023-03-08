@@ -244,19 +244,6 @@ namespace MockCode
             Console.WriteLine("khqlt");
             Console.WriteLine("ttrqq");
             Console.WriteLine("qwrkk");
-            Console.WriteLine("nvmhm");
-            Console.WriteLine("cvpyr");
-            Console.WriteLine("jdkyj");
-            Console.WriteLine("dbuvt");
-            Console.WriteLine("eedjm");
-            Console.WriteLine("wqvan");
-            Console.WriteLine("ieqwl");
-            Console.WriteLine("jtfso");
-            Console.WriteLine("ertmj");
-            Console.WriteLine("btffg");
-            Console.WriteLine("vtpdq");
-            Console.WriteLine("kwbda");
-            Console.WriteLine("atbyg");
         }
     }
 }
