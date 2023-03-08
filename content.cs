@@ -236,14 +236,6 @@ namespace MockCode
             Console.WriteLine("yomfb");
             Console.WriteLine("limgc");
             Console.WriteLine("tymkh");
-            Console.WriteLine("ehhhu");
-            Console.WriteLine("lrwwi");
-            Console.WriteLine("fohvk");
-            Console.WriteLine("gnruw");
-            Console.WriteLine("wvbci");
-            Console.WriteLine("khqlt");
-            Console.WriteLine("ttrqq");
-            Console.WriteLine("qwrkk");
         }
     }
 }
