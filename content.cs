@@ -181,9 +181,6 @@ namespace MockCode
             Console.WriteLine("cyduw");
             Console.WriteLine("vcurk");
             Console.WriteLine("ttsyk");
-            Console.WriteLine("mkqry");
-            Console.WriteLine("vyotp");
-            Console.WriteLine("lqugp");
         }
     }
 }
