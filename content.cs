@@ -189,17 +189,6 @@ namespace MockCode
             Console.WriteLine("kayqk");
             Console.WriteLine("acccd");
             Console.WriteLine("ymhgq");
-            Console.WriteLine("luyat");
-            Console.WriteLine("akcvf");
-            Console.WriteLine("koqbe");
-            Console.WriteLine("diawf");
-            Console.WriteLine("dlxlq");
-            Console.WriteLine("yrlir");
-            Console.WriteLine("hfvmk");
-            Console.WriteLine("dycav");
-            Console.WriteLine("cvxdh");
-            Console.WriteLine("alurg");
-            Console.WriteLine("ybvsg");
         }
     }
 }
