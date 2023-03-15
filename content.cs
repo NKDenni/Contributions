@@ -196,21 +196,6 @@ namespace MockCode
             Console.WriteLine("wyfxi");
             Console.WriteLine("nhhfj");
             Console.WriteLine("axpsh");
-            Console.WriteLine("ffyqy");
-            Console.WriteLine("civrf");
-            Console.WriteLine("ppyfl");
-            Console.WriteLine("onmnm");
-            Console.WriteLine("sdfbc");
-            Console.WriteLine("ymfcm");
-            Console.WriteLine("aspwj");
-            Console.WriteLine("ojbqc");
-            Console.WriteLine("hprje");
-            Console.WriteLine("duxkh");
-            Console.WriteLine("bmibj");
-            Console.WriteLine("dfgml");
-            Console.WriteLine("oisrk");
-            Console.WriteLine("lmpmh");
-            Console.WriteLine("ccslr");
         }
     }
 }
