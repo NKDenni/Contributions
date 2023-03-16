@@ -207,15 +207,6 @@ namespace MockCode
             Console.WriteLine("cdfnr");
             Console.WriteLine("fijbv");
             Console.WriteLine("qveaw");
-            Console.WriteLine("pkyja");
-            Console.WriteLine("dcqly");
-            Console.WriteLine("wadon");
-            Console.WriteLine("eksfk");
-            Console.WriteLine("hbupk");
-            Console.WriteLine("afomy");
-            Console.WriteLine("nipft");
-            Console.WriteLine("tlplr");
-            Console.WriteLine("xglys");
         }
     }
 }
