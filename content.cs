@@ -202,7 +202,30 @@ namespace MockCode
             Console.WriteLine("lhkqr");
             Console.WriteLine("phgup");
             Console.WriteLine("rqfbr");
-            Console.WriteLine("rsqht");
+            Console.WriteLine("hqekn");
+            Console.WriteLine("ltxmg");
+            Console.WriteLine("ximcn");
+            Console.WriteLine("rdwyf");
+            Console.WriteLine("ubhfd");
+            Console.WriteLine("vjtor");
+            Console.WriteLine("stxdy");
+            Console.WriteLine("kepol");
+            Console.WriteLine("tsuhj");
+            Console.WriteLine("pquyk");
+            Console.WriteLine("ileka");
+            Console.WriteLine("cdtke");
+            Console.WriteLine("cvrxb");
+            Console.WriteLine("bmlmy");
+            Console.WriteLine("ydkod");
+            Console.WriteLine("cdavc");
+            Console.WriteLine("dqclb");
+            Console.WriteLine("lbrit");
+            Console.WriteLine("whntr");
+            Console.WriteLine("cgqjo");
+            Console.WriteLine("hbmus");
+            Console.WriteLine("aqdop");
+            Console.WriteLine("rseir");
+            Console.WriteLine("prbnk");
         }
     }
 }
