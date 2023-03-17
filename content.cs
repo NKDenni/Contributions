@@ -240,6 +240,9 @@ namespace MockCode
             Console.WriteLine("dssep");
             Console.WriteLine("qwdcl");
             Console.WriteLine("qgtoq");
+            Console.WriteLine("favki");
+            Console.WriteLine("vfexe");
+            Console.WriteLine("weols");
         }
     }
 }
