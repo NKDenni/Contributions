@@ -220,15 +220,6 @@ namespace MockCode
             Console.WriteLine("ieqnb");
             Console.WriteLine("eioti");
             Console.WriteLine("fxene");
-            Console.WriteLine("ydnew");
-            Console.WriteLine("ecvbk");
-            Console.WriteLine("bmpdo");
-            Console.WriteLine("jicvr");
-            Console.WriteLine("yumby");
-            Console.WriteLine("wdxcg");
-            Console.WriteLine("iirbn");
-            Console.WriteLine("ujiqg");
-            Console.WriteLine("jtgyh");
         }
     }
 }
