@@ -207,19 +207,6 @@ namespace MockCode
             Console.WriteLine("ximcn");
             Console.WriteLine("rdwyf");
             Console.WriteLine("ubhfd");
-            Console.WriteLine("vjtor");
-            Console.WriteLine("stxdy");
-            Console.WriteLine("kepol");
-            Console.WriteLine("tsuhj");
-            Console.WriteLine("pquyk");
-            Console.WriteLine("ileka");
-            Console.WriteLine("cdtke");
-            Console.WriteLine("cvrxb");
-            Console.WriteLine("bmlmy");
-            Console.WriteLine("kplxa");
-            Console.WriteLine("ieqnb");
-            Console.WriteLine("eioti");
-            Console.WriteLine("fxene");
         }
     }
 }
