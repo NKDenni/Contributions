@@ -205,8 +205,8 @@ namespace MockCode
             Console.WriteLine("hqekn");
             Console.WriteLine("ltxmg");
             Console.WriteLine("ximcn");
-            Console.WriteLine("rdwyf");
-            Console.WriteLine("gfqjn");
+            Console.WriteLine("lppbw");
+            Console.WriteLine("wffpt");
         }
     }
 }
