@@ -203,10 +203,7 @@ namespace MockCode
             Console.WriteLine("phgup");
             Console.WriteLine("rqfbr");
             Console.WriteLine("hqekn");
-            Console.WriteLine("ltxmg");
-            Console.WriteLine("ximcn");
-            Console.WriteLine("lppbw");
-            Console.WriteLine("wffpt");
+            Console.WriteLine("htjhd");
         }
     }
 }
