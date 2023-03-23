@@ -197,21 +197,6 @@ namespace MockCode
             Console.WriteLine("elbie");
             Console.WriteLine("cyyia");
             Console.WriteLine("absxl");
-            Console.WriteLine("uhnyh");
-            Console.WriteLine("xjfeu");
-            Console.WriteLine("raabu");
-            Console.WriteLine("akodu");
-            Console.WriteLine("atici");
-            Console.WriteLine("gjvqt");
-            Console.WriteLine("xfllu");
-            Console.WriteLine("edeoa");
-            Console.WriteLine("cocoj");
-            Console.WriteLine("mivrb");
-            Console.WriteLine("jmnhf");
-            Console.WriteLine("ghiuo");
-            Console.WriteLine("waihj");
-            Console.WriteLine("kjixq");
-            Console.WriteLine("lgjls");
         }
     }
 }
