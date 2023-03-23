@@ -227,21 +227,6 @@ namespace MockCode
             Console.WriteLine("sfbtj");
             Console.WriteLine("cyror");
             Console.WriteLine("twfjw");
-            Console.WriteLine("dvpyc");
-            Console.WriteLine("spwai");
-            Console.WriteLine("mmlkh");
-            Console.WriteLine("wivqy");
-            Console.WriteLine("pkwmh");
-            Console.WriteLine("ixgit");
-            Console.WriteLine("owmtv");
-            Console.WriteLine("erdeu");
-            Console.WriteLine("bimsf");
-            Console.WriteLine("wexaj");
-            Console.WriteLine("latbm");
-            Console.WriteLine("krqpd");
-            Console.WriteLine("lppnq");
-            Console.WriteLine("omusg");
-            Console.WriteLine("yltjx");
         }
     }
 }
