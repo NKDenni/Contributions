@@ -194,8 +194,8 @@ namespace MockCode
             Console.WriteLine("ihyej");
             Console.WriteLine("rvwbh");
             Console.WriteLine("kxxiq");
-            Console.WriteLine("elbie");
-            Console.WriteLine("cyyia");
+            Console.WriteLine("fmjib");
+            Console.WriteLine("alxyi");
         }
     }
 }
