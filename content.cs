@@ -196,7 +196,6 @@ namespace MockCode
             Console.WriteLine("kxxiq");
             Console.WriteLine("elbie");
             Console.WriteLine("cyyia");
-            Console.WriteLine("absxl");
         }
     }
 }
