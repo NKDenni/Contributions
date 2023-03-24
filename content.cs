@@ -191,16 +191,6 @@ namespace MockCode
             Console.WriteLine("jaenp");
             Console.WriteLine("cdden");
             Console.WriteLine("jcxym");
-            Console.WriteLine("ihyej");
-            Console.WriteLine("rvwbh");
-            Console.WriteLine("kxxiq");
-            Console.WriteLine("fmjib");
-            Console.WriteLine("alxyi");
-            Console.WriteLine("mtvdt");
-            Console.WriteLine("bwbix");
-            Console.WriteLine("fukly");
-            Console.WriteLine("vuuul");
-            Console.WriteLine("dbqvf");
         }
     }
 }
