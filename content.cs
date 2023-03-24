@@ -168,7 +168,6 @@ namespace MockCode
             Console.WriteLine("ooolj");
             Console.WriteLine("smlhj");
             Console.WriteLine("tqgyy");
-            Console.WriteLine("cmksd");
         }
     }
 }
