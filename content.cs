@@ -169,13 +169,6 @@ namespace MockCode
             Console.WriteLine("smlhj");
             Console.WriteLine("tqgyy");
             Console.WriteLine("cmksd");
-            Console.WriteLine("nqlbf");
-            Console.WriteLine("vsnhh");
-            Console.WriteLine("ysfue");
-            Console.WriteLine("uixbt");
-            Console.WriteLine("mpfvq");
-            Console.WriteLine("dbrqd");
-            Console.WriteLine("rjydr");
         }
     }
 }
