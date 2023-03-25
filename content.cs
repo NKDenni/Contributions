@@ -152,22 +152,14 @@ namespace MockCode
             Console.WriteLine("vdbcn");
             Console.WriteLine("jfiaq");
             Console.WriteLine("oqtxb");
-            Console.WriteLine("nenxm");
-            Console.WriteLine("kghrc");
-            Console.WriteLine("uiufw");
-            Console.WriteLine("ijjjn");
-            Console.WriteLine("bsxtf");
-            Console.WriteLine("hbwtu");
-            Console.WriteLine("veorm");
-            Console.WriteLine("omndb");
-            Console.WriteLine("pcyqh");
-            Console.WriteLine("xaghe");
-            Console.WriteLine("jwhpl");
-            Console.WriteLine("ipjdb");
-            Console.WriteLine("cuicr");
-            Console.WriteLine("ooolj");
-            Console.WriteLine("smlhj");
-            Console.WriteLine("tqgyy");
+            Console.WriteLine("lpksf");
+            Console.WriteLine("mlyeu");
+            Console.WriteLine("vrcow");
+            Console.WriteLine("yduwh");
+            Console.WriteLine("ffrvx");
+            Console.WriteLine("rmhgn");
+            Console.WriteLine("bahnk");
+            Console.WriteLine("jojnb");
         }
     }
 }
