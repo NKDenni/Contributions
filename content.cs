@@ -155,11 +155,6 @@ namespace MockCode
             Console.WriteLine("lpksf");
             Console.WriteLine("mlyeu");
             Console.WriteLine("vrcow");
-            Console.WriteLine("yduwh");
-            Console.WriteLine("ffrvx");
-            Console.WriteLine("rmhgn");
-            Console.WriteLine("bahnk");
-            Console.WriteLine("jojnb");
         }
     }
 }
