@@ -153,13 +153,6 @@ namespace MockCode
             Console.WriteLine("jfiaq");
             Console.WriteLine("oqtxb");
             Console.WriteLine("lpksf");
-            Console.WriteLine("mlyeu");
-            Console.WriteLine("vrcow");
-            Console.WriteLine("wffnw");
-            Console.WriteLine("awyjt");
-            Console.WriteLine("mrgur");
-            Console.WriteLine("esxmd");
-            Console.WriteLine("pdksk");
         }
     }
 }
