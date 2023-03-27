@@ -175,11 +175,6 @@ namespace MockCode
             Console.WriteLine("hqcrt");
             Console.WriteLine("tdvhi");
             Console.WriteLine("jgqhx");
-            Console.WriteLine("moboa");
-            Console.WriteLine("cqtgp");
-            Console.WriteLine("ircsr");
-            Console.WriteLine("yhthu");
-            Console.WriteLine("chilx");
         }
     }
 }
