@@ -190,21 +190,6 @@ namespace MockCode
             Console.WriteLine("ufaty");
             Console.WriteLine("dbyit");
             Console.WriteLine("cmnpf");
-            Console.WriteLine("nxknl");
-            Console.WriteLine("sqxch");
-            Console.WriteLine("dbspc");
-            Console.WriteLine("rfolj");
-            Console.WriteLine("ufvcg");
-            Console.WriteLine("jbiev");
-            Console.WriteLine("srhgo");
-            Console.WriteLine("olpuf");
-            Console.WriteLine("icpul");
-            Console.WriteLine("elqor");
-            Console.WriteLine("tqvvj");
-            Console.WriteLine("mjooc");
-            Console.WriteLine("wuvnh");
-            Console.WriteLine("mkfum");
-            Console.WriteLine("nxkag");
         }
     }
 }
