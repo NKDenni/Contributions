@@ -205,8 +205,6 @@ namespace MockCode
             Console.WriteLine("wuvnh");
             Console.WriteLine("mkfum");
             Console.WriteLine("nxkag");
-            Console.WriteLine("ntdek");
-            Console.WriteLine("afiah");
         }
     }
 }
