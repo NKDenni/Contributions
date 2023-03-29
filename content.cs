@@ -173,8 +173,6 @@ namespace MockCode
             Console.WriteLine("aijbo");
             Console.WriteLine("ocrgl");
             Console.WriteLine("vbrck");
-            Console.WriteLine("afiql");
-            Console.WriteLine("lejgv");
         }
     }
 }
