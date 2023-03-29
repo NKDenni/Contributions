@@ -175,21 +175,6 @@ namespace MockCode
             Console.WriteLine("vbrck");
             Console.WriteLine("afiql");
             Console.WriteLine("lejgv");
-            Console.WriteLine("uqhbk");
-            Console.WriteLine("vhcab");
-            Console.WriteLine("ieank");
-            Console.WriteLine("iwtux");
-            Console.WriteLine("yckxw");
-            Console.WriteLine("rogsl");
-            Console.WriteLine("xhnef");
-            Console.WriteLine("gkqvn");
-            Console.WriteLine("nqeqa");
-            Console.WriteLine("agjdw");
-            Console.WriteLine("jchnr");
-            Console.WriteLine("ypiws");
-            Console.WriteLine("ufaty");
-            Console.WriteLine("dbyit");
-            Console.WriteLine("cmnpf");
         }
     }
 }
