@@ -169,8 +169,6 @@ namespace MockCode
             Console.WriteLine("rmnkr");
             Console.WriteLine("jefvl");
             Console.WriteLine("fcwhg");
-            Console.WriteLine("nbsgu");
-            Console.WriteLine("nfqml");
         }
     }
 }
