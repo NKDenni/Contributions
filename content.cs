@@ -166,9 +166,6 @@ namespace MockCode
             Console.WriteLine("nyjcb");
             Console.WriteLine("uqgqm");
             Console.WriteLine("dfnfu");
-            Console.WriteLine("rmnkr");
-            Console.WriteLine("jefvl");
-            Console.WriteLine("fcwhg");
         }
     }
 }
