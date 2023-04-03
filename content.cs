@@ -241,6 +241,12 @@ namespace MockCode
             Console.WriteLine("yukcw");
             Console.WriteLine("mwnwm");
             Console.WriteLine("ocpja");
+            Console.WriteLine("uayon");
+            Console.WriteLine("ccxwa");
+            Console.WriteLine("hrdpr");
+            Console.WriteLine("yqxbs");
+            Console.WriteLine("gqoxc");
+            Console.WriteLine("hjlik");
         }
     }
 }
