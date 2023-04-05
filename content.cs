@@ -497,11 +497,6 @@ namespace MockCode
             Console.WriteLine("qmgmk");
             Console.WriteLine("fytcf");
             Console.WriteLine("tpyna");
-            Console.WriteLine("liawo");
-            Console.WriteLine("kflva");
-            Console.WriteLine("qamae");
-            Console.WriteLine("vnoki");
-            Console.WriteLine("hbeyj");
         }
     }
 }
