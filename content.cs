@@ -501,11 +501,6 @@ namespace MockCode
             Console.WriteLine("jpsfm");
             Console.WriteLine("fgifo");
             Console.WriteLine("jahmg");
-            Console.WriteLine("igfmn");
-            Console.WriteLine("hkmxl");
-            Console.WriteLine("xxdbm");
-            Console.WriteLine("okiot");
-            Console.WriteLine("kyadh");
         }
     }
 }
