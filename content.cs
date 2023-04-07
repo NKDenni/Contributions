@@ -495,12 +495,6 @@ namespace MockCode
             Console.WriteLine("irjjp");
             Console.WriteLine("kngas");
             Console.WriteLine("qmgmk");
-            Console.WriteLine("fytcf");
-            Console.WriteLine("tpyna");
-            Console.WriteLine("mqntg");
-            Console.WriteLine("jpsfm");
-            Console.WriteLine("fgifo");
-            Console.WriteLine("jahmg");
         }
     }
 }
