@@ -509,14 +509,6 @@ namespace MockCode
             Console.WriteLine("kfbse");
             Console.WriteLine("gygai");
             Console.WriteLine("cnoyn");
-            Console.WriteLine("xfegi");
-            Console.WriteLine("ogpgy");
-            Console.WriteLine("wnvtt");
-            Console.WriteLine("jpgej");
-            Console.WriteLine("kyxmt");
-            Console.WriteLine("hdfqc");
-            Console.WriteLine("kwpvg");
-            Console.WriteLine("cdncu");
         }
     }
 }
