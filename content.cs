@@ -493,22 +493,12 @@ namespace MockCode
             Console.WriteLine("yvlre");
             Console.WriteLine("ydgmi");
             Console.WriteLine("irjjp");
-            Console.WriteLine("kngas");
-            Console.WriteLine("qmgmk");
-            Console.WriteLine("jgglo");
-            Console.WriteLine("ydaat");
-            Console.WriteLine("pyajy");
-            Console.WriteLine("libmc");
-            Console.WriteLine("ctmjo");
-            Console.WriteLine("pciwg");
-            Console.WriteLine("jwbev");
-            Console.WriteLine("chood");
-            Console.WriteLine("fxcms");
-            Console.WriteLine("ubeln");
-            Console.WriteLine("escio");
-            Console.WriteLine("kfbse");
-            Console.WriteLine("gygai");
-            Console.WriteLine("cnoyn");
+            Console.WriteLine("wdubh");
+            Console.WriteLine("mqvwn");
+            Console.WriteLine("jwskd");
+            Console.WriteLine("fagnh");
+            Console.WriteLine("opjwv");
+            Console.WriteLine("pfwqu");
         }
     }
 }
