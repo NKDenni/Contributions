@@ -490,15 +490,6 @@ namespace MockCode
             Console.WriteLine("awjcu");
             Console.WriteLine("wkuwj");
             Console.WriteLine("rnofl");
-            Console.WriteLine("yvlre");
-            Console.WriteLine("ydgmi");
-            Console.WriteLine("irjjp");
-            Console.WriteLine("wdubh");
-            Console.WriteLine("mqvwn");
-            Console.WriteLine("jwskd");
-            Console.WriteLine("fagnh");
-            Console.WriteLine("opjwv");
-            Console.WriteLine("pfwqu");
         }
     }
 }
