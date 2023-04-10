@@ -488,8 +488,6 @@ namespace MockCode
             Console.WriteLine("rdotb");
             Console.WriteLine("yscsx");
             Console.WriteLine("awjcu");
-            Console.WriteLine("wkuwj");
-            Console.WriteLine("rnofl");
         }
     }
 }
