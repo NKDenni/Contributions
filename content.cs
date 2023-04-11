@@ -488,6 +488,12 @@ namespace MockCode
             Console.WriteLine("rdotb");
             Console.WriteLine("yscsx");
             Console.WriteLine("vfoll");
+            Console.WriteLine("iiofx");
+            Console.WriteLine("ajepy");
+            Console.WriteLine("qusgu");
+            Console.WriteLine("ldcbx");
+            Console.WriteLine("nygum");
+            Console.WriteLine("ojbtl");
         }
     }
 }
