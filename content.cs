@@ -474,10 +474,6 @@ namespace MockCode
             Console.WriteLine("trvwx");
             Console.WriteLine("esldn");
             Console.WriteLine("gaslj");
-            Console.WriteLine("gfadr");
-            Console.WriteLine("yxura");
-            Console.WriteLine("tsurn");
-            Console.WriteLine("hmrer");
         }
     }
 }
