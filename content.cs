@@ -478,17 +478,6 @@ namespace MockCode
             Console.WriteLine("yxura");
             Console.WriteLine("tsurn");
             Console.WriteLine("hmrer");
-            Console.WriteLine("hnnrj");
-            Console.WriteLine("xwfbe");
-            Console.WriteLine("oejdv");
-            Console.WriteLine("hcmlk");
-            Console.WriteLine("asexk");
-            Console.WriteLine("kdvbu");
-            Console.WriteLine("orvmu");
-            Console.WriteLine("rsoyw");
-            Console.WriteLine("fpwmh");
-            Console.WriteLine("dqcfp");
-            Console.WriteLine("vayxq");
         }
     }
 }
