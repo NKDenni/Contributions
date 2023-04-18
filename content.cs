@@ -477,11 +477,6 @@ namespace MockCode
             Console.WriteLine("idshn");
             Console.WriteLine("ufybe");
             Console.WriteLine("astqc");
-            Console.WriteLine("uxams");
-            Console.WriteLine("rrwkp");
-            Console.WriteLine("ekops");
-            Console.WriteLine("ophhn");
-            Console.WriteLine("dkpas");
         }
     }
 }
