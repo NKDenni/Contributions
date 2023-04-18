@@ -471,12 +471,6 @@ namespace MockCode
             Console.WriteLine("tdedi");
             Console.WriteLine("slcjl");
             Console.WriteLine("wcbin");
-            Console.WriteLine("trvwx");
-            Console.WriteLine("fydvd");
-            Console.WriteLine("smkkq");
-            Console.WriteLine("idshn");
-            Console.WriteLine("ufybe");
-            Console.WriteLine("astqc");
         }
     }
 }
