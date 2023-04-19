@@ -469,8 +469,9 @@ namespace MockCode
             Console.WriteLine("dsnok");
             Console.WriteLine("jfeou");
             Console.WriteLine("tdedi");
-            Console.WriteLine("slcjl");
-            Console.WriteLine("wcbin");
+            Console.WriteLine("ajvye");
+            Console.WriteLine("uasin");
+            Console.WriteLine("nlrcg");
         }
     }
 }
