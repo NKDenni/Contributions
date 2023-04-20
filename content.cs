@@ -476,6 +476,9 @@ namespace MockCode
             Console.WriteLine("hvaei");
             Console.WriteLine("mvhra");
             Console.WriteLine("jonpm");
+            Console.WriteLine("luslm");
+            Console.WriteLine("ldjip");
+            Console.WriteLine("cjpot");
         }
     }
 }
