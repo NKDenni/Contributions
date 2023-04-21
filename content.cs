@@ -543,8 +543,6 @@ namespace MockCode
             Console.WriteLine("rrgoj");
             Console.WriteLine("abtxp");
             Console.WriteLine("scoov");
-            Console.WriteLine("uufgg");
-            Console.WriteLine("qwdrr");
         }
     }
 }
