@@ -564,21 +564,6 @@ namespace MockCode
             Console.WriteLine("nrgix");
             Console.WriteLine("ytqsy");
             Console.WriteLine("dymwb");
-            Console.WriteLine("cuvny");
-            Console.WriteLine("mvbwk");
-            Console.WriteLine("yvwat");
-            Console.WriteLine("djkml");
-            Console.WriteLine("qjyqm");
-            Console.WriteLine("utgpv");
-            Console.WriteLine("itmyj");
-            Console.WriteLine("tlwuu");
-            Console.WriteLine("vcxqw");
-            Console.WriteLine("hhlpp");
-            Console.WriteLine("ivguo");
-            Console.WriteLine("fqjqj");
-            Console.WriteLine("xjtld");
-            Console.WriteLine("fianx");
-            Console.WriteLine("yufby");
         }
     }
 }
