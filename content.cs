@@ -579,12 +579,6 @@ namespace MockCode
             Console.WriteLine("xjtld");
             Console.WriteLine("fianx");
             Console.WriteLine("yufby");
-            Console.WriteLine("pmujg");
-            Console.WriteLine("jnfan");
-            Console.WriteLine("wwxtc");
-            Console.WriteLine("yxrev");
-            Console.WriteLine("gcjxj");
-            Console.WriteLine("spurm");
         }
     }
 }
