@@ -566,36 +566,6 @@ namespace MockCode
             Console.WriteLine("gukix");
             Console.WriteLine("tmkei");
             Console.WriteLine("bvevx");
-            Console.WriteLine("iiqtf");
-            Console.WriteLine("axewk");
-            Console.WriteLine("fplqr");
-            Console.WriteLine("waacj");
-            Console.WriteLine("evlau");
-            Console.WriteLine("tiutp");
-            Console.WriteLine("rdmrn");
-            Console.WriteLine("mryxd");
-            Console.WriteLine("dmbqx");
-            Console.WriteLine("pwgbx");
-            Console.WriteLine("wtylm");
-            Console.WriteLine("ioihi");
-            Console.WriteLine("ogrla");
-            Console.WriteLine("gmfkg");
-            Console.WriteLine("meouj");
-            Console.WriteLine("uceei");
-            Console.WriteLine("vwlfe");
-            Console.WriteLine("xaeib");
-            Console.WriteLine("xsjvo");
-            Console.WriteLine("dcjjf");
-            Console.WriteLine("umlwu");
-            Console.WriteLine("sdprq");
-            Console.WriteLine("ympas");
-            Console.WriteLine("gxlbl");
-            Console.WriteLine("nhcad");
-            Console.WriteLine("sfgye");
-            Console.WriteLine("ledpc");
-            Console.WriteLine("dbeyv");
-            Console.WriteLine("gqihu");
-            Console.WriteLine("svxeb");
         }
     }
 }
