@@ -549,8 +549,8 @@ namespace MockCode
             Console.WriteLine("ongjw");
             Console.WriteLine("jdanp");
             Console.WriteLine("isxbp");
-            Console.WriteLine("kincx");
-            Console.WriteLine("pnhms");
+            Console.WriteLine("kcnfp");
+            Console.WriteLine("agycw");
         }
     }
 }
