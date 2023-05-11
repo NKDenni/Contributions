@@ -555,8 +555,6 @@ namespace MockCode
             Console.WriteLine("ssqhy");
             Console.WriteLine("jbtnb");
             Console.WriteLine("dyajg");
-            Console.WriteLine("oexai");
-            Console.WriteLine("iofpk");
         }
     }
 }
