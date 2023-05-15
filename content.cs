@@ -674,10 +674,6 @@ namespace MockCode
             Console.WriteLine("ujihs");
             Console.WriteLine("wnyyu");
             Console.WriteLine("vsciu");
-            Console.WriteLine("gevty");
-            Console.WriteLine("csbvr");
-            Console.WriteLine("qfecj");
-            Console.WriteLine("lxsyw");
         }
     }
 }
