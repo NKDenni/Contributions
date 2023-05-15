@@ -678,8 +678,6 @@ namespace MockCode
             Console.WriteLine("csbvr");
             Console.WriteLine("qfecj");
             Console.WriteLine("lxsyw");
-            Console.WriteLine("sqjlr");
-            Console.WriteLine("jlkoi");
         }
     }
 }
