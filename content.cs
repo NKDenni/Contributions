@@ -705,14 +705,6 @@ namespace MockCode
             Console.WriteLine("stdrl");
             Console.WriteLine("imxcr");
             Console.WriteLine("sroxr");
-            Console.WriteLine("knrfp");
-            Console.WriteLine("jeuey");
-            Console.WriteLine("lpluo");
-            Console.WriteLine("edixb");
-            Console.WriteLine("cirmb");
-            Console.WriteLine("ckman");
-            Console.WriteLine("olqoe");
-            Console.WriteLine("wyftd");
         }
     }
 }
