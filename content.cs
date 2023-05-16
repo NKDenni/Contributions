@@ -713,10 +713,6 @@ namespace MockCode
             Console.WriteLine("ckman");
             Console.WriteLine("olqoe");
             Console.WriteLine("wyftd");
-            Console.WriteLine("avnfv");
-            Console.WriteLine("torjc");
-            Console.WriteLine("bnipq");
-            Console.WriteLine("amkem");
         }
     }
 }
