@@ -685,15 +685,6 @@ namespace MockCode
             Console.WriteLine("ukydh");
             Console.WriteLine("bmqff");
             Console.WriteLine("squxt");
-            Console.WriteLine("gtsjs");
-            Console.WriteLine("jwgwu");
-            Console.WriteLine("bhvux");
-            Console.WriteLine("yxxuu");
-            Console.WriteLine("xwilp");
-            Console.WriteLine("dssyj");
-            Console.WriteLine("fkgsb");
-            Console.WriteLine("yvkmk");
-            Console.WriteLine("sltql");
         }
     }
 }
