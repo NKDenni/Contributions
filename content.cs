@@ -694,21 +694,6 @@ namespace MockCode
             Console.WriteLine("fkgsb");
             Console.WriteLine("yvkmk");
             Console.WriteLine("sltql");
-            Console.WriteLine("egesn");
-            Console.WriteLine("lbmqi");
-            Console.WriteLine("xayhc");
-            Console.WriteLine("nvkjl");
-            Console.WriteLine("sicia");
-            Console.WriteLine("yoolx");
-            Console.WriteLine("lsbiv");
-            Console.WriteLine("ymjhn");
-            Console.WriteLine("stdrl");
-            Console.WriteLine("imxcr");
-            Console.WriteLine("sroxr");
-            Console.WriteLine("kgify");
-            Console.WriteLine("aovvn");
-            Console.WriteLine("bhyax");
-            Console.WriteLine("xumnl");
         }
     }
 }
