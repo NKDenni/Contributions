@@ -689,10 +689,6 @@ namespace MockCode
             Console.WriteLine("qcuqi");
             Console.WriteLine("bpyoo");
             Console.WriteLine("wouay");
-            Console.WriteLine("xshse");
-            Console.WriteLine("vxawl");
-            Console.WriteLine("kujvy");
-            Console.WriteLine("ajiua");
         }
     }
 }
