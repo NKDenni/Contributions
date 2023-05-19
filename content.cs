@@ -673,7 +673,6 @@ namespace MockCode
             Console.WriteLine("qtpsw");
             Console.WriteLine("ujihs");
             Console.WriteLine("wnyyu");
-            Console.WriteLine("vsciu");
         }
     }
 }
