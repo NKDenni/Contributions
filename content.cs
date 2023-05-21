@@ -706,21 +706,6 @@ namespace MockCode
             Console.WriteLine("ypbse");
             Console.WriteLine("jdijd");
             Console.WriteLine("ckkxs");
-            Console.WriteLine("hiudc");
-            Console.WriteLine("ognju");
-            Console.WriteLine("xlnux");
-            Console.WriteLine("ysgxn");
-            Console.WriteLine("jkdlq");
-            Console.WriteLine("hpggg");
-            Console.WriteLine("ahsxt");
-            Console.WriteLine("sjcvu");
-            Console.WriteLine("flgio");
-            Console.WriteLine("fudru");
-            Console.WriteLine("fthsr");
-            Console.WriteLine("qvogu");
-            Console.WriteLine("gcnwm");
-            Console.WriteLine("ecbyv");
-            Console.WriteLine("xsvtt");
         }
     }
 }
