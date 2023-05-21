@@ -721,11 +721,6 @@ namespace MockCode
             Console.WriteLine("gcnwm");
             Console.WriteLine("ecbyv");
             Console.WriteLine("xsvtt");
-            Console.WriteLine("mhkxy");
-            Console.WriteLine("pqrbm");
-            Console.WriteLine("gvidw");
-            Console.WriteLine("acyos");
-            Console.WriteLine("pqgqi");
         }
     }
 }
