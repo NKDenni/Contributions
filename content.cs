@@ -693,19 +693,6 @@ namespace MockCode
             Console.WriteLine("groym");
             Console.WriteLine("bvmvy");
             Console.WriteLine("qnvhx");
-            Console.WriteLine("ihkrs");
-            Console.WriteLine("tcgus");
-            Console.WriteLine("usxqr");
-            Console.WriteLine("garfp");
-            Console.WriteLine("ebdso");
-            Console.WriteLine("xplbx");
-            Console.WriteLine("vfgnj");
-            Console.WriteLine("socxr");
-            Console.WriteLine("saksp");
-            Console.WriteLine("haqlg");
-            Console.WriteLine("ypbse");
-            Console.WriteLine("jdijd");
-            Console.WriteLine("ckkxs");
         }
     }
 }
