@@ -682,8 +682,6 @@ namespace MockCode
             Console.WriteLine("jkpgs");
             Console.WriteLine("vkuvg");
             Console.WriteLine("ucpui");
-            Console.WriteLine("egave");
-            Console.WriteLine("xahiq");
         }
     }
 }
