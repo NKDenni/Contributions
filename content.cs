@@ -684,18 +684,6 @@ namespace MockCode
             Console.WriteLine("ucpui");
             Console.WriteLine("egave");
             Console.WriteLine("xahiq");
-            Console.WriteLine("asvpm");
-            Console.WriteLine("lbtgq");
-            Console.WriteLine("seigs");
-            Console.WriteLine("hdjtt");
-            Console.WriteLine("aaedd");
-            Console.WriteLine("ymyjw");
-            Console.WriteLine("groym");
-            Console.WriteLine("bvmvy");
-            Console.WriteLine("xlhvc");
-            Console.WriteLine("jkugw");
-            Console.WriteLine("fnlgw");
-            Console.WriteLine("idltg");
         }
     }
 }
