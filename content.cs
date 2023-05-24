@@ -691,8 +691,6 @@ namespace MockCode
             Console.WriteLine("crwvg");
             Console.WriteLine("mbycq");
             Console.WriteLine("riqsl");
-            Console.WriteLine("crmee");
-            Console.WriteLine("wrpwq");
         }
     }
 }
