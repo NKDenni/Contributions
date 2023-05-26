@@ -685,15 +685,6 @@ namespace MockCode
             Console.WriteLine("kelbi");
             Console.WriteLine("rcerg");
             Console.WriteLine("oukyj");
-            Console.WriteLine("foiet");
-            Console.WriteLine("mnpxc");
-            Console.WriteLine("ufvyq");
-            Console.WriteLine("crwvg");
-            Console.WriteLine("mbycq");
-            Console.WriteLine("riqsl");
-            Console.WriteLine("fdaia");
-            Console.WriteLine("tqyqh");
-            Console.WriteLine("mgtbj");
         }
     }
 }
