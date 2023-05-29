@@ -683,11 +683,6 @@ namespace MockCode
             Console.WriteLine("vkuvg");
             Console.WriteLine("uiwiq");
             Console.WriteLine("kjgyj");
-            Console.WriteLine("yynmm");
-            Console.WriteLine("lcstx");
-            Console.WriteLine("hiney");
-            Console.WriteLine("twhga");
-            Console.WriteLine("etgvp");
         }
     }
 }
