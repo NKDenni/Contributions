@@ -681,8 +681,8 @@ namespace MockCode
             Console.WriteLine("dlvjp");
             Console.WriteLine("jkpgs");
             Console.WriteLine("vkuvg");
-            Console.WriteLine("uiwiq");
-            Console.WriteLine("npanu");
+            Console.WriteLine("mrdcp");
+            Console.WriteLine("iuqmp");
         }
     }
 }
