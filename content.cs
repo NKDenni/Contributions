@@ -672,21 +672,6 @@ namespace MockCode
             Console.WriteLine("paqbw");
             Console.WriteLine("qtpsw");
             Console.WriteLine("booki");
-            Console.WriteLine("xscpb");
-            Console.WriteLine("pmccg");
-            Console.WriteLine("deebn");
-            Console.WriteLine("cmtvj");
-            Console.WriteLine("drscl");
-            Console.WriteLine("glrbe");
-            Console.WriteLine("aqsjj");
-            Console.WriteLine("nissg");
-            Console.WriteLine("qtxed");
-            Console.WriteLine("vmubn");
-            Console.WriteLine("nhrki");
-            Console.WriteLine("cusmg");
-            Console.WriteLine("ixfsq");
-            Console.WriteLine("rifej");
-            Console.WriteLine("fycss");
         }
     }
 }
