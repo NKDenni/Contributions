@@ -702,21 +702,6 @@ namespace MockCode
             Console.WriteLine("okpaf");
             Console.WriteLine("lblgo");
             Console.WriteLine("qqatd");
-            Console.WriteLine("yxvqq");
-            Console.WriteLine("puvgx");
-            Console.WriteLine("igrca");
-            Console.WriteLine("bweag");
-            Console.WriteLine("vycuk");
-            Console.WriteLine("tnkel");
-            Console.WriteLine("xwrqo");
-            Console.WriteLine("gfcda");
-            Console.WriteLine("eftkt");
-            Console.WriteLine("ekiue");
-            Console.WriteLine("ufsqi");
-            Console.WriteLine("seqwc");
-            Console.WriteLine("bvlpi");
-            Console.WriteLine("gupjd");
-            Console.WriteLine("abpbv");
         }
     }
 }
