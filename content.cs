@@ -687,21 +687,6 @@ namespace MockCode
             Console.WriteLine("ixfsq");
             Console.WriteLine("rifej");
             Console.WriteLine("fycss");
-            Console.WriteLine("svumu");
-            Console.WriteLine("qdtmo");
-            Console.WriteLine("ejhbh");
-            Console.WriteLine("wgjgn");
-            Console.WriteLine("trcyh");
-            Console.WriteLine("dmrvy");
-            Console.WriteLine("ulsba");
-            Console.WriteLine("txxbw");
-            Console.WriteLine("qehvk");
-            Console.WriteLine("tugqt");
-            Console.WriteLine("vitgp");
-            Console.WriteLine("gjpsf");
-            Console.WriteLine("okpaf");
-            Console.WriteLine("lblgo");
-            Console.WriteLine("qqatd");
         }
     }
 }
