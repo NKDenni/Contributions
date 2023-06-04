@@ -668,14 +668,6 @@ namespace MockCode
             Console.WriteLine("rvhih");
             Console.WriteLine("eptmy");
             Console.WriteLine("rjpgl");
-            Console.WriteLine("juxoh");
-            Console.WriteLine("paqbw");
-            Console.WriteLine("qtpsw");
-            Console.WriteLine("booki");
-            Console.WriteLine("ygtxh");
-            Console.WriteLine("xllbf");
-            Console.WriteLine("vxhdq");
-            Console.WriteLine("tawpq");
         }
     }
 }
