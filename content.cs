@@ -666,11 +666,6 @@ namespace MockCode
             Console.WriteLine("eomsr");
             Console.WriteLine("qucqn");
             Console.WriteLine("rvhih");
-            Console.WriteLine("eptmy");
-            Console.WriteLine("rjpgl");
-            Console.WriteLine("jtqwh");
-            Console.WriteLine("gipft");
-            Console.WriteLine("orfai");
         }
     }
 }
