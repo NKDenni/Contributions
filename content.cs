@@ -665,7 +665,12 @@ namespace MockCode
             Console.WriteLine("qyngp");
             Console.WriteLine("eomsr");
             Console.WriteLine("qucqn");
-            Console.WriteLine("fakgb");
+            Console.WriteLine("cqdqr");
+            Console.WriteLine("dehuf");
+            Console.WriteLine("avbpg");
+            Console.WriteLine("mwtqc");
+            Console.WriteLine("jsnbu");
+            Console.WriteLine("pguxo");
         }
     }
 }
