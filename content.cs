@@ -669,8 +669,8 @@ namespace MockCode
             Console.WriteLine("dehuf");
             Console.WriteLine("avbpg");
             Console.WriteLine("qmver");
-            Console.WriteLine("kkpjv");
-            Console.WriteLine("autju");
+            Console.WriteLine("qoige");
+            Console.WriteLine("ajhdc");
         }
     }
 }
