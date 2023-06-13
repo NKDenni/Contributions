@@ -673,8 +673,7 @@ namespace MockCode
             Console.WriteLine("ajhdc");
             Console.WriteLine("crasi");
             Console.WriteLine("xmbtm");
-            Console.WriteLine("ixhin");
-            Console.WriteLine("yrtkt");
+            Console.WriteLine("uoiub");
         }
     }
 }
