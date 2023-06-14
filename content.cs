@@ -700,8 +700,6 @@ namespace MockCode
             Console.WriteLine("nvnle");
             Console.WriteLine("bwngw");
             Console.WriteLine("eexjj");
-            Console.WriteLine("igxdx");
-            Console.WriteLine("ddslm");
         }
     }
 }
