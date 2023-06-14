@@ -732,8 +732,6 @@ namespace MockCode
             Console.WriteLine("cduxl");
             Console.WriteLine("wxrrb");
             Console.WriteLine("hwdot");
-            Console.WriteLine("nkgcr");
-            Console.WriteLine("fjkbs");
         }
     }
 }
