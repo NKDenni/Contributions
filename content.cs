@@ -712,8 +712,6 @@ namespace MockCode
             Console.WriteLine("ksocy");
             Console.WriteLine("sfptj");
             Console.WriteLine("bphlp");
-            Console.WriteLine("txhmw");
-            Console.WriteLine("kccfj");
         }
     }
 }
