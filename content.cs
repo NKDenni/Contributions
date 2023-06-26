@@ -708,12 +708,6 @@ namespace MockCode
             Console.WriteLine("pjgew");
             Console.WriteLine("jwexs");
             Console.WriteLine("grlol");
-            Console.WriteLine("wmvvm");
-            Console.WriteLine("sjjwi");
-            Console.WriteLine("cbqko");
-            Console.WriteLine("xudca");
-            Console.WriteLine("egmqb");
-            Console.WriteLine("upgso");
         }
     }
 }
