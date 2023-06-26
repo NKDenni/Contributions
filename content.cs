@@ -759,15 +759,6 @@ namespace MockCode
             Console.WriteLine("tswfr");
             Console.WriteLine("mjpna");
             Console.WriteLine("socgc");
-            Console.WriteLine("vxele");
-            Console.WriteLine("lbaru");
-            Console.WriteLine("labuf");
-            Console.WriteLine("wfdri");
-            Console.WriteLine("drmdj");
-            Console.WriteLine("nhajg");
-            Console.WriteLine("ejqdh");
-            Console.WriteLine("quxrn");
-            Console.WriteLine("ugljh");
         }
     }
 }
