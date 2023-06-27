@@ -712,9 +712,6 @@ namespace MockCode
             Console.WriteLine("tqbus");
             Console.WriteLine("ivbny");
             Console.WriteLine("cmasm");
-            Console.WriteLine("qqiiw");
-            Console.WriteLine("butyb");
-            Console.WriteLine("rvsfo");
         }
     }
 }
