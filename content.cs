@@ -715,10 +715,6 @@ namespace MockCode
             Console.WriteLine("qqiiw");
             Console.WriteLine("butyb");
             Console.WriteLine("rvsfo");
-            Console.WriteLine("oyfxv");
-            Console.WriteLine("wduor");
-            Console.WriteLine("uldgq");
-            Console.WriteLine("nfjub");
         }
     }
 }
