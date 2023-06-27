@@ -712,6 +712,14 @@ namespace MockCode
             Console.WriteLine("tqbus");
             Console.WriteLine("ivbny");
             Console.WriteLine("cmasm");
+            Console.WriteLine("cgpgr");
+            Console.WriteLine("embgq");
+            Console.WriteLine("ghyth");
+            Console.WriteLine("gbsoi");
+            Console.WriteLine("pkspl");
+            Console.WriteLine("sselc");
+            Console.WriteLine("vyakg");
+            Console.WriteLine("endpn");
         }
     }
 }
