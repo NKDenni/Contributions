@@ -686,16 +686,6 @@ namespace MockCode
             Console.WriteLine("inrrh");
             Console.WriteLine("fjfft");
             Console.WriteLine("brkxt");
-            Console.WriteLine("dpsih");
-            Console.WriteLine("yhrxk");
-            Console.WriteLine("cynfb");
-            Console.WriteLine("aeaki");
-            Console.WriteLine("yljcp");
-            Console.WriteLine("qbvaf");
-            Console.WriteLine("dagyk");
-            Console.WriteLine("otses");
-            Console.WriteLine("iypyw");
-            Console.WriteLine("gkxmo");
         }
     }
 }
