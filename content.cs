@@ -681,11 +681,6 @@ namespace MockCode
             Console.WriteLine("cmcgh");
             Console.WriteLine("ggvhx");
             Console.WriteLine("oqhwt");
-            Console.WriteLine("owxba");
-            Console.WriteLine("vihpu");
-            Console.WriteLine("inrrh");
-            Console.WriteLine("fjfft");
-            Console.WriteLine("brkxt");
         }
     }
 }
