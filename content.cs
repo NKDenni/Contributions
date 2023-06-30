@@ -632,12 +632,6 @@ namespace MockCode
             Console.WriteLine("bkexc");
             Console.WriteLine("eyurf");
             Console.WriteLine("jcoyq");
-            Console.WriteLine("gmpoq");
-            Console.WriteLine("mncsc");
-            Console.WriteLine("vnlba");
-            Console.WriteLine("pbadt");
-            Console.WriteLine("lqtei");
-            Console.WriteLine("rprkm");
         }
     }
 }
