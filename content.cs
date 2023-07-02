@@ -607,21 +607,6 @@ namespace MockCode
             Console.WriteLine("wseej");
             Console.WriteLine("vbnga");
             Console.WriteLine("xgnef");
-            Console.WriteLine("rxgsf");
-            Console.WriteLine("gbvpr");
-            Console.WriteLine("ewpnb");
-            Console.WriteLine("ysymj");
-            Console.WriteLine("rfwha");
-            Console.WriteLine("umdmo");
-            Console.WriteLine("mgrgx");
-            Console.WriteLine("imcxl");
-            Console.WriteLine("akthu");
-            Console.WriteLine("ufgqh");
-            Console.WriteLine("sqenu");
-            Console.WriteLine("mhqff");
-            Console.WriteLine("sbduw");
-            Console.WriteLine("qtolp");
-            Console.WriteLine("wxydd");
         }
     }
 }
