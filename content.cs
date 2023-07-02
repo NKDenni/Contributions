@@ -602,11 +602,6 @@ namespace MockCode
             Console.WriteLine("uwirn");
             Console.WriteLine("owmta");
             Console.WriteLine("bdhhb");
-            Console.WriteLine("slvgt");
-            Console.WriteLine("qgetm");
-            Console.WriteLine("wseej");
-            Console.WriteLine("vbnga");
-            Console.WriteLine("xgnef");
         }
     }
 }
