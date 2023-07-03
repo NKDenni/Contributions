@@ -611,12 +611,6 @@ namespace MockCode
             Console.WriteLine("buufu");
             Console.WriteLine("tkybx");
             Console.WriteLine("ujcff");
-            Console.WriteLine("piljr");
-            Console.WriteLine("duybg");
-            Console.WriteLine("nswks");
-            Console.WriteLine("pejyl");
-            Console.WriteLine("aerbs");
-            Console.WriteLine("ptniw");
         }
     }
 }
