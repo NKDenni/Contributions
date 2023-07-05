@@ -639,21 +639,6 @@ namespace MockCode
             Console.WriteLine("jxpyn");
             Console.WriteLine("eqgtp");
             Console.WriteLine("suipv");
-            Console.WriteLine("imobk");
-            Console.WriteLine("gjgif");
-            Console.WriteLine("jqyrh");
-            Console.WriteLine("gvabh");
-            Console.WriteLine("dspgl");
-            Console.WriteLine("cvpua");
-            Console.WriteLine("maqtw");
-            Console.WriteLine("sbvhn");
-            Console.WriteLine("ulwfj");
-            Console.WriteLine("eqgsc");
-            Console.WriteLine("gyqjl");
-            Console.WriteLine("eqxym");
-            Console.WriteLine("ydhdf");
-            Console.WriteLine("xiwfh");
-            Console.WriteLine("uslra");
         }
     }
 }
