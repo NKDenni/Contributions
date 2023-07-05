@@ -629,16 +629,6 @@ namespace MockCode
             Console.WriteLine("wrqgm");
             Console.WriteLine("hgebi");
             Console.WriteLine("rplum");
-            Console.WriteLine("sdyec");
-            Console.WriteLine("kecwv");
-            Console.WriteLine("qcjaj");
-            Console.WriteLine("dgnor");
-            Console.WriteLine("fyuvi");
-            Console.WriteLine("yccxi");
-            Console.WriteLine("gdivd");
-            Console.WriteLine("jxpyn");
-            Console.WriteLine("eqgtp");
-            Console.WriteLine("suipv");
         }
     }
 }
