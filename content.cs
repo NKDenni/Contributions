@@ -634,8 +634,6 @@ namespace MockCode
             Console.WriteLine("yosbg");
             Console.WriteLine("mhjuq");
             Console.WriteLine("ysqsg");
-            Console.WriteLine("rmqgn");
-            Console.WriteLine("abgae");
         }
     }
 }
