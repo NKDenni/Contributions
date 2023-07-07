@@ -647,16 +647,6 @@ namespace MockCode
             Console.WriteLine("ekjtr");
             Console.WriteLine("lshvr");
             Console.WriteLine("mvbrm");
-            Console.WriteLine("myisf");
-            Console.WriteLine("krooo");
-            Console.WriteLine("fcqib");
-            Console.WriteLine("uwyuo");
-            Console.WriteLine("bmwjg");
-            Console.WriteLine("jcitm");
-            Console.WriteLine("nsbnp");
-            Console.WriteLine("vbayg");
-            Console.WriteLine("glxth");
-            Console.WriteLine("dveyc");
         }
     }
 }
