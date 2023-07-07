@@ -668,6 +668,8 @@ namespace MockCode
             Console.WriteLine("dixfy");
             Console.WriteLine("uaari");
             Console.WriteLine("pnmrw");
+            Console.WriteLine("chyml");
+            Console.WriteLine("oooge");
         }
     }
 }
