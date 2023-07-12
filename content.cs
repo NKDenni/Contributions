@@ -652,7 +652,6 @@ namespace MockCode
             Console.WriteLine("juyoa");
             Console.WriteLine("kabkc");
             Console.WriteLine("jhwnt");
-            Console.WriteLine("yqumd");
         }
     }
 }
