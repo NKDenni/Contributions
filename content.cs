@@ -654,15 +654,6 @@ namespace MockCode
             Console.WriteLine("jhwnt");
             Console.WriteLine("kyffx");
             Console.WriteLine("ckbfe");
-            Console.WriteLine("abmmh");
-            Console.WriteLine("nnvic");
-            Console.WriteLine("msyrh");
-            Console.WriteLine("eqnwe");
-            Console.WriteLine("unfcb");
-            Console.WriteLine("yuvgs");
-            Console.WriteLine("eagwr");
-            Console.WriteLine("kfalk");
-            Console.WriteLine("ufkbn");
         }
     }
 }
