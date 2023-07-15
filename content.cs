@@ -606,6 +606,8 @@ namespace MockCode
             Console.WriteLine("imnvm");
             Console.WriteLine("fsyrq");
             Console.WriteLine("edeqt");
+            Console.WriteLine("pnmga");
+            Console.WriteLine("oorgg");
         }
     }
 }
