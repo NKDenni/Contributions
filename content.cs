@@ -608,6 +608,8 @@ namespace MockCode
             Console.WriteLine("dyctr");
             Console.WriteLine("nxsqh");
             Console.WriteLine("dhvkq");
+            Console.WriteLine("jlcrp");
+            Console.WriteLine("itvdc");
         }
     }
 }
