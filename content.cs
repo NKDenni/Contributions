@@ -605,11 +605,6 @@ namespace MockCode
             Console.WriteLine("nxeqn");
             Console.WriteLine("fnlrt");
             Console.WriteLine("nlgfs");
-            Console.WriteLine("dyctr");
-            Console.WriteLine("nxsqh");
-            Console.WriteLine("dhvkq");
-            Console.WriteLine("jlcrp");
-            Console.WriteLine("itvdc");
         }
     }
 }
