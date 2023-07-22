@@ -607,8 +607,6 @@ namespace MockCode
             Console.WriteLine("nlgfs");
             Console.WriteLine("wsgje");
             Console.WriteLine("nyxvg");
-            Console.WriteLine("jkkpu");
-            Console.WriteLine("gbhsx");
         }
     }
 }
