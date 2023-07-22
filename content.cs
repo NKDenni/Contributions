@@ -609,7 +609,6 @@ namespace MockCode
             Console.WriteLine("nyxvg");
             Console.WriteLine("jkkpu");
             Console.WriteLine("gbhsx");
-            Console.WriteLine("wnche");
         }
     }
 }
