@@ -627,21 +627,6 @@ namespace MockCode
             Console.WriteLine("pvcmr");
             Console.WriteLine("vyyfa");
             Console.WriteLine("dbsrp");
-            Console.WriteLine("isvdb");
-            Console.WriteLine("mweta");
-            Console.WriteLine("aasrm");
-            Console.WriteLine("jtsoq");
-            Console.WriteLine("vxkls");
-            Console.WriteLine("ycffg");
-            Console.WriteLine("hdtck");
-            Console.WriteLine("gblkc");
-            Console.WriteLine("xaeyv");
-            Console.WriteLine("hmcuk");
-            Console.WriteLine("binjf");
-            Console.WriteLine("hngqp");
-            Console.WriteLine("htpkv");
-            Console.WriteLine("htwxm");
-            Console.WriteLine("yapne");
         }
     }
 }
