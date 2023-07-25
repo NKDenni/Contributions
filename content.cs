@@ -642,11 +642,6 @@ namespace MockCode
             Console.WriteLine("htpkv");
             Console.WriteLine("htwxm");
             Console.WriteLine("yapne");
-            Console.WriteLine("kukwn");
-            Console.WriteLine("yfamb");
-            Console.WriteLine("voksw");
-            Console.WriteLine("ycfcy");
-            Console.WriteLine("wukww");
         }
     }
 }
