@@ -615,18 +615,6 @@ namespace MockCode
             Console.WriteLine("wbbjv");
             Console.WriteLine("egceq");
             Console.WriteLine("oqsox");
-            Console.WriteLine("dhpre");
-            Console.WriteLine("ujauw");
-            Console.WriteLine("wxcpv");
-            Console.WriteLine("kjdgv");
-            Console.WriteLine("kflie");
-            Console.WriteLine("onaej");
-            Console.WriteLine("skous");
-            Console.WriteLine("wmdhg");
-            Console.WriteLine("vpwgq");
-            Console.WriteLine("pvcmr");
-            Console.WriteLine("vyyfa");
-            Console.WriteLine("dbsrp");
         }
     }
 }
