@@ -616,11 +616,6 @@ namespace MockCode
             Console.WriteLine("egceq");
             Console.WriteLine("oqsox");
             Console.WriteLine("faqgv");
-            Console.WriteLine("pjmrb");
-            Console.WriteLine("pmwqd");
-            Console.WriteLine("famhk");
-            Console.WriteLine("cwerr");
-            Console.WriteLine("byumn");
         }
     }
 }
