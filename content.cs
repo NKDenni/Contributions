@@ -628,10 +628,6 @@ namespace MockCode
             Console.WriteLine("vvoxv");
             Console.WriteLine("ngsgb");
             Console.WriteLine("xpfdx");
-            Console.WriteLine("rvbvw");
-            Console.WriteLine("oijcx");
-            Console.WriteLine("ssfck");
-            Console.WriteLine("ujiyk");
         }
     }
 }
