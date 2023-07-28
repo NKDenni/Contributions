@@ -617,17 +617,6 @@ namespace MockCode
             Console.WriteLine("oqsox");
             Console.WriteLine("faqgv");
             Console.WriteLine("jfqpk");
-            Console.WriteLine("ukxkq");
-            Console.WriteLine("qwkao");
-            Console.WriteLine("ypccm");
-            Console.WriteLine("sphgn");
-            Console.WriteLine("pcqqy");
-            Console.WriteLine("prauj");
-            Console.WriteLine("suwsg");
-            Console.WriteLine("chbgv");
-            Console.WriteLine("jvjpk");
-            Console.WriteLine("qlghh");
-            Console.WriteLine("aliec");
         }
     }
 }
