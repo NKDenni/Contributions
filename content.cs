@@ -623,7 +623,6 @@ namespace MockCode
             Console.WriteLine("sphgn");
             Console.WriteLine("pcqqy");
             Console.WriteLine("prauj");
-            Console.WriteLine("bcjti");
         }
     }
 }
