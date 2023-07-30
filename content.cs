@@ -579,6 +579,8 @@ namespace MockCode
             Console.WriteLine("cuyia");
             Console.WriteLine("juaej");
             Console.WriteLine("uciri");
+            Console.WriteLine("dwleg");
+            Console.WriteLine("teyyd");
         }
     }
 }
