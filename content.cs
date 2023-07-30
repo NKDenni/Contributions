@@ -570,9 +570,6 @@ namespace MockCode
             Console.WriteLine("hfqxg");
             Console.WriteLine("upyex");
             Console.WriteLine("mkbou");
-            Console.WriteLine("vqvih");
-            Console.WriteLine("txcad");
-            Console.WriteLine("fcsfq");
         }
     }
 }
