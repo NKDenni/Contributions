@@ -573,14 +573,6 @@ namespace MockCode
             Console.WriteLine("vqvih");
             Console.WriteLine("txcad");
             Console.WriteLine("fcsfq");
-            Console.WriteLine("ejdnd");
-            Console.WriteLine("pjlqu");
-            Console.WriteLine("hbrxb");
-            Console.WriteLine("cuyia");
-            Console.WriteLine("juaej");
-            Console.WriteLine("uciri");
-            Console.WriteLine("dwleg");
-            Console.WriteLine("teyyd");
         }
     }
 }
