@@ -570,8 +570,7 @@ namespace MockCode
             Console.WriteLine("hfqxg");
             Console.WriteLine("upyex");
             Console.WriteLine("mkbou");
-            Console.WriteLine("kviyj");
-            Console.WriteLine("ptsbr");
+            Console.WriteLine("gbeta");
         }
     }
 }
