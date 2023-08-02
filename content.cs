@@ -551,21 +551,6 @@ namespace MockCode
             Console.WriteLine("isxbp");
             Console.WriteLine("kcnfp");
             Console.WriteLine("ugyhb");
-            Console.WriteLine("lyypm");
-            Console.WriteLine("ssqhy");
-            Console.WriteLine("jbtnb");
-            Console.WriteLine("dyajg");
-            Console.WriteLine("pqgiv");
-            Console.WriteLine("cjnbj");
-            Console.WriteLine("ywflh");
-            Console.WriteLine("grmvg");
-            Console.WriteLine("berqs");
-            Console.WriteLine("wptky");
-            Console.WriteLine("tweyr");
-            Console.WriteLine("jpqxv");
-            Console.WriteLine("irwof");
-            Console.WriteLine("ywqxj");
-            Console.WriteLine("nyhhg");
         }
     }
 }
