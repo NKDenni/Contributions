@@ -581,9 +581,6 @@ namespace MockCode
             Console.WriteLine("bqhmc");
             Console.WriteLine("autsb");
             Console.WriteLine("iegco");
-            Console.WriteLine("tbcvu");
-            Console.WriteLine("myqeq");
-            Console.WriteLine("mreaf");
         }
     }
 }
