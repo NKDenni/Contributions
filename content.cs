@@ -573,17 +573,6 @@ namespace MockCode
             Console.WriteLine("eqbtr");
             Console.WriteLine("dnpgy");
             Console.WriteLine("exmsr");
-            Console.WriteLine("jlxqb");
-            Console.WriteLine("bqfer");
-            Console.WriteLine("xgnqg");
-            Console.WriteLine("axjkd");
-            Console.WriteLine("qlkql");
-            Console.WriteLine("lyiee");
-            Console.WriteLine("yodoo");
-            Console.WriteLine("pwgov");
-            Console.WriteLine("cnqqy");
-            Console.WriteLine("totfd");
-            Console.WriteLine("crhab");
         }
     }
 }
