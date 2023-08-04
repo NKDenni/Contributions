@@ -561,8 +561,6 @@ namespace MockCode
             Console.WriteLine("xfeot");
             Console.WriteLine("bhphc");
             Console.WriteLine("tabbn");
-            Console.WriteLine("qmtmu");
-            Console.WriteLine("ddkxj");
         }
     }
 }
