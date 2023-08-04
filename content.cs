@@ -578,21 +578,6 @@ namespace MockCode
             Console.WriteLine("begnp");
             Console.WriteLine("gywyq");
             Console.WriteLine("pnude");
-            Console.WriteLine("mddyt");
-            Console.WriteLine("cuxpm");
-            Console.WriteLine("kawnh");
-            Console.WriteLine("tkwhr");
-            Console.WriteLine("ykuoq");
-            Console.WriteLine("aerps");
-            Console.WriteLine("oagtr");
-            Console.WriteLine("oaxik");
-            Console.WriteLine("rimvu");
-            Console.WriteLine("hvncw");
-            Console.WriteLine("vudtj");
-            Console.WriteLine("rxyyx");
-            Console.WriteLine("dpwwm");
-            Console.WriteLine("asfvi");
-            Console.WriteLine("ivodn");
         }
     }
 }
