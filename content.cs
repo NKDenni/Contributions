@@ -608,12 +608,6 @@ namespace MockCode
             Console.WriteLine("mcwps");
             Console.WriteLine("buvrc");
             Console.WriteLine("jdyee");
-            Console.WriteLine("pdkxc");
-            Console.WriteLine("uwlsc");
-            Console.WriteLine("nnxlh");
-            Console.WriteLine("emorh");
-            Console.WriteLine("nmwde");
-            Console.WriteLine("jmvit");
         }
     }
 }
