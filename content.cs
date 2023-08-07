@@ -568,16 +568,6 @@ namespace MockCode
             Console.WriteLine("svjas");
             Console.WriteLine("jljnh");
             Console.WriteLine("dkswx");
-            Console.WriteLine("hjgpk");
-            Console.WriteLine("lofds");
-            Console.WriteLine("ahtkr");
-            Console.WriteLine("vsxvo");
-            Console.WriteLine("mnhov");
-            Console.WriteLine("rhvak");
-            Console.WriteLine("vqngg");
-            Console.WriteLine("vncry");
-            Console.WriteLine("waurs");
-            Console.WriteLine("fpscb");
         }
     }
 }
