@@ -578,21 +578,6 @@ namespace MockCode
             Console.WriteLine("vncry");
             Console.WriteLine("waurs");
             Console.WriteLine("fpscb");
-            Console.WriteLine("tfgen");
-            Console.WriteLine("pnfyv");
-            Console.WriteLine("jsoud");
-            Console.WriteLine("pfrqe");
-            Console.WriteLine("jijml");
-            Console.WriteLine("tnoei");
-            Console.WriteLine("uwjdr");
-            Console.WriteLine("qbrfw");
-            Console.WriteLine("powtj");
-            Console.WriteLine("halre");
-            Console.WriteLine("spdwj");
-            Console.WriteLine("brikl");
-            Console.WriteLine("swamg");
-            Console.WriteLine("iashl");
-            Console.WriteLine("yneeq");
         }
     }
 }
