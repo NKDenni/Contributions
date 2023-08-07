@@ -593,21 +593,6 @@ namespace MockCode
             Console.WriteLine("swamg");
             Console.WriteLine("iashl");
             Console.WriteLine("yneeq");
-            Console.WriteLine("cnhve");
-            Console.WriteLine("fwtrl");
-            Console.WriteLine("ddhtn");
-            Console.WriteLine("uthqm");
-            Console.WriteLine("kgbag");
-            Console.WriteLine("icsno");
-            Console.WriteLine("rpqxm");
-            Console.WriteLine("dcwwv");
-            Console.WriteLine("dbngv");
-            Console.WriteLine("qxwyx");
-            Console.WriteLine("rlcob");
-            Console.WriteLine("wwpbx");
-            Console.WriteLine("ovdhd");
-            Console.WriteLine("lntof");
-            Console.WriteLine("detvi");
         }
     }
 }
