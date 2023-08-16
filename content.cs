@@ -609,21 +609,6 @@ namespace MockCode
             Console.WriteLine("dbuuy");
             Console.WriteLine("lcsfq");
             Console.WriteLine("uwtyu");
-            Console.WriteLine("gprte");
-            Console.WriteLine("vpxda");
-            Console.WriteLine("vkwdx");
-            Console.WriteLine("rkuvl");
-            Console.WriteLine("qbadh");
-            Console.WriteLine("uhiil");
-            Console.WriteLine("ckmti");
-            Console.WriteLine("kgkrg");
-            Console.WriteLine("phwgf");
-            Console.WriteLine("idxbu");
-            Console.WriteLine("ljxdk");
-            Console.WriteLine("hlyvl");
-            Console.WriteLine("xpgng");
-            Console.WriteLine("wmoyd");
-            Console.WriteLine("rvtje");
         }
     }
 }
