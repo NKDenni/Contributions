@@ -594,21 +594,6 @@ namespace MockCode
             Console.WriteLine("daopn");
             Console.WriteLine("hpspa");
             Console.WriteLine("krwnc");
-            Console.WriteLine("faegs");
-            Console.WriteLine("pcmnb");
-            Console.WriteLine("pdsdh");
-            Console.WriteLine("qtqyp");
-            Console.WriteLine("jaqxt");
-            Console.WriteLine("wkwrr");
-            Console.WriteLine("pmvxr");
-            Console.WriteLine("eaqen");
-            Console.WriteLine("hmvsj");
-            Console.WriteLine("siepc");
-            Console.WriteLine("jrtpc");
-            Console.WriteLine("klvbp");
-            Console.WriteLine("dbuuy");
-            Console.WriteLine("lcsfq");
-            Console.WriteLine("uwtyu");
         }
     }
 }
