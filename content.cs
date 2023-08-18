@@ -579,21 +579,6 @@ namespace MockCode
             Console.WriteLine("malim");
             Console.WriteLine("yikjr");
             Console.WriteLine("gnlaa");
-            Console.WriteLine("scvth");
-            Console.WriteLine("pdwtj");
-            Console.WriteLine("fkfds");
-            Console.WriteLine("xuquh");
-            Console.WriteLine("fmfkf");
-            Console.WriteLine("pweuc");
-            Console.WriteLine("odmgx");
-            Console.WriteLine("evaek");
-            Console.WriteLine("jojwo");
-            Console.WriteLine("agnnx");
-            Console.WriteLine("kahhy");
-            Console.WriteLine("gcrya");
-            Console.WriteLine("daopn");
-            Console.WriteLine("hpspa");
-            Console.WriteLine("krwnc");
         }
     }
 }
