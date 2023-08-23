@@ -615,9 +615,6 @@ namespace MockCode
             Console.WriteLine("pwpsu");
             Console.WriteLine("ktvek");
             Console.WriteLine("tsgcg");
-            Console.WriteLine("qgpyx");
-            Console.WriteLine("loqyi");
-            Console.WriteLine("xjdmt");
         }
     }
 }
