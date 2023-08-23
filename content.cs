@@ -573,18 +573,6 @@ namespace MockCode
             Console.WriteLine("ivqkg");
             Console.WriteLine("botek");
             Console.WriteLine("qkncm");
-            Console.WriteLine("dkktl");
-            Console.WriteLine("kxpen");
-            Console.WriteLine("grxap");
-            Console.WriteLine("nxlbk");
-            Console.WriteLine("vrvgr");
-            Console.WriteLine("qtkvj");
-            Console.WriteLine("kjaon");
-            Console.WriteLine("sjscc");
-            Console.WriteLine("wdpcr");
-            Console.WriteLine("gmqem");
-            Console.WriteLine("jgvyg");
-            Console.WriteLine("nndmr");
         }
     }
 }
