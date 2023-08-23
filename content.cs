@@ -600,21 +600,6 @@ namespace MockCode
             Console.WriteLine("gvjue");
             Console.WriteLine("dvvoh");
             Console.WriteLine("lucxa");
-            Console.WriteLine("svpsq");
-            Console.WriteLine("wwcyy");
-            Console.WriteLine("lgrcg");
-            Console.WriteLine("udkgg");
-            Console.WriteLine("hcbdj");
-            Console.WriteLine("ogtou");
-            Console.WriteLine("jfmuu");
-            Console.WriteLine("chnai");
-            Console.WriteLine("wqnei");
-            Console.WriteLine("kntid");
-            Console.WriteLine("ijmwu");
-            Console.WriteLine("riljb");
-            Console.WriteLine("pwpsu");
-            Console.WriteLine("ktvek");
-            Console.WriteLine("tsgcg");
         }
     }
 }
