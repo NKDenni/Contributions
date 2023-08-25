@@ -574,21 +574,6 @@ namespace MockCode
             Console.WriteLine("botek");
             Console.WriteLine("qkncm");
             Console.WriteLine("brepk");
-            Console.WriteLine("kbunt");
-            Console.WriteLine("tvonq");
-            Console.WriteLine("jlqvh");
-            Console.WriteLine("bqshs");
-            Console.WriteLine("dkhpe");
-            Console.WriteLine("wlxpn");
-            Console.WriteLine("ctwro");
-            Console.WriteLine("onblf");
-            Console.WriteLine("ddfcg");
-            Console.WriteLine("usrmj");
-            Console.WriteLine("lpqyb");
-            Console.WriteLine("oivvf");
-            Console.WriteLine("avxoo");
-            Console.WriteLine("kcsag");
-            Console.WriteLine("pqnrg");
         }
     }
 }
