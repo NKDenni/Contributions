@@ -576,6 +576,18 @@ namespace MockCode
             Console.WriteLine("brepk");
             Console.WriteLine("xpttp");
             Console.WriteLine("wtwba");
+            Console.WriteLine("eqiru");
+            Console.WriteLine("xrexr");
+            Console.WriteLine("euehw");
+            Console.WriteLine("qwbfi");
+            Console.WriteLine("wgide");
+            Console.WriteLine("kqrcd");
+            Console.WriteLine("tccmm");
+            Console.WriteLine("hponb");
+            Console.WriteLine("pafoe");
+            Console.WriteLine("dyhbx");
+            Console.WriteLine("ewmho");
+            Console.WriteLine("brect");
         }
     }
 }
