@@ -586,8 +586,6 @@ namespace MockCode
             Console.WriteLine("hponb");
             Console.WriteLine("pafoe");
             Console.WriteLine("dyhbx");
-            Console.WriteLine("ewmho");
-            Console.WriteLine("brect");
         }
     }
 }
