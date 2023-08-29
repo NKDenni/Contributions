@@ -585,6 +585,10 @@ namespace MockCode
             Console.WriteLine("vpdrr");
             Console.WriteLine("dcvol");
             Console.WriteLine("cebuc");
+            Console.WriteLine("vtnwn");
+            Console.WriteLine("bnpaj");
+            Console.WriteLine("rddme");
+            Console.WriteLine("orake");
         }
     }
 }
