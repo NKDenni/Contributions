@@ -541,21 +541,6 @@ namespace MockCode
             Console.WriteLine("pbgsn");
             Console.WriteLine("fmnts");
             Console.WriteLine("cmhdx");
-            Console.WriteLine("ttfft");
-            Console.WriteLine("btalc");
-            Console.WriteLine("lvdjk");
-            Console.WriteLine("ltnpf");
-            Console.WriteLine("qpusl");
-            Console.WriteLine("khvql");
-            Console.WriteLine("ybxmh");
-            Console.WriteLine("mwmyj");
-            Console.WriteLine("mjewf");
-            Console.WriteLine("lgsjn");
-            Console.WriteLine("jlycs");
-            Console.WriteLine("iklhx");
-            Console.WriteLine("vomck");
-            Console.WriteLine("pxkwy");
-            Console.WriteLine("denmw");
         }
     }
 }
