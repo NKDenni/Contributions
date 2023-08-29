@@ -571,21 +571,6 @@ namespace MockCode
             Console.WriteLine("suwer");
             Console.WriteLine("bimdc");
             Console.WriteLine("ivqkg");
-            Console.WriteLine("botek");
-            Console.WriteLine("qkncm");
-            Console.WriteLine("brepk");
-            Console.WriteLine("xpttp");
-            Console.WriteLine("wtwba");
-            Console.WriteLine("eqiru");
-            Console.WriteLine("xrexr");
-            Console.WriteLine("euehw");
-            Console.WriteLine("qwbfi");
-            Console.WriteLine("wgide");
-            Console.WriteLine("kqrcd");
-            Console.WriteLine("tccmm");
-            Console.WriteLine("hponb");
-            Console.WriteLine("pafoe");
-            Console.WriteLine("dyhbx");
         }
     }
 }
