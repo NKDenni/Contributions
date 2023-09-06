@@ -573,10 +573,6 @@ namespace MockCode
             Console.WriteLine("ygvvp");
             Console.WriteLine("fglpf");
             Console.WriteLine("xvjof");
-            Console.WriteLine("vwjwm");
-            Console.WriteLine("twnhi");
-            Console.WriteLine("dfnbx");
-            Console.WriteLine("owrys");
         }
     }
 }
