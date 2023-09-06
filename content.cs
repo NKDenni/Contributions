@@ -574,12 +574,6 @@ namespace MockCode
             Console.WriteLine("fglpf");
             Console.WriteLine("xvjof");
             Console.WriteLine("vwjwm");
-            Console.WriteLine("anifa");
-            Console.WriteLine("nwkcc");
-            Console.WriteLine("vyxpg");
-            Console.WriteLine("awepr");
-            Console.WriteLine("kwnfp");
-            Console.WriteLine("fyofc");
         }
     }
 }
