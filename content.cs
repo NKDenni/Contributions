@@ -586,15 +586,6 @@ namespace MockCode
             Console.WriteLine("tuibi");
             Console.WriteLine("arney");
             Console.WriteLine("quncq");
-            Console.WriteLine("nouec");
-            Console.WriteLine("ajqwh");
-            Console.WriteLine("bltrc");
-            Console.WriteLine("cknpc");
-            Console.WriteLine("jsuqk");
-            Console.WriteLine("yryui");
-            Console.WriteLine("qjkry");
-            Console.WriteLine("ffova");
-            Console.WriteLine("jyvxe");
         }
     }
 }
