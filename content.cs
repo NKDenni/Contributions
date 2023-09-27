@@ -561,11 +561,6 @@ namespace MockCode
             Console.WriteLine("mnwrk");
             Console.WriteLine("iarps");
             Console.WriteLine("mhxnq");
-            Console.WriteLine("maclo");
-            Console.WriteLine("xxtcw");
-            Console.WriteLine("ssaem");
-            Console.WriteLine("bnlfl");
-            Console.WriteLine("rjgci");
         }
     }
 }
