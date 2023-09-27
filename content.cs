@@ -567,16 +567,6 @@ namespace MockCode
             Console.WriteLine("bnlfl");
             Console.WriteLine("rjgci");
             Console.WriteLine("pnpsm");
-            Console.WriteLine("gfdhl");
-            Console.WriteLine("bnigw");
-            Console.WriteLine("uwbut");
-            Console.WriteLine("ygvvp");
-            Console.WriteLine("fglpf");
-            Console.WriteLine("vusxp");
-            Console.WriteLine("jlpak");
-            Console.WriteLine("msiyk");
-            Console.WriteLine("wdkjg");
-            Console.WriteLine("gxeas");
         }
     }
 }
