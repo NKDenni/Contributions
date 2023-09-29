@@ -557,10 +557,6 @@ namespace MockCode
             Console.WriteLine("bqgwa");
             Console.WriteLine("iyubg");
             Console.WriteLine("munin");
-            Console.WriteLine("xykom");
-            Console.WriteLine("mnwrk");
-            Console.WriteLine("iarps");
-            Console.WriteLine("mhxnq");
         }
     }
 }
