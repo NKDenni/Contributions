@@ -560,6 +560,8 @@ namespace MockCode
             Console.WriteLine("demjo");
             Console.WriteLine("xcobv");
             Console.WriteLine("mcuur");
+            Console.WriteLine("istpu");
+            Console.WriteLine("hahuy");
         }
     }
 }
