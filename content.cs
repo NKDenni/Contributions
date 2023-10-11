@@ -571,12 +571,6 @@ namespace MockCode
             Console.WriteLine("pdste");
             Console.WriteLine("qyfwa");
             Console.WriteLine("rqjmv");
-            Console.WriteLine("xqggh");
-            Console.WriteLine("olgwg");
-            Console.WriteLine("vwfdw");
-            Console.WriteLine("bbbwq");
-            Console.WriteLine("tlndg");
-            Console.WriteLine("iiono");
         }
     }
 }
