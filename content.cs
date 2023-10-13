@@ -566,10 +566,6 @@ namespace MockCode
             Console.WriteLine("xxrdk");
             Console.WriteLine("vhaan");
             Console.WriteLine("duhde");
-            Console.WriteLine("sgnqr");
-            Console.WriteLine("rmenu");
-            Console.WriteLine("pdste");
-            Console.WriteLine("rbrfv");
         }
     }
 }
