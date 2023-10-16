@@ -574,12 +574,6 @@ namespace MockCode
             Console.WriteLine("gevhj");
             Console.WriteLine("xuuta");
             Console.WriteLine("vdoqn");
-            Console.WriteLine("fpsma");
-            Console.WriteLine("bippa");
-            Console.WriteLine("idqbk");
-            Console.WriteLine("bywpv");
-            Console.WriteLine("mpdvr");
-            Console.WriteLine("idkby");
         }
     }
 }
