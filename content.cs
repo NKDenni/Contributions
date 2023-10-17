@@ -577,8 +577,6 @@ namespace MockCode
             Console.WriteLine("ujgyr");
             Console.WriteLine("tgbfr");
             Console.WriteLine("vjluo");
-            Console.WriteLine("hndrs");
-            Console.WriteLine("hvrag");
         }
     }
 }
