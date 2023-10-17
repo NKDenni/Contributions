@@ -575,8 +575,6 @@ namespace MockCode
             Console.WriteLine("xuuta");
             Console.WriteLine("ojxps");
             Console.WriteLine("ujgyr");
-            Console.WriteLine("poobt");
-            Console.WriteLine("mnngq");
         }
     }
 }
