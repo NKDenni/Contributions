@@ -623,18 +623,6 @@ namespace MockCode
             Console.WriteLine("pggiy");
             Console.WriteLine("bmkrn");
             Console.WriteLine("tcfyx");
-            Console.WriteLine("eojjl");
-            Console.WriteLine("aajrg");
-            Console.WriteLine("jahhr");
-            Console.WriteLine("ynega");
-            Console.WriteLine("fngfx");
-            Console.WriteLine("bqoja");
-            Console.WriteLine("pwyet");
-            Console.WriteLine("tdvtc");
-            Console.WriteLine("fbitn");
-            Console.WriteLine("ncech");
-            Console.WriteLine("sfxrl");
-            Console.WriteLine("egsmg");
         }
     }
 }
