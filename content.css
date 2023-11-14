@@ -242,10 +242,12 @@
   border-top-width: 63px;
   border-bottom-width: 35px;
   margin-bottom: 86px;
-  font-size: 42px;
-  margin-left: 46px;
-  border-left-width: 96px;
-  margin-left: 12px;
-  margin-left: 21px;
-  border-bottom-width: 23px;
+  line-height: 5px;
+  margin-bottom: 30px;
+  font-size: 66px;
+  border-left-width: 49px;
+  margin-top: 0px;
+  border-top-width: 25px;
+  padding-left: 19px;
+  border-left-width: 50px;
 }
