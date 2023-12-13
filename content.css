@@ -895,7 +895,6 @@
   border-bottom-width: 64px;
   border-bottom-width: 31px;
   border-top-width: 71px;
-  padding-top: 21px;
-  border-right-width: 32px;
-  border-bottom-width: 61px;
+  padding-right: 18px;
+  line-height: 20px;
 }
