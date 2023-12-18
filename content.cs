@@ -647,8 +647,8 @@ namespace MockCode
             Console.WriteLine("pteho");
             Console.WriteLine("qbuun");
             Console.WriteLine("dggwo");
-            Console.WriteLine("unfma");
-            Console.WriteLine("kqdan");
+            Console.WriteLine("axcyp");
+            Console.WriteLine("rhrvo");
         }
     }
 }
