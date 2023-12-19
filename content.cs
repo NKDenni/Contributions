@@ -649,8 +649,8 @@ namespace MockCode
             Console.WriteLine("dggwo");
             Console.WriteLine("axcyp");
             Console.WriteLine("aqtsc");
-            Console.WriteLine("jbyfb");
-            Console.WriteLine("tbywj");
+            Console.WriteLine("byobb");
+            Console.WriteLine("qlvtf");
         }
     }
 }
