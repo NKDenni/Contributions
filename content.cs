@@ -667,11 +667,6 @@ namespace MockCode
             Console.WriteLine("ywwoc");
             Console.WriteLine("vvghn");
             Console.WriteLine("agyih");
-            Console.WriteLine("dmnec");
-            Console.WriteLine("wavbs");
-            Console.WriteLine("kprgt");
-            Console.WriteLine("dlsjv");
-            Console.WriteLine("ndcfs");
         }
     }
 }
