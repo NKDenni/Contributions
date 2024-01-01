@@ -668,7 +668,6 @@ namespace MockCode
             Console.WriteLine("vvghn");
             Console.WriteLine("bcmpr");
             Console.WriteLine("ngtyi");
-            Console.WriteLine("jyrgs");
         }
     }
 }
