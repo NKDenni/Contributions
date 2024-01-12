@@ -672,9 +672,6 @@ namespace MockCode
             Console.WriteLine("ocfjy");
             Console.WriteLine("rpkvx");
             Console.WriteLine("lawgw");
-            Console.WriteLine("duulm");
-            Console.WriteLine("kfxyc");
-            Console.WriteLine("wojkg");
         }
     }
 }
