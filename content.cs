@@ -705,21 +705,6 @@ namespace MockCode
             Console.WriteLine("tmfcu");
             Console.WriteLine("dfmsn");
             Console.WriteLine("xdhfo");
-            Console.WriteLine("gqjdv");
-            Console.WriteLine("tvkhm");
-            Console.WriteLine("ncsrb");
-            Console.WriteLine("dlcfk");
-            Console.WriteLine("rasvp");
-            Console.WriteLine("vsjpw");
-            Console.WriteLine("nxkoa");
-            Console.WriteLine("wlnwd");
-            Console.WriteLine("hyfyy");
-            Console.WriteLine("rgsap");
-            Console.WriteLine("svgwp");
-            Console.WriteLine("rwjrd");
-            Console.WriteLine("cdwkk");
-            Console.WriteLine("tvwqe");
-            Console.WriteLine("ixtwi");
         }
     }
 }
