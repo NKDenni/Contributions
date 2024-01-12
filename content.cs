@@ -690,21 +690,6 @@ namespace MockCode
             Console.WriteLine("rdjkd");
             Console.WriteLine("qlnfb");
             Console.WriteLine("vodpk");
-            Console.WriteLine("olwkw");
-            Console.WriteLine("xtvcw");
-            Console.WriteLine("xrssd");
-            Console.WriteLine("xlnid");
-            Console.WriteLine("cylqt");
-            Console.WriteLine("esrbd");
-            Console.WriteLine("dgcpa");
-            Console.WriteLine("msqjm");
-            Console.WriteLine("kpcus");
-            Console.WriteLine("kbpga");
-            Console.WriteLine("wmkef");
-            Console.WriteLine("txprn");
-            Console.WriteLine("tmfcu");
-            Console.WriteLine("dfmsn");
-            Console.WriteLine("xdhfo");
         }
     }
 }
