@@ -694,16 +694,6 @@ namespace MockCode
             Console.WriteLine("vkoyt");
             Console.WriteLine("guttt");
             Console.WriteLine("ckflf");
-            Console.WriteLine("bwarn");
-            Console.WriteLine("nebbn");
-            Console.WriteLine("xscyw");
-            Console.WriteLine("menqf");
-            Console.WriteLine("qovva");
-            Console.WriteLine("wtbmj");
-            Console.WriteLine("uftqe");
-            Console.WriteLine("kdlte");
-            Console.WriteLine("aefwj");
-            Console.WriteLine("gpknw");
         }
     }
 }
