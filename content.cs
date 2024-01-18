@@ -682,21 +682,6 @@ namespace MockCode
             Console.WriteLine("qrxqi");
             Console.WriteLine("ivflk");
             Console.WriteLine("eapac");
-            Console.WriteLine("gjijc");
-            Console.WriteLine("ntmsh");
-            Console.WriteLine("eedww");
-            Console.WriteLine("ounhv");
-            Console.WriteLine("byfwh");
-            Console.WriteLine("qbkqw");
-            Console.WriteLine("syudv");
-            Console.WriteLine("hvehf");
-            Console.WriteLine("njvpc");
-            Console.WriteLine("sbsas");
-            Console.WriteLine("envig");
-            Console.WriteLine("fqyud");
-            Console.WriteLine("wxglh");
-            Console.WriteLine("xmchj");
-            Console.WriteLine("sqxdu");
         }
     }
 }
