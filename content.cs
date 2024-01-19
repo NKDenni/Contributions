@@ -727,21 +727,6 @@ namespace MockCode
             Console.WriteLine("veadj");
             Console.WriteLine("uiiqc");
             Console.WriteLine("pqfmu");
-            Console.WriteLine("kigrk");
-            Console.WriteLine("eiaih");
-            Console.WriteLine("pyuqo");
-            Console.WriteLine("vvbod");
-            Console.WriteLine("pyvob");
-            Console.WriteLine("osquw");
-            Console.WriteLine("kjrrh");
-            Console.WriteLine("ohnnh");
-            Console.WriteLine("wlieb");
-            Console.WriteLine("mxisy");
-            Console.WriteLine("kseeb");
-            Console.WriteLine("nvybw");
-            Console.WriteLine("fnpop");
-            Console.WriteLine("grfhw");
-            Console.WriteLine("gqqgd");
         }
     }
 }
