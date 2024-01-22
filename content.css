@@ -892,9 +892,11 @@
   border-top-width: 6px;
   margin-left: 69px;
   padding-right: 8px;
-  border-bottom-width: 64px;
-  border-bottom-width: 31px;
-  border-top-width: 71px;
-  padding-right: 18px;
-  line-height: 20px;
+  padding-left: 13px;
+  border-bottom-width: 33px;
+  padding-left: 82px;
+  border-left-width: 0px;
+  padding-right: 86px;
+  margin-top: 21px;
+  border-top-width: 0px;
 }
