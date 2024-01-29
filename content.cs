@@ -683,9 +683,6 @@ namespace MockCode
             Console.WriteLine("ivflk");
             Console.WriteLine("stbbh");
             Console.WriteLine("ixcfa");
-            Console.WriteLine("fkcea");
-            Console.WriteLine("uxlmv");
-            Console.WriteLine("nokkq");
         }
     }
 }
