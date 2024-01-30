@@ -680,14 +680,6 @@ namespace MockCode
             Console.WriteLine("uujcw");
             Console.WriteLine("rwmet");
             Console.WriteLine("qrxqi");
-            Console.WriteLine("ivflk");
-            Console.WriteLine("stbbh");
-            Console.WriteLine("ixcfa");
-            Console.WriteLine("bemse");
-            Console.WriteLine("crmdl");
-            Console.WriteLine("hujvv");
-            Console.WriteLine("envut");
-            Console.WriteLine("spyum");
         }
     }
 }
