@@ -682,7 +682,6 @@ namespace MockCode
             Console.WriteLine("ngylg");
             Console.WriteLine("jjrbp");
             Console.WriteLine("ecaba");
-            Console.WriteLine("dkjcq");
         }
     }
 }
