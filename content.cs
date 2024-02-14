@@ -678,7 +678,6 @@ namespace MockCode
             Console.WriteLine("mtdsw");
             Console.WriteLine("qgpts");
             Console.WriteLine("uujcw");
-            Console.WriteLine("rwmet");
         }
     }
 }
