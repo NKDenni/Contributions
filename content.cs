@@ -703,10 +703,6 @@ namespace MockCode
             Console.WriteLine("rnecy");
             Console.WriteLine("neiny");
             Console.WriteLine("ihpdn");
-            Console.WriteLine("cheqd");
-            Console.WriteLine("yiboo");
-            Console.WriteLine("dsxci");
-            Console.WriteLine("dqasu");
         }
     }
 }
