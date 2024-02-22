@@ -718,6 +718,11 @@ namespace MockCode
             Console.WriteLine("pkmdq");
             Console.WriteLine("nujjn");
             Console.WriteLine("prtxt");
+            Console.WriteLine("hkasn");
+            Console.WriteLine("rlifu");
+            Console.WriteLine("pubyt");
+            Console.WriteLine("wnsci");
+            Console.WriteLine("iloqj");
         }
     }
 }
