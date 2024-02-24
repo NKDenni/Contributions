@@ -716,11 +716,6 @@ namespace MockCode
             Console.WriteLine("jtwot");
             Console.WriteLine("sprom");
             Console.WriteLine("qmbjo");
-            Console.WriteLine("monxt");
-            Console.WriteLine("ibrnj");
-            Console.WriteLine("yehhe");
-            Console.WriteLine("gidta");
-            Console.WriteLine("dajhp");
         }
     }
 }
