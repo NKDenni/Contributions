@@ -715,10 +715,6 @@ namespace MockCode
             Console.WriteLine("byjye");
             Console.WriteLine("jtwot");
             Console.WriteLine("sprom");
-            Console.WriteLine("ukhfw");
-            Console.WriteLine("iadpc");
-            Console.WriteLine("abbhb");
-            Console.WriteLine("dejef");
         }
     }
 }
