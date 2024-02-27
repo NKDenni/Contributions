@@ -760,6 +760,11 @@ namespace MockCode
             Console.WriteLine("rlsym");
             Console.WriteLine("baxey");
             Console.WriteLine("mxocr");
+            Console.WriteLine("gtjsc");
+            Console.WriteLine("inmns");
+            Console.WriteLine("dfrec");
+            Console.WriteLine("aajxm");
+            Console.WriteLine("wppmx");
         }
     }
 }
