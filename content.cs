@@ -755,16 +755,6 @@ namespace MockCode
             Console.WriteLine("ptspw");
             Console.WriteLine("mbfqp");
             Console.WriteLine("ewjks");
-            Console.WriteLine("mfsim");
-            Console.WriteLine("hegxk");
-            Console.WriteLine("rlsym");
-            Console.WriteLine("baxey");
-            Console.WriteLine("mxocr");
-            Console.WriteLine("gtjsc");
-            Console.WriteLine("inmns");
-            Console.WriteLine("dfrec");
-            Console.WriteLine("aajxm");
-            Console.WriteLine("wppmx");
         }
     }
 }
