@@ -740,21 +740,6 @@ namespace MockCode
             Console.WriteLine("whysv");
             Console.WriteLine("bamao");
             Console.WriteLine("ihogl");
-            Console.WriteLine("kapmj");
-            Console.WriteLine("arndg");
-            Console.WriteLine("xdrkk");
-            Console.WriteLine("socyj");
-            Console.WriteLine("sodrw");
-            Console.WriteLine("mjinl");
-            Console.WriteLine("turfi");
-            Console.WriteLine("sjpay");
-            Console.WriteLine("ggxmd");
-            Console.WriteLine("juejh");
-            Console.WriteLine("qjhwn");
-            Console.WriteLine("qlved");
-            Console.WriteLine("ptspw");
-            Console.WriteLine("mbfqp");
-            Console.WriteLine("ewjks");
         }
     }
 }
