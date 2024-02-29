@@ -754,10 +754,6 @@ namespace MockCode
             Console.WriteLine("omvbh");
             Console.WriteLine("rmlqr");
             Console.WriteLine("dmijx");
-            Console.WriteLine("hnfdx");
-            Console.WriteLine("nmyne");
-            Console.WriteLine("xfusv");
-            Console.WriteLine("huvap");
         }
     }
 }
