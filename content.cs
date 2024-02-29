@@ -714,16 +714,6 @@ namespace MockCode
             Console.WriteLine("mixer");
             Console.WriteLine("byjye");
             Console.WriteLine("jtwot");
-            Console.WriteLine("sprom");
-            Console.WriteLine("txuax");
-            Console.WriteLine("vckmk");
-            Console.WriteLine("mtrno");
-            Console.WriteLine("ffpyp");
-            Console.WriteLine("hcslb");
-            Console.WriteLine("edgjb");
-            Console.WriteLine("qrpdm");
-            Console.WriteLine("piyfo");
-            Console.WriteLine("uquix");
         }
     }
 }
