@@ -715,7 +715,6 @@ namespace MockCode
             Console.WriteLine("amwiy");
             Console.WriteLine("usxsn");
             Console.WriteLine("phive");
-            Console.WriteLine("agjuu");
         }
     }
 }
