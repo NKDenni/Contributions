@@ -718,9 +718,6 @@ namespace MockCode
             Console.WriteLine("isfxt");
             Console.WriteLine("gceug");
             Console.WriteLine("mlqmr");
-            Console.WriteLine("sgirt");
-            Console.WriteLine("nbhko");
-            Console.WriteLine("ekmtf");
         }
     }
 }
