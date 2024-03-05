@@ -744,8 +744,6 @@ namespace MockCode
             Console.WriteLine("ivgia");
             Console.WriteLine("gytxc");
             Console.WriteLine("fhnsk");
-            Console.WriteLine("fhsyw");
-            Console.WriteLine("lcmqh");
         }
     }
 }
