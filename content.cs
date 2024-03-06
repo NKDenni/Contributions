@@ -727,8 +727,6 @@ namespace MockCode
             Console.WriteLine("sxxgq");
             Console.WriteLine("twxja");
             Console.WriteLine("vtaet");
-            Console.WriteLine("liban");
-            Console.WriteLine("bskwu");
         }
     }
 }
