@@ -766,9 +766,6 @@ namespace MockCode
             Console.WriteLine("vomch");
             Console.WriteLine("cfldn");
             Console.WriteLine("guqto");
-            Console.WriteLine("uwukj");
-            Console.WriteLine("vrpsm");
-            Console.WriteLine("rfqpy");
         }
     }
 }
