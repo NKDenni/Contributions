@@ -751,21 +751,6 @@ namespace MockCode
             Console.WriteLine("tgrwm");
             Console.WriteLine("hlnxx");
             Console.WriteLine("unvlf");
-            Console.WriteLine("owpuw");
-            Console.WriteLine("wfrhg");
-            Console.WriteLine("argwj");
-            Console.WriteLine("bhsxv");
-            Console.WriteLine("gdqwh");
-            Console.WriteLine("osfgu");
-            Console.WriteLine("hcnkl");
-            Console.WriteLine("xgrja");
-            Console.WriteLine("awxhr");
-            Console.WriteLine("pdbnu");
-            Console.WriteLine("rwpec");
-            Console.WriteLine("ndvai");
-            Console.WriteLine("vomch");
-            Console.WriteLine("cfldn");
-            Console.WriteLine("guqto");
         }
     }
 }
