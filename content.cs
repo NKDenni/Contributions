@@ -755,7 +755,6 @@ namespace MockCode
             Console.WriteLine("guurr");
             Console.WriteLine("dmmhg");
             Console.WriteLine("ikhbl");
-            Console.WriteLine("pivco");
         }
     }
 }
