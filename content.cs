@@ -828,10 +828,6 @@ namespace MockCode
             Console.WriteLine("vuvmb");
             Console.WriteLine("ymmhc");
             Console.WriteLine("gicfe");
-            Console.WriteLine("ekqsr");
-            Console.WriteLine("tkkav");
-            Console.WriteLine("jihyn");
-            Console.WriteLine("xmsnc");
         }
     }
 }
