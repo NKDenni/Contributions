@@ -838,7 +838,6 @@ namespace MockCode
             Console.WriteLine("aohaa");
             Console.WriteLine("bbycv");
             Console.WriteLine("xpjkx");
-            Console.WriteLine("tqdwh");
         }
     }
 }
