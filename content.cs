@@ -837,11 +837,6 @@ namespace MockCode
             Console.WriteLine("vfqyj");
             Console.WriteLine("aohaa");
             Console.WriteLine("bbycv");
-            Console.WriteLine("lnvci");
-            Console.WriteLine("fihyv");
-            Console.WriteLine("lfefp");
-            Console.WriteLine("yftcs");
-            Console.WriteLine("wmelt");
         }
     }
 }
