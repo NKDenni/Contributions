@@ -870,6 +870,8 @@ namespace MockCode
             Console.WriteLine("uigcw");
             Console.WriteLine("nqtnn");
             Console.WriteLine("jineg");
+            Console.WriteLine("orswp");
+            Console.WriteLine("nhpcw");
         }
     }
 }
