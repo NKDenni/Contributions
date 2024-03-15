@@ -889,7 +889,6 @@ namespace MockCode
             Console.WriteLine("fshbh");
             Console.WriteLine("ploiv");
             Console.WriteLine("ojxhc");
-            Console.WriteLine("cgnyg");
         }
     }
 }
