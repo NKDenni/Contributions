@@ -872,8 +872,6 @@ namespace MockCode
             Console.WriteLine("jineg");
             Console.WriteLine("orswp");
             Console.WriteLine("nhpcw");
-            Console.WriteLine("gldlp");
-            Console.WriteLine("qdqmw");
         }
     }
 }
