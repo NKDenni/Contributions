@@ -1054,16 +1054,6 @@ namespace MockCode
             Console.WriteLine("qxxup");
             Console.WriteLine("qphbp");
             Console.WriteLine("usdxt");
-            Console.WriteLine("vgpey");
-            Console.WriteLine("bqipp");
-            Console.WriteLine("jwlxm");
-            Console.WriteLine("xemvf");
-            Console.WriteLine("ywvpl");
-            Console.WriteLine("tywno");
-            Console.WriteLine("lmevt");
-            Console.WriteLine("gqpwy");
-            Console.WriteLine("bekju");
-            Console.WriteLine("hvvrc");
         }
     }
 }
