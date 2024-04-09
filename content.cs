@@ -1109,11 +1109,6 @@ namespace MockCode
             Console.WriteLine("wlbvc");
             Console.WriteLine("syuua");
             Console.WriteLine("mfxua");
-            Console.WriteLine("ixhxh");
-            Console.WriteLine("lxnek");
-            Console.WriteLine("bvkoi");
-            Console.WriteLine("dsxwk");
-            Console.WriteLine("tnjmf");
         }
     }
 }
