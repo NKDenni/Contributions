@@ -1054,6 +1054,10 @@ namespace MockCode
             Console.WriteLine("qxxup");
             Console.WriteLine("qphbp");
             Console.WriteLine("usdxt");
+            Console.WriteLine("hsolj");
+            Console.WriteLine("osfpk");
+            Console.WriteLine("vsgsn");
+            Console.WriteLine("dnynx");
         }
     }
 }
