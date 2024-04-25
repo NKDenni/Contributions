@@ -1064,9 +1064,6 @@ namespace MockCode
             Console.WriteLine("udmqy");
             Console.WriteLine("mcpgm");
             Console.WriteLine("jxtnr");
-            Console.WriteLine("hgraw");
-            Console.WriteLine("iesox");
-            Console.WriteLine("ognlf");
         }
     }
 }
