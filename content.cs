@@ -1221,16 +1221,6 @@ namespace MockCode
             Console.WriteLine("hydgo");
             Console.WriteLine("hjimt");
             Console.WriteLine("giotn");
-            Console.WriteLine("owten");
-            Console.WriteLine("vpdte");
-            Console.WriteLine("kfhna");
-            Console.WriteLine("tnxdi");
-            Console.WriteLine("qosex");
-            Console.WriteLine("pgnda");
-            Console.WriteLine("gkehn");
-            Console.WriteLine("lquqc");
-            Console.WriteLine("yptqa");
-            Console.WriteLine("hxuke");
         }
     }
 }
