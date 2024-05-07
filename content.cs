@@ -1176,21 +1176,6 @@ namespace MockCode
             Console.WriteLine("ruywt");
             Console.WriteLine("diuwp");
             Console.WriteLine("uginv");
-            Console.WriteLine("ashes");
-            Console.WriteLine("lgnmv");
-            Console.WriteLine("opjac");
-            Console.WriteLine("fyrwm");
-            Console.WriteLine("lgflg");
-            Console.WriteLine("bsufb");
-            Console.WriteLine("mdugu");
-            Console.WriteLine("sikra");
-            Console.WriteLine("fuyeb");
-            Console.WriteLine("ilpkl");
-            Console.WriteLine("agimr");
-            Console.WriteLine("jesbb");
-            Console.WriteLine("rtsuc");
-            Console.WriteLine("viiet");
-            Console.WriteLine("urmfi");
         }
     }
 }
