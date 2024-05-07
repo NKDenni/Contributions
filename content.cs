@@ -1171,11 +1171,6 @@ namespace MockCode
             Console.WriteLine("qbchj");
             Console.WriteLine("phpdt");
             Console.WriteLine("dagnj");
-            Console.WriteLine("qvyes");
-            Console.WriteLine("ifked");
-            Console.WriteLine("ruywt");
-            Console.WriteLine("diuwp");
-            Console.WriteLine("uginv");
         }
     }
 }
