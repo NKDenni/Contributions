@@ -1191,21 +1191,6 @@ namespace MockCode
             Console.WriteLine("rtsuc");
             Console.WriteLine("viiet");
             Console.WriteLine("urmfi");
-            Console.WriteLine("enrdl");
-            Console.WriteLine("abyyn");
-            Console.WriteLine("pgwiv");
-            Console.WriteLine("vrooy");
-            Console.WriteLine("kgqfa");
-            Console.WriteLine("rqwqt");
-            Console.WriteLine("yjchh");
-            Console.WriteLine("fyjku");
-            Console.WriteLine("kaygj");
-            Console.WriteLine("voxuc");
-            Console.WriteLine("yntyu");
-            Console.WriteLine("fthhy");
-            Console.WriteLine("vrwbs");
-            Console.WriteLine("mjqnl");
-            Console.WriteLine("cghso");
         }
     }
 }
