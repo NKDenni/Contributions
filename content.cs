@@ -1202,21 +1202,6 @@ namespace MockCode
             Console.WriteLine("oepsg");
             Console.WriteLine("vedhr");
             Console.WriteLine("tfqss");
-            Console.WriteLine("mocnj");
-            Console.WriteLine("snadn");
-            Console.WriteLine("urkwk");
-            Console.WriteLine("xvgue");
-            Console.WriteLine("bhste");
-            Console.WriteLine("dtkkg");
-            Console.WriteLine("dtcrm");
-            Console.WriteLine("ivsvm");
-            Console.WriteLine("ifbxh");
-            Console.WriteLine("rnblh");
-            Console.WriteLine("okbpf");
-            Console.WriteLine("ebxuq");
-            Console.WriteLine("rwlrw");
-            Console.WriteLine("xgifr");
-            Console.WriteLine("cdite");
         }
     }
 }
