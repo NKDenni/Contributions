@@ -1171,7 +1171,6 @@ namespace MockCode
             Console.WriteLine("qbchj");
             Console.WriteLine("phpdt");
             Console.WriteLine("dagnj");
-            Console.WriteLine("aancw");
         }
     }
 }
