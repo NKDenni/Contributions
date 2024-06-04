@@ -1171,14 +1171,6 @@ namespace MockCode
             Console.WriteLine("owrrb");
             Console.WriteLine("vtkbe");
             Console.WriteLine("jluav");
-            Console.WriteLine("jytur");
-            Console.WriteLine("snkqu");
-            Console.WriteLine("xoofy");
-            Console.WriteLine("sxbce");
-            Console.WriteLine("vssml");
-            Console.WriteLine("yexxh");
-            Console.WriteLine("qgjkf");
-            Console.WriteLine("dgseq");
         }
     }
 }
