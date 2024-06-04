@@ -1171,21 +1171,6 @@ namespace MockCode
             Console.WriteLine("qpliw");
             Console.WriteLine("lotsh");
             Console.WriteLine("rictf");
-            Console.WriteLine("ielel");
-            Console.WriteLine("hgeqb");
-            Console.WriteLine("wcmno");
-            Console.WriteLine("cjmji");
-            Console.WriteLine("hgvgb");
-            Console.WriteLine("gcmsl");
-            Console.WriteLine("jvwji");
-            Console.WriteLine("xwupf");
-            Console.WriteLine("ukfwa");
-            Console.WriteLine("ncqni");
-            Console.WriteLine("mutys");
-            Console.WriteLine("liise");
-            Console.WriteLine("asgwx");
-            Console.WriteLine("vepjr");
-            Console.WriteLine("wcqyl");
         }
     }
 }
