@@ -1173,12 +1173,6 @@ namespace MockCode
             Console.WriteLine("ootdj");
             Console.WriteLine("blqqn");
             Console.WriteLine("aybxb");
-            Console.WriteLine("fncrv");
-            Console.WriteLine("fnieo");
-            Console.WriteLine("iunmo");
-            Console.WriteLine("aousm");
-            Console.WriteLine("ddnea");
-            Console.WriteLine("jvwch");
         }
     }
 }
