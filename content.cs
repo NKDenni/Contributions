@@ -1179,8 +1179,6 @@ namespace MockCode
             Console.WriteLine("aousm");
             Console.WriteLine("ddnea");
             Console.WriteLine("jvwch");
-            Console.WriteLine("nlbub");
-            Console.WriteLine("ajsjj");
         }
     }
 }
