@@ -1131,16 +1131,6 @@ namespace MockCode
             Console.WriteLine("qhqbv");
             Console.WriteLine("imeva");
             Console.WriteLine("lnskk");
-            Console.WriteLine("rnthm");
-            Console.WriteLine("lgogu");
-            Console.WriteLine("lniyq");
-            Console.WriteLine("qwfkw");
-            Console.WriteLine("qfoui");
-            Console.WriteLine("clirw");
-            Console.WriteLine("rwpll");
-            Console.WriteLine("aecua");
-            Console.WriteLine("abkir");
-            Console.WriteLine("lhcca");
         }
     }
 }
