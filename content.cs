@@ -1186,7 +1186,6 @@ namespace MockCode
             Console.WriteLine("dviye");
             Console.WriteLine("xrbws");
             Console.WriteLine("pkswd");
-            Console.WriteLine("qlgaf");
         }
     }
 }
