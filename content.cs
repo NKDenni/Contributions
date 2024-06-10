@@ -1165,16 +1165,6 @@ namespace MockCode
             Console.WriteLine("cckxp");
             Console.WriteLine("onibr");
             Console.WriteLine("githg");
-            Console.WriteLine("darvj");
-            Console.WriteLine("nlwsa");
-            Console.WriteLine("cqbht");
-            Console.WriteLine("vrnee");
-            Console.WriteLine("wqgfp");
-            Console.WriteLine("cprtt");
-            Console.WriteLine("vjlhp");
-            Console.WriteLine("llshr");
-            Console.WriteLine("pdage");
-            Console.WriteLine("hdqts");
         }
     }
 }
