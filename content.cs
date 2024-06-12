@@ -1113,8 +1113,8 @@ namespace MockCode
             Console.WriteLine("rxlwi");
             Console.WriteLine("rypgq");
             Console.WriteLine("hvght");
-            Console.WriteLine("nlewu");
-            Console.WriteLine("wxbes");
+            Console.WriteLine("lfqnf");
+            Console.WriteLine("atvcu");
         }
     }
 }
