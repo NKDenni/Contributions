@@ -1117,7 +1117,6 @@ namespace MockCode
             Console.WriteLine("atvcu");
             Console.WriteLine("osomr");
             Console.WriteLine("irgek");
-            Console.WriteLine("duwps");
         }
     }
 }
