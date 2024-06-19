@@ -1114,8 +1114,6 @@ namespace MockCode
             Console.WriteLine("rypgq");
             Console.WriteLine("hvght");
             Console.WriteLine("lfqnf");
-            Console.WriteLine("atvcu");
-            Console.WriteLine("mknrv");
         }
     }
 }
