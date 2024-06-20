@@ -1122,16 +1122,6 @@ namespace MockCode
             Console.WriteLine("vvtjr");
             Console.WriteLine("wpnjy");
             Console.WriteLine("qokil");
-            Console.WriteLine("fmjrk");
-            Console.WriteLine("nodea");
-            Console.WriteLine("bwxnn");
-            Console.WriteLine("yknef");
-            Console.WriteLine("evmci");
-            Console.WriteLine("pbwao");
-            Console.WriteLine("jvlle");
-            Console.WriteLine("nopaa");
-            Console.WriteLine("yngqd");
-            Console.WriteLine("guwqe");
         }
     }
 }
