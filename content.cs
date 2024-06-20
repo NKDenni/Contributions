@@ -1110,10 +1110,6 @@ namespace MockCode
             Console.WriteLine("evdan");
             Console.WriteLine("cxgbv");
             Console.WriteLine("yabcr");
-            Console.WriteLine("mcyrs");
-            Console.WriteLine("lhosm");
-            Console.WriteLine("ktfbn");
-            Console.WriteLine("qxsol");
         }
     }
 }
