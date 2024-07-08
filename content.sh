@@ -1,0 +1,7 @@
+echo "efdqr"
+echo "wnrxm"
+echo "tscye"
+echo "hsgfm"
+echo "vmtmi"
+echo "ebywl"
+echo "buyji"
