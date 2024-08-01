@@ -1168,12 +1168,6 @@ namespace MockCode
             Console.WriteLine("tkubd");
             Console.WriteLine("aajal");
             Console.WriteLine("xglxf");
-            Console.WriteLine("eilch");
-            Console.WriteLine("mypso");
-            Console.WriteLine("drcif");
-            Console.WriteLine("reyna");
-            Console.WriteLine("nfgdh");
-            Console.WriteLine("sllbh");
         }
     }
 }
