@@ -1114,6 +1114,8 @@ namespace MockCode
             Console.WriteLine("rkdbg");
             Console.WriteLine("mitav");
             Console.WriteLine("mpxmx");
+            Console.WriteLine("mrxtb");
+            Console.WriteLine("mvrhv");
         }
     }
 }
