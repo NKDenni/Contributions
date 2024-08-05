@@ -1172,8 +1172,6 @@ namespace MockCode
             Console.WriteLine("rcayf");
             Console.WriteLine("usdxj");
             Console.WriteLine("xlyjy");
-            Console.WriteLine("hpptj");
-            Console.WriteLine("xnmjf");
         }
     }
 }
