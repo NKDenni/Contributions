@@ -1138,10 +1138,6 @@ namespace MockCode
             Console.WriteLine("vppey");
             Console.WriteLine("ktcnf");
             Console.WriteLine("yulsr");
-            Console.WriteLine("ibynf");
-            Console.WriteLine("gjdms");
-            Console.WriteLine("vgiun");
-            Console.WriteLine("dxtbr");
         }
     }
 }
