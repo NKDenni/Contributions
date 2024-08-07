@@ -1220,21 +1220,6 @@ namespace MockCode
             Console.WriteLine("ianxs");
             Console.WriteLine("taqlv");
             Console.WriteLine("vssod");
-            Console.WriteLine("iqdah");
-            Console.WriteLine("vcsny");
-            Console.WriteLine("wgdwg");
-            Console.WriteLine("hcutn");
-            Console.WriteLine("ykhgf");
-            Console.WriteLine("hcefg");
-            Console.WriteLine("vnnit");
-            Console.WriteLine("mcxnp");
-            Console.WriteLine("uielf");
-            Console.WriteLine("exrmt");
-            Console.WriteLine("elyef");
-            Console.WriteLine("gscmr");
-            Console.WriteLine("tncgs");
-            Console.WriteLine("fbxlk");
-            Console.WriteLine("eoesl");
         }
     }
 }
