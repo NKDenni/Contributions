@@ -1205,21 +1205,6 @@ namespace MockCode
             Console.WriteLine("dbngk");
             Console.WriteLine("pcciv");
             Console.WriteLine("cqifr");
-            Console.WriteLine("mwjrt");
-            Console.WriteLine("srjvr");
-            Console.WriteLine("vdovx");
-            Console.WriteLine("rqvdi");
-            Console.WriteLine("wxbqi");
-            Console.WriteLine("ksfff");
-            Console.WriteLine("twqsl");
-            Console.WriteLine("qqwwm");
-            Console.WriteLine("fxiot");
-            Console.WriteLine("hbqnx");
-            Console.WriteLine("ntfif");
-            Console.WriteLine("waqjo");
-            Console.WriteLine("ianxs");
-            Console.WriteLine("taqlv");
-            Console.WriteLine("vssod");
         }
     }
 }
