@@ -1190,21 +1190,6 @@ namespace MockCode
             Console.WriteLine("ksmup");
             Console.WriteLine("nnlpy");
             Console.WriteLine("oxail");
-            Console.WriteLine("vplld");
-            Console.WriteLine("vtgch");
-            Console.WriteLine("unqgb");
-            Console.WriteLine("qbynq");
-            Console.WriteLine("vwgib");
-            Console.WriteLine("ifyfd");
-            Console.WriteLine("dwurh");
-            Console.WriteLine("qrxbt");
-            Console.WriteLine("sqfad");
-            Console.WriteLine("kxhkf");
-            Console.WriteLine("lchbo");
-            Console.WriteLine("baaup");
-            Console.WriteLine("dbngk");
-            Console.WriteLine("pcciv");
-            Console.WriteLine("cqifr");
         }
     }
 }
