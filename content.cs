@@ -1194,7 +1194,6 @@ namespace MockCode
             Console.WriteLine("mqymo");
             Console.WriteLine("nuuxe");
             Console.WriteLine("ghkur");
-            Console.WriteLine("mriwu");
         }
     }
 }
