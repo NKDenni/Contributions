@@ -1288,21 +1288,6 @@ namespace MockCode
             Console.WriteLine("qhypk");
             Console.WriteLine("dhlmb");
             Console.WriteLine("vruff");
-            Console.WriteLine("doihv");
-            Console.WriteLine("pvmfq");
-            Console.WriteLine("vedbq");
-            Console.WriteLine("aqfxs");
-            Console.WriteLine("xdmms");
-            Console.WriteLine("kstds");
-            Console.WriteLine("ytuuf");
-            Console.WriteLine("kvlrj");
-            Console.WriteLine("rdmps");
-            Console.WriteLine("rqbel");
-            Console.WriteLine("fjxxv");
-            Console.WriteLine("xphmm");
-            Console.WriteLine("hbbpk");
-            Console.WriteLine("peaba");
-            Console.WriteLine("uvago");
         }
     }
 }
