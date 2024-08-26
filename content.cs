@@ -1273,21 +1273,6 @@ namespace MockCode
             Console.WriteLine("tjpyl");
             Console.WriteLine("jxejw");
             Console.WriteLine("mmfmk");
-            Console.WriteLine("fhuiq");
-            Console.WriteLine("rjeyb");
-            Console.WriteLine("wnkfp");
-            Console.WriteLine("trrhr");
-            Console.WriteLine("xyivf");
-            Console.WriteLine("ausaa");
-            Console.WriteLine("ahuug");
-            Console.WriteLine("xcwpo");
-            Console.WriteLine("ffifm");
-            Console.WriteLine("bjsuw");
-            Console.WriteLine("ybtpj");
-            Console.WriteLine("afdeu");
-            Console.WriteLine("qhypk");
-            Console.WriteLine("dhlmb");
-            Console.WriteLine("vruff");
         }
     }
 }
