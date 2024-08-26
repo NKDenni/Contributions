@@ -1258,21 +1258,6 @@ namespace MockCode
             Console.WriteLine("gvaxh");
             Console.WriteLine("fbfcg");
             Console.WriteLine("ntwbm");
-            Console.WriteLine("hnmjk");
-            Console.WriteLine("dxqxt");
-            Console.WriteLine("brkkh");
-            Console.WriteLine("lxxde");
-            Console.WriteLine("vkrsj");
-            Console.WriteLine("xvoxi");
-            Console.WriteLine("oxulp");
-            Console.WriteLine("cwbso");
-            Console.WriteLine("mmjku");
-            Console.WriteLine("cqnbx");
-            Console.WriteLine("ksgfr");
-            Console.WriteLine("lxmut");
-            Console.WriteLine("tjpyl");
-            Console.WriteLine("jxejw");
-            Console.WriteLine("mmfmk");
         }
     }
 }
