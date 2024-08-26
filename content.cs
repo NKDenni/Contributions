@@ -1254,10 +1254,6 @@ namespace MockCode
             Console.WriteLine("nnkur");
             Console.WriteLine("btbai");
             Console.WriteLine("fgnde");
-            Console.WriteLine("qlyfl");
-            Console.WriteLine("gvaxh");
-            Console.WriteLine("fbfcg");
-            Console.WriteLine("ntwbm");
         }
     }
 }
