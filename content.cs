@@ -1300,21 +1300,6 @@ namespace MockCode
             Console.WriteLine("yfphi");
             Console.WriteLine("ineop");
             Console.WriteLine("wxqki");
-            Console.WriteLine("dhmid");
-            Console.WriteLine("mgwaa");
-            Console.WriteLine("raawk");
-            Console.WriteLine("ntwpy");
-            Console.WriteLine("kuspf");
-            Console.WriteLine("xarqi");
-            Console.WriteLine("flipv");
-            Console.WriteLine("tkxbm");
-            Console.WriteLine("mctbs");
-            Console.WriteLine("fgrli");
-            Console.WriteLine("rngvf");
-            Console.WriteLine("rhbjd");
-            Console.WriteLine("mlrfm");
-            Console.WriteLine("cwhfi");
-            Console.WriteLine("qedrb");
         }
     }
 }
