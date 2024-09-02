@@ -1313,20 +1313,6 @@ namespace MockCode
             Console.WriteLine("lgfpn");
             Console.WriteLine("onicw");
             Console.WriteLine("imxik");
-            Console.WriteLine("bmwpy");
-            Console.WriteLine("ldupj");
-            Console.WriteLine("iivop");
-            Console.WriteLine("qltbf");
-            Console.WriteLine("olfkm");
-            Console.WriteLine("xnjpa");
-            Console.WriteLine("orxdh");
-            Console.WriteLine("rypcv");
-            Console.WriteLine("uralk");
-            Console.WriteLine("yhrkb");
-            Console.WriteLine("cgdxf");
-            Console.WriteLine("yfith");
-            Console.WriteLine("sdmfs");
-            Console.WriteLine("llyoq");
         }
     }
 }
