@@ -1267,7 +1267,6 @@ namespace MockCode
             Console.WriteLine("oxwpv");
             Console.WriteLine("nphhj");
             Console.WriteLine("wpxkk");
-            Console.WriteLine("ricvg");
         }
     }
 }
