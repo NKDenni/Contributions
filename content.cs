@@ -1268,21 +1268,6 @@ namespace MockCode
             Console.WriteLine("nphhj");
             Console.WriteLine("wpxkk");
             Console.WriteLine("ricvg");
-            Console.WriteLine("wwjjk");
-            Console.WriteLine("kacmm");
-            Console.WriteLine("qnmue");
-            Console.WriteLine("oqrkx");
-            Console.WriteLine("vddfu");
-            Console.WriteLine("kjjsk");
-            Console.WriteLine("wgntb");
-            Console.WriteLine("xncxs");
-            Console.WriteLine("pkoiv");
-            Console.WriteLine("ykpqh");
-            Console.WriteLine("roxhf");
-            Console.WriteLine("otjil");
-            Console.WriteLine("ayoka");
-            Console.WriteLine("qyguj");
-            Console.WriteLine("eotce");
         }
     }
 }
