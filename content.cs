@@ -1319,14 +1319,6 @@ namespace MockCode
             Console.WriteLine("vpepv");
             Console.WriteLine("fqcvt");
             Console.WriteLine("setou");
-            Console.WriteLine("pgugh");
-            Console.WriteLine("pbfxe");
-            Console.WriteLine("hmjaq");
-            Console.WriteLine("jlxoe");
-            Console.WriteLine("pkqwg");
-            Console.WriteLine("jvknw");
-            Console.WriteLine("ncvcb");
-            Console.WriteLine("pfsgx");
         }
     }
 }
