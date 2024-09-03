@@ -1304,21 +1304,6 @@ namespace MockCode
             Console.WriteLine("tkart");
             Console.WriteLine("oirsa");
             Console.WriteLine("acotq");
-            Console.WriteLine("ycyps");
-            Console.WriteLine("hhhqu");
-            Console.WriteLine("nqepi");
-            Console.WriteLine("uetcl");
-            Console.WriteLine("myphr");
-            Console.WriteLine("itnyo");
-            Console.WriteLine("wpnct");
-            Console.WriteLine("rtirj");
-            Console.WriteLine("temip");
-            Console.WriteLine("ebcbh");
-            Console.WriteLine("ecyvp");
-            Console.WriteLine("itbtw");
-            Console.WriteLine("vpepv");
-            Console.WriteLine("fqcvt");
-            Console.WriteLine("setou");
         }
     }
 }
