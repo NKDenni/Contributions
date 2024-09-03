@@ -1267,13 +1267,6 @@ namespace MockCode
             Console.WriteLine("oxwpv");
             Console.WriteLine("nphhj");
             Console.WriteLine("wpxkk");
-            Console.WriteLine("xyyfp");
-            Console.WriteLine("xhtmq");
-            Console.WriteLine("hvnpt");
-            Console.WriteLine("lryba");
-            Console.WriteLine("gqrlc");
-            Console.WriteLine("lgfgg");
-            Console.WriteLine("wbgxq");
         }
     }
 }
