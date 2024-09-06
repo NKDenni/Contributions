@@ -1292,20 +1292,6 @@ namespace MockCode
             Console.WriteLine("rdsqr");
             Console.WriteLine("xwkni");
             Console.WriteLine("vfxwo");
-            Console.WriteLine("ypoyg");
-            Console.WriteLine("xkxho");
-            Console.WriteLine("fecao");
-            Console.WriteLine("eukmr");
-            Console.WriteLine("hvfeo");
-            Console.WriteLine("bqwus");
-            Console.WriteLine("qugpf");
-            Console.WriteLine("uucta");
-            Console.WriteLine("ttywi");
-            Console.WriteLine("xwcxc");
-            Console.WriteLine("rsmqe");
-            Console.WriteLine("djocm");
-            Console.WriteLine("pnmnl");
-            Console.WriteLine("efxwv");
         }
     }
 }
