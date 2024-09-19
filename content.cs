@@ -1278,21 +1278,6 @@ namespace MockCode
             Console.WriteLine("kgtav");
             Console.WriteLine("aqqef");
             Console.WriteLine("hossr");
-            Console.WriteLine("wwmmj");
-            Console.WriteLine("xiiwr");
-            Console.WriteLine("fpjeh");
-            Console.WriteLine("gcgdw");
-            Console.WriteLine("xuijb");
-            Console.WriteLine("usqim");
-            Console.WriteLine("covyy");
-            Console.WriteLine("nfmao");
-            Console.WriteLine("ltjml");
-            Console.WriteLine("yfdya");
-            Console.WriteLine("juuds");
-            Console.WriteLine("rsjrk");
-            Console.WriteLine("mwanl");
-            Console.WriteLine("dgdes");
-            Console.WriteLine("pvrgr");
         }
     }
 }
