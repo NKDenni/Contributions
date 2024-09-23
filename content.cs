@@ -1290,9 +1290,6 @@ namespace MockCode
             Console.WriteLine("jsrca");
             Console.WriteLine("ctmxf");
             Console.WriteLine("foune");
-            Console.WriteLine("aljuh");
-            Console.WriteLine("prhtg");
-            Console.WriteLine("xnoqq");
         }
     }
 }
