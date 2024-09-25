@@ -1282,8 +1282,6 @@ namespace MockCode
             Console.WriteLine("ayajj");
             Console.WriteLine("bvnca");
             Console.WriteLine("vmsyx");
-            Console.WriteLine("wiick");
-            Console.WriteLine("uqoep");
         }
     }
 }
