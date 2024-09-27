@@ -1270,20 +1270,6 @@ namespace MockCode
             Console.WriteLine("odedr");
             Console.WriteLine("gdxxb");
             Console.WriteLine("csyae");
-            Console.WriteLine("gqvtl");
-            Console.WriteLine("joldq");
-            Console.WriteLine("ruyvv");
-            Console.WriteLine("fuptl");
-            Console.WriteLine("vbacr");
-            Console.WriteLine("uqivx");
-            Console.WriteLine("miche");
-            Console.WriteLine("parbo");
-            Console.WriteLine("exuat");
-            Console.WriteLine("csocn");
-            Console.WriteLine("cmnna");
-            Console.WriteLine("swkif");
-            Console.WriteLine("vjfci");
-            Console.WriteLine("kbkwt");
         }
     }
 }
