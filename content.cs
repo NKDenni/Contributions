@@ -1225,21 +1225,6 @@ namespace MockCode
             Console.WriteLine("hymch");
             Console.WriteLine("wfojr");
             Console.WriteLine("qlqke");
-            Console.WriteLine("ngsgi");
-            Console.WriteLine("oycqt");
-            Console.WriteLine("oklmj");
-            Console.WriteLine("hkrpf");
-            Console.WriteLine("ynlri");
-            Console.WriteLine("qccco");
-            Console.WriteLine("xvkgp");
-            Console.WriteLine("pkias");
-            Console.WriteLine("tqrjy");
-            Console.WriteLine("hobgi");
-            Console.WriteLine("trhkc");
-            Console.WriteLine("wlmrf");
-            Console.WriteLine("sxnej");
-            Console.WriteLine("daomh");
-            Console.WriteLine("xnhdv");
         }
     }
 }
