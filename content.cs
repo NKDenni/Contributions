@@ -1263,21 +1263,6 @@ namespace MockCode
             Console.WriteLine("budgc");
             Console.WriteLine("qluxv");
             Console.WriteLine("crkpu");
-            Console.WriteLine("ondrk");
-            Console.WriteLine("nqjpk");
-            Console.WriteLine("swqvm");
-            Console.WriteLine("mrigd");
-            Console.WriteLine("yplam");
-            Console.WriteLine("fwbog");
-            Console.WriteLine("bgkbq");
-            Console.WriteLine("hruve");
-            Console.WriteLine("rxqgl");
-            Console.WriteLine("pldrj");
-            Console.WriteLine("bnvon");
-            Console.WriteLine("fxgwy");
-            Console.WriteLine("bfvut");
-            Console.WriteLine("nsibi");
-            Console.WriteLine("bdjaf");
         }
     }
 }
