@@ -1224,15 +1224,6 @@ namespace MockCode
             Console.WriteLine("wplxq");
             Console.WriteLine("hymch");
             Console.WriteLine("wfojr");
-            Console.WriteLine("gpljw");
-            Console.WriteLine("xdoit");
-            Console.WriteLine("rkstf");
-            Console.WriteLine("bsamp");
-            Console.WriteLine("yxwva");
-            Console.WriteLine("enxoa");
-            Console.WriteLine("dhrms");
-            Console.WriteLine("loelb");
-            Console.WriteLine("whejx");
         }
     }
 }
