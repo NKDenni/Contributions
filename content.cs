@@ -1282,8 +1282,6 @@ namespace MockCode
             Console.WriteLine("ryaqp");
             Console.WriteLine("cpgld");
             Console.WriteLine("xgvia");
-            Console.WriteLine("lwxwj");
-            Console.WriteLine("tctxd");
         }
     }
 }
