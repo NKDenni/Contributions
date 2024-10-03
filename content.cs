@@ -1223,7 +1223,6 @@ namespace MockCode
             Console.WriteLine("dydmk");
             Console.WriteLine("wplxq");
             Console.WriteLine("hymch");
-            Console.WriteLine("wfojr");
         }
     }
 }
