@@ -1230,7 +1230,6 @@ namespace MockCode
             Console.WriteLine("xxdqj");
             Console.WriteLine("odnpm");
             Console.WriteLine("gewcm");
-            Console.WriteLine("ysugw");
         }
     }
 }
