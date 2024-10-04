@@ -1228,8 +1228,8 @@ namespace MockCode
             Console.WriteLine("rnbaj");
             Console.WriteLine("gyjqh");
             Console.WriteLine("xxdqj");
-            Console.WriteLine("odnpm");
-            Console.WriteLine("gewcm");
+            Console.WriteLine("jdxfq");
+            Console.WriteLine("vqros");
         }
     }
 }
