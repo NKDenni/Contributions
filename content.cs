@@ -1215,14 +1215,6 @@ namespace MockCode
             Console.WriteLine("nowwd");
             Console.WriteLine("gpgrm");
             Console.WriteLine("jbnta");
-            Console.WriteLine("lpqfp");
-            Console.WriteLine("vqyaw");
-            Console.WriteLine("ycsgj");
-            Console.WriteLine("vgyru");
-            Console.WriteLine("ciktb");
-            Console.WriteLine("ubxsw");
-            Console.WriteLine("beras");
-            Console.WriteLine("jjxjt");
         }
     }
 }
