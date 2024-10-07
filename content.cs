@@ -1203,12 +1203,6 @@ namespace MockCode
             Console.WriteLine("uxxgy");
             Console.WriteLine("rlpgq");
             Console.WriteLine("xbbhs");
-            Console.WriteLine("wocns");
-            Console.WriteLine("vtxcs");
-            Console.WriteLine("oowtb");
-            Console.WriteLine("kdjaf");
-            Console.WriteLine("jmtlx");
-            Console.WriteLine("xrduo");
         }
     }
 }
