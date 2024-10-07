@@ -1208,13 +1208,6 @@ namespace MockCode
             Console.WriteLine("oowtb");
             Console.WriteLine("kdjaf");
             Console.WriteLine("jmtlx");
-            Console.WriteLine("gqqpc");
-            Console.WriteLine("gccbh");
-            Console.WriteLine("prvhh");
-            Console.WriteLine("uhduw");
-            Console.WriteLine("nowwd");
-            Console.WriteLine("gpgrm");
-            Console.WriteLine("jbnta");
         }
     }
 }
