@@ -952,21 +952,6 @@ namespace MockCode
             Console.WriteLine("bloke");
             Console.WriteLine("qhjoa");
             Console.WriteLine("kxmxi");
-            Console.WriteLine("ngayb");
-            Console.WriteLine("bjjrg");
-            Console.WriteLine("ukxhu");
-            Console.WriteLine("elngv");
-            Console.WriteLine("dnisi");
-            Console.WriteLine("tktug");
-            Console.WriteLine("joacx");
-            Console.WriteLine("ukxuc");
-            Console.WriteLine("dftej");
-            Console.WriteLine("igtrk");
-            Console.WriteLine("ylkju");
-            Console.WriteLine("pumgf");
-            Console.WriteLine("foaid");
-            Console.WriteLine("oifwa");
-            Console.WriteLine("euach");
         }
     }
 }
