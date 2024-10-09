@@ -907,21 +907,6 @@ namespace MockCode
             Console.WriteLine("twwas");
             Console.WriteLine("ffynj");
             Console.WriteLine("mlngp");
-            Console.WriteLine("lfcfk");
-            Console.WriteLine("ddteg");
-            Console.WriteLine("nkvcq");
-            Console.WriteLine("vouqf");
-            Console.WriteLine("tbviy");
-            Console.WriteLine("gymvt");
-            Console.WriteLine("rtiso");
-            Console.WriteLine("dwxns");
-            Console.WriteLine("gcwqp");
-            Console.WriteLine("ocavf");
-            Console.WriteLine("bmkmx");
-            Console.WriteLine("uinka");
-            Console.WriteLine("vutkp");
-            Console.WriteLine("xkvvu");
-            Console.WriteLine("akacg");
         }
     }
 }
