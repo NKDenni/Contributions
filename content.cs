@@ -938,21 +938,6 @@ namespace MockCode
             Console.WriteLine("sfbgi");
             Console.WriteLine("dnuke");
             Console.WriteLine("osijp");
-            Console.WriteLine("mwfkp");
-            Console.WriteLine("kpvjt");
-            Console.WriteLine("nrqla");
-            Console.WriteLine("bxhuw");
-            Console.WriteLine("yaegt");
-            Console.WriteLine("bnabq");
-            Console.WriteLine("xtkcg");
-            Console.WriteLine("jdmty");
-            Console.WriteLine("kpcam");
-            Console.WriteLine("nnfpe");
-            Console.WriteLine("cevyc");
-            Console.WriteLine("cxynw");
-            Console.WriteLine("uhxbp");
-            Console.WriteLine("wyhfs");
-            Console.WriteLine("dddlw");
         }
     }
 }
