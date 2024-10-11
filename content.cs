@@ -908,21 +908,6 @@ namespace MockCode
             Console.WriteLine("kqtew");
             Console.WriteLine("rabjg");
             Console.WriteLine("jagii");
-            Console.WriteLine("inqco");
-            Console.WriteLine("rqmid");
-            Console.WriteLine("nujyd");
-            Console.WriteLine("cnvqf");
-            Console.WriteLine("xtipv");
-            Console.WriteLine("bvpsd");
-            Console.WriteLine("qvlud");
-            Console.WriteLine("fcjrm");
-            Console.WriteLine("usmqt");
-            Console.WriteLine("xkone");
-            Console.WriteLine("vbrta");
-            Console.WriteLine("kopyh");
-            Console.WriteLine("epnwm");
-            Console.WriteLine("buync");
-            Console.WriteLine("dusbf");
         }
     }
 }
