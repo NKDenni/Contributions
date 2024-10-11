@@ -923,21 +923,6 @@ namespace MockCode
             Console.WriteLine("epnwm");
             Console.WriteLine("buync");
             Console.WriteLine("dusbf");
-            Console.WriteLine("ncpds");
-            Console.WriteLine("gsdnr");
-            Console.WriteLine("btcsh");
-            Console.WriteLine("yvggu");
-            Console.WriteLine("wuwnl");
-            Console.WriteLine("ubxjj");
-            Console.WriteLine("bnucq");
-            Console.WriteLine("ibphj");
-            Console.WriteLine("torpk");
-            Console.WriteLine("nmuvq");
-            Console.WriteLine("cjmcp");
-            Console.WriteLine("ewmrl");
-            Console.WriteLine("sfbgi");
-            Console.WriteLine("dnuke");
-            Console.WriteLine("osijp");
         }
     }
 }
