@@ -1181,6 +1181,8 @@ namespace MockCode
             Console.WriteLine("qhpqv");
             Console.WriteLine("peuae");
             Console.WriteLine("lbfht");
+            Console.WriteLine("fbglu");
+            Console.WriteLine("dltee");
         }
     }
 }
