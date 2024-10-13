@@ -917,9 +917,9 @@ namespace MockCode
             Console.WriteLine("pcqwm");
             Console.WriteLine("waqek");
             Console.WriteLine("jbgcw");
-            Console.WriteLine("fhyto");
-            Console.WriteLine("shghe");
-            Console.WriteLine("ughen");
+            Console.WriteLine("fsarq");
+            Console.WriteLine("lmwic");
+            Console.WriteLine("dmtbg");
         }
     }
 }
