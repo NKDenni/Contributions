@@ -950,21 +950,6 @@ namespace MockCode
             Console.WriteLine("ihmfn");
             Console.WriteLine("cdpoo");
             Console.WriteLine("mflhp");
-            Console.WriteLine("qmwef");
-            Console.WriteLine("fonos");
-            Console.WriteLine("mwxqw");
-            Console.WriteLine("rkeas");
-            Console.WriteLine("crmao");
-            Console.WriteLine("kxuch");
-            Console.WriteLine("bpkvl");
-            Console.WriteLine("bdvhg");
-            Console.WriteLine("ktlxc");
-            Console.WriteLine("lijmr");
-            Console.WriteLine("yqsom");
-            Console.WriteLine("ojqhr");
-            Console.WriteLine("mweql");
-            Console.WriteLine("ctxyw");
-            Console.WriteLine("ixmwj");
         }
     }
 }
