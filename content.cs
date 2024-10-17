@@ -1030,9 +1030,6 @@ namespace MockCode
             Console.WriteLine("brsit");
             Console.WriteLine("nvvbh");
             Console.WriteLine("efmjt");
-            Console.WriteLine("rouni");
-            Console.WriteLine("upujn");
-            Console.WriteLine("tffvp");
         }
     }
 }
