@@ -1048,21 +1048,6 @@ namespace MockCode
             Console.WriteLine("glwjc");
             Console.WriteLine("wbdvi");
             Console.WriteLine("drhfh");
-            Console.WriteLine("fwwbw");
-            Console.WriteLine("gupko");
-            Console.WriteLine("yrsln");
-            Console.WriteLine("jwckx");
-            Console.WriteLine("epyya");
-            Console.WriteLine("sclrq");
-            Console.WriteLine("ewimu");
-            Console.WriteLine("keddp");
-            Console.WriteLine("mjntt");
-            Console.WriteLine("sftbw");
-            Console.WriteLine("dapit");
-            Console.WriteLine("jvwul");
-            Console.WriteLine("ietpd");
-            Console.WriteLine("toqab");
-            Console.WriteLine("abnth");
         }
     }
 }
