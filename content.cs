@@ -1033,21 +1033,6 @@ namespace MockCode
             Console.WriteLine("rouni");
             Console.WriteLine("upujn");
             Console.WriteLine("tffvp");
-            Console.WriteLine("hvtvc");
-            Console.WriteLine("vawnj");
-            Console.WriteLine("ncebh");
-            Console.WriteLine("aweye");
-            Console.WriteLine("nkeyh");
-            Console.WriteLine("xdgnt");
-            Console.WriteLine("rcboq");
-            Console.WriteLine("bkiwc");
-            Console.WriteLine("jhqoi");
-            Console.WriteLine("xxnhx");
-            Console.WriteLine("gnwbd");
-            Console.WriteLine("urisg");
-            Console.WriteLine("glwjc");
-            Console.WriteLine("wbdvi");
-            Console.WriteLine("drhfh");
         }
     }
 }
