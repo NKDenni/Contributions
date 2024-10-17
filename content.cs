@@ -1063,21 +1063,6 @@ namespace MockCode
             Console.WriteLine("ietpd");
             Console.WriteLine("toqab");
             Console.WriteLine("abnth");
-            Console.WriteLine("swaib");
-            Console.WriteLine("yisid");
-            Console.WriteLine("bvtpl");
-            Console.WriteLine("agprx");
-            Console.WriteLine("lkvdl");
-            Console.WriteLine("uhomo");
-            Console.WriteLine("gehvr");
-            Console.WriteLine("cuulj");
-            Console.WriteLine("hmskd");
-            Console.WriteLine("irnpv");
-            Console.WriteLine("etaso");
-            Console.WriteLine("pwayb");
-            Console.WriteLine("wsmdt");
-            Console.WriteLine("rxgny");
-            Console.WriteLine("ovfpc");
         }
     }
 }
