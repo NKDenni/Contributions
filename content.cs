@@ -1078,18 +1078,6 @@ namespace MockCode
             Console.WriteLine("wsmdt");
             Console.WriteLine("rxgny");
             Console.WriteLine("ovfpc");
-            Console.WriteLine("qpbxg");
-            Console.WriteLine("rhpwk");
-            Console.WriteLine("jrpql");
-            Console.WriteLine("mmrml");
-            Console.WriteLine("lsykk");
-            Console.WriteLine("ifltj");
-            Console.WriteLine("wuyyw");
-            Console.WriteLine("ijrne");
-            Console.WriteLine("uacdf");
-            Console.WriteLine("ctfdg");
-            Console.WriteLine("kldpd");
-            Console.WriteLine("vicyj");
         }
     }
 }
