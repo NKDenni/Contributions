@@ -1172,9 +1172,6 @@ namespace MockCode
             Console.WriteLine("jxprt");
             Console.WriteLine("fpcfj");
             Console.WriteLine("cqhri");
-            Console.WriteLine("walmk");
-            Console.WriteLine("aivrm");
-            Console.WriteLine("bhhrn");
         }
     }
 }
