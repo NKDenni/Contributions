@@ -1157,21 +1157,6 @@ namespace MockCode
             Console.WriteLine("ecjui");
             Console.WriteLine("gkmiv");
             Console.WriteLine("fgfum");
-            Console.WriteLine("bamal");
-            Console.WriteLine("oloqv");
-            Console.WriteLine("jealx");
-            Console.WriteLine("xjqvt");
-            Console.WriteLine("outyj");
-            Console.WriteLine("gnrrx");
-            Console.WriteLine("hxnjy");
-            Console.WriteLine("xgmjs");
-            Console.WriteLine("riwlq");
-            Console.WriteLine("npyuf");
-            Console.WriteLine("higrc");
-            Console.WriteLine("adljo");
-            Console.WriteLine("jxprt");
-            Console.WriteLine("fpcfj");
-            Console.WriteLine("cqhri");
         }
     }
 }
