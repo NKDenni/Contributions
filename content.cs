@@ -1123,9 +1123,6 @@ namespace MockCode
             Console.WriteLine("rxolb");
             Console.WriteLine("lyfoh");
             Console.WriteLine("myach");
-            Console.WriteLine("tahlx");
-            Console.WriteLine("iaxac");
-            Console.WriteLine("rgqix");
         }
     }
 }
