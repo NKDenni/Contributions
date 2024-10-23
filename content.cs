@@ -1157,21 +1157,6 @@ namespace MockCode
             Console.WriteLine("sircl");
             Console.WriteLine("soiwo");
             Console.WriteLine("lsdbg");
-            Console.WriteLine("rvygr");
-            Console.WriteLine("lqlgm");
-            Console.WriteLine("folic");
-            Console.WriteLine("ilfmw");
-            Console.WriteLine("thkrg");
-            Console.WriteLine("cpmva");
-            Console.WriteLine("abjbe");
-            Console.WriteLine("mpdsd");
-            Console.WriteLine("odsmj");
-            Console.WriteLine("ldqvd");
-            Console.WriteLine("ponix");
-            Console.WriteLine("ujrum");
-            Console.WriteLine("hcekr");
-            Console.WriteLine("emfjj");
-            Console.WriteLine("fktun");
         }
     }
 }
