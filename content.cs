@@ -1123,10 +1123,6 @@ namespace MockCode
             Console.WriteLine("rxolb");
             Console.WriteLine("lyfoh");
             Console.WriteLine("myach");
-            Console.WriteLine("ttreg");
-            Console.WriteLine("gtaut");
-            Console.WriteLine("qsuar");
-            Console.WriteLine("wwuoe");
         }
     }
 }
