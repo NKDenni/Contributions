@@ -1019,18 +1019,6 @@ namespace MockCode
             Console.WriteLine("hufmo");
             Console.WriteLine("rlrng");
             Console.WriteLine("ejjla");
-            Console.WriteLine("vphku");
-            Console.WriteLine("ufkvg");
-            Console.WriteLine("depmj");
-            Console.WriteLine("xreom");
-            Console.WriteLine("fojnk");
-            Console.WriteLine("wgupi");
-            Console.WriteLine("vpihe");
-            Console.WriteLine("rhblp");
-            Console.WriteLine("kyxqn");
-            Console.WriteLine("ldkdc");
-            Console.WriteLine("nrwrk");
-            Console.WriteLine("ivmhx");
         }
     }
 }
