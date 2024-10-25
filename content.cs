@@ -1061,17 +1061,6 @@ namespace MockCode
             Console.WriteLine("hascu");
             Console.WriteLine("pqmns");
             Console.WriteLine("qnnpg");
-            Console.WriteLine("qgdxv");
-            Console.WriteLine("nuqgk");
-            Console.WriteLine("paxto");
-            Console.WriteLine("etosr");
-            Console.WriteLine("fjagc");
-            Console.WriteLine("hssqm");
-            Console.WriteLine("yksnp");
-            Console.WriteLine("iigvt");
-            Console.WriteLine("hnfrj");
-            Console.WriteLine("skadp");
-            Console.WriteLine("pcrcf");
         }
     }
 }
