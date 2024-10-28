@@ -1020,7 +1020,6 @@ namespace MockCode
             Console.WriteLine("rlrng");
             Console.WriteLine("ejjla");
             Console.WriteLine("wltpv");
-            Console.WriteLine("shaho");
         }
     }
 }
