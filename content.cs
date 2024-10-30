@@ -966,21 +966,6 @@ namespace MockCode
             Console.WriteLine("exinq");
             Console.WriteLine("kjbwp");
             Console.WriteLine("pblhb");
-            Console.WriteLine("farth");
-            Console.WriteLine("ydjmj");
-            Console.WriteLine("iqnvc");
-            Console.WriteLine("ulvfe");
-            Console.WriteLine("vniuu");
-            Console.WriteLine("ponvl");
-            Console.WriteLine("qlgms");
-            Console.WriteLine("cegjd");
-            Console.WriteLine("qkvtu");
-            Console.WriteLine("kijsd");
-            Console.WriteLine("yvbym");
-            Console.WriteLine("dykuh");
-            Console.WriteLine("ivrrb");
-            Console.WriteLine("rhmsu");
-            Console.WriteLine("mbcfp");
         }
     }
 }
