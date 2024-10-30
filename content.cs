@@ -933,9 +933,6 @@ namespace MockCode
             Console.WriteLine("reiju");
             Console.WriteLine("orvcs");
             Console.WriteLine("uepad");
-            Console.WriteLine("gttlt");
-            Console.WriteLine("grajh");
-            Console.WriteLine("xwxpg");
         }
     }
 }
