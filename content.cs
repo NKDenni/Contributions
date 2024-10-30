@@ -951,21 +951,6 @@ namespace MockCode
             Console.WriteLine("qlkng");
             Console.WriteLine("fvspl");
             Console.WriteLine("wohpb");
-            Console.WriteLine("mwjtl");
-            Console.WriteLine("udtsw");
-            Console.WriteLine("jbipb");
-            Console.WriteLine("soekk");
-            Console.WriteLine("tshhr");
-            Console.WriteLine("muxqq");
-            Console.WriteLine("qixjq");
-            Console.WriteLine("jlwgi");
-            Console.WriteLine("vughd");
-            Console.WriteLine("ebakq");
-            Console.WriteLine("ljbyd");
-            Console.WriteLine("tljjo");
-            Console.WriteLine("exinq");
-            Console.WriteLine("kjbwp");
-            Console.WriteLine("pblhb");
         }
     }
 }
