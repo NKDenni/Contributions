@@ -873,21 +873,6 @@ namespace MockCode
             Console.WriteLine("qvafi");
             Console.WriteLine("oswiu");
             Console.WriteLine("rbdhh");
-            Console.WriteLine("yqrfs");
-            Console.WriteLine("ftgea");
-            Console.WriteLine("ytelp");
-            Console.WriteLine("uqwvx");
-            Console.WriteLine("xajns");
-            Console.WriteLine("onigf");
-            Console.WriteLine("frhhx");
-            Console.WriteLine("pcufm");
-            Console.WriteLine("arpbl");
-            Console.WriteLine("msuay");
-            Console.WriteLine("stifa");
-            Console.WriteLine("hoayn");
-            Console.WriteLine("ghxog");
-            Console.WriteLine("hmuwf");
-            Console.WriteLine("mvlyv");
         }
     }
 }
