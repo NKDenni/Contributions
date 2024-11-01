@@ -903,10 +903,6 @@ namespace MockCode
             Console.WriteLine("bvejc");
             Console.WriteLine("ghkve");
             Console.WriteLine("hgdqb");
-            Console.WriteLine("ghwfs");
-            Console.WriteLine("vieje");
-            Console.WriteLine("vxvja");
-            Console.WriteLine("mssrk");
         }
     }
 }
