@@ -904,9 +904,6 @@ namespace MockCode
             Console.WriteLine("suuxj");
             Console.WriteLine("onios");
             Console.WriteLine("fwnnl");
-            Console.WriteLine("uiutq");
-            Console.WriteLine("kewgq");
-            Console.WriteLine("evmai");
         }
     }
 }
