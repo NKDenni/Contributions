@@ -847,18 +847,6 @@ namespace MockCode
             Console.WriteLine("itudu");
             Console.WriteLine("gwlpm");
             Console.WriteLine("epqnn");
-            Console.WriteLine("xgfjj");
-            Console.WriteLine("sscrx");
-            Console.WriteLine("rqkod");
-            Console.WriteLine("swdms");
-            Console.WriteLine("hxhhb");
-            Console.WriteLine("lxlns");
-            Console.WriteLine("eupjw");
-            Console.WriteLine("aofcp");
-            Console.WriteLine("rkgex");
-            Console.WriteLine("qkjwi");
-            Console.WriteLine("fkkas");
-            Console.WriteLine("hmylm");
         }
     }
 }
