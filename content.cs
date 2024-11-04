@@ -881,21 +881,6 @@ namespace MockCode
             Console.WriteLine("stptm");
             Console.WriteLine("avsts");
             Console.WriteLine("inpob");
-            Console.WriteLine("uxals");
-            Console.WriteLine("fevxl");
-            Console.WriteLine("hmpll");
-            Console.WriteLine("rybkd");
-            Console.WriteLine("wrlia");
-            Console.WriteLine("ikkkg");
-            Console.WriteLine("lpfse");
-            Console.WriteLine("ctajr");
-            Console.WriteLine("gaeuy");
-            Console.WriteLine("uyrjy");
-            Console.WriteLine("pyfye");
-            Console.WriteLine("bshdb");
-            Console.WriteLine("gggxn");
-            Console.WriteLine("infnj");
-            Console.WriteLine("vqpbq");
         }
     }
 }
