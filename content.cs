@@ -866,21 +866,6 @@ namespace MockCode
             Console.WriteLine("hgwsx");
             Console.WriteLine("yraus");
             Console.WriteLine("qlimp");
-            Console.WriteLine("ebplu");
-            Console.WriteLine("gykgm");
-            Console.WriteLine("lrktn");
-            Console.WriteLine("vvqca");
-            Console.WriteLine("iqdnl");
-            Console.WriteLine("ktsda");
-            Console.WriteLine("bevwj");
-            Console.WriteLine("usdsn");
-            Console.WriteLine("ydaqv");
-            Console.WriteLine("ddkpe");
-            Console.WriteLine("ytfcv");
-            Console.WriteLine("oruhp");
-            Console.WriteLine("stptm");
-            Console.WriteLine("avsts");
-            Console.WriteLine("inpob");
         }
     }
 }
