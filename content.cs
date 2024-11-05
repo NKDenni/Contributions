@@ -848,18 +848,6 @@ namespace MockCode
             Console.WriteLine("hcxvs");
             Console.WriteLine("jlafg");
             Console.WriteLine("utjvt");
-            Console.WriteLine("dbqxo");
-            Console.WriteLine("smrse");
-            Console.WriteLine("aqgjd");
-            Console.WriteLine("cnqtl");
-            Console.WriteLine("menhj");
-            Console.WriteLine("kypfr");
-            Console.WriteLine("tbnwo");
-            Console.WriteLine("bxyoh");
-            Console.WriteLine("igjde");
-            Console.WriteLine("mjdmw");
-            Console.WriteLine("chyat");
-            Console.WriteLine("wfmww");
         }
     }
 }
