@@ -890,21 +890,6 @@ namespace MockCode
             Console.WriteLine("besix");
             Console.WriteLine("fvykm");
             Console.WriteLine("wyyou");
-            Console.WriteLine("iekta");
-            Console.WriteLine("sfyqf");
-            Console.WriteLine("qdjbb");
-            Console.WriteLine("ijqvj");
-            Console.WriteLine("yfftg");
-            Console.WriteLine("ynolb");
-            Console.WriteLine("xoggs");
-            Console.WriteLine("ifcfv");
-            Console.WriteLine("bnnio");
-            Console.WriteLine("nxnoo");
-            Console.WriteLine("betun");
-            Console.WriteLine("dffup");
-            Console.WriteLine("xppdt");
-            Console.WriteLine("btkwf");
-            Console.WriteLine("mjowj");
         }
     }
 }
