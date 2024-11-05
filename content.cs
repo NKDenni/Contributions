@@ -905,9 +905,6 @@ namespace MockCode
             Console.WriteLine("xppdt");
             Console.WriteLine("btkwf");
             Console.WriteLine("mjowj");
-            Console.WriteLine("mjxjx");
-            Console.WriteLine("yimmj");
-            Console.WriteLine("ecrkw");
         }
     }
 }
