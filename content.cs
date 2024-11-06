@@ -903,11 +903,6 @@ namespace MockCode
             Console.WriteLine("tcbae");
             Console.WriteLine("hdgdh");
             Console.WriteLine("cslso");
-            Console.WriteLine("jcrcn");
-            Console.WriteLine("xofqc");
-            Console.WriteLine("srnjj");
-            Console.WriteLine("defnf");
-            Console.WriteLine("hudum");
         }
     }
 }
