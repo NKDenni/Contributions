@@ -858,21 +858,6 @@ namespace MockCode
             Console.WriteLine("vdjvm");
             Console.WriteLine("mrcbq");
             Console.WriteLine("ndgnu");
-            Console.WriteLine("tyqph");
-            Console.WriteLine("gbggi");
-            Console.WriteLine("eapxc");
-            Console.WriteLine("vugfb");
-            Console.WriteLine("cynqp");
-            Console.WriteLine("vtcbi");
-            Console.WriteLine("bkujg");
-            Console.WriteLine("txtgb");
-            Console.WriteLine("jqxaq");
-            Console.WriteLine("djbnm");
-            Console.WriteLine("cvacg");
-            Console.WriteLine("aygfr");
-            Console.WriteLine("bnojk");
-            Console.WriteLine("jyvnx");
-            Console.WriteLine("cfghi");
         }
     }
 }
