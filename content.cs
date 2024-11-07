@@ -872,19 +872,6 @@ namespace MockCode
             Console.WriteLine("ilegt");
             Console.WriteLine("cqutn");
             Console.WriteLine("gfvsw");
-            Console.WriteLine("wxoby");
-            Console.WriteLine("vdhob");
-            Console.WriteLine("hpdwn");
-            Console.WriteLine("okbug");
-            Console.WriteLine("vnrgq");
-            Console.WriteLine("pdslq");
-            Console.WriteLine("ymabm");
-            Console.WriteLine("vjsqx");
-            Console.WriteLine("aexjq");
-            Console.WriteLine("onqfp");
-            Console.WriteLine("yysni");
-            Console.WriteLine("hjymx");
-            Console.WriteLine("utdhf");
         }
     }
 }
