@@ -842,21 +842,6 @@ namespace MockCode
             Console.WriteLine("spbed");
             Console.WriteLine("rnviu");
             Console.WriteLine("tuysy");
-            Console.WriteLine("axiid");
-            Console.WriteLine("xcagp");
-            Console.WriteLine("sjtfc");
-            Console.WriteLine("vmlbc");
-            Console.WriteLine("gmjlp");
-            Console.WriteLine("hpsar");
-            Console.WriteLine("jrepb");
-            Console.WriteLine("rkdbm");
-            Console.WriteLine("lxfqt");
-            Console.WriteLine("usmxk");
-            Console.WriteLine("ywarw");
-            Console.WriteLine("ojokk");
-            Console.WriteLine("hylij");
-            Console.WriteLine("ckhnw");
-            Console.WriteLine("ipldg");
         }
     }
 }
