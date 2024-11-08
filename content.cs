@@ -874,17 +874,6 @@ namespace MockCode
             Console.WriteLine("xgirq");
             Console.WriteLine("tytxh");
             Console.WriteLine("qmtjh");
-            Console.WriteLine("jyitd");
-            Console.WriteLine("mgrmi");
-            Console.WriteLine("ulyfv");
-            Console.WriteLine("fvbqy");
-            Console.WriteLine("ijyqb");
-            Console.WriteLine("hukdd");
-            Console.WriteLine("piggp");
-            Console.WriteLine("vmwow");
-            Console.WriteLine("obdag");
-            Console.WriteLine("chqxf");
-            Console.WriteLine("tjjtt");
         }
     }
 }
