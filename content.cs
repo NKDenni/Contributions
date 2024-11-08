@@ -844,21 +844,6 @@ namespace MockCode
             Console.WriteLine("onqxy");
             Console.WriteLine("kjetc");
             Console.WriteLine("sdatj");
-            Console.WriteLine("ffdel");
-            Console.WriteLine("ytrqx");
-            Console.WriteLine("eaicn");
-            Console.WriteLine("hjhvy");
-            Console.WriteLine("tljth");
-            Console.WriteLine("dycua");
-            Console.WriteLine("aepwl");
-            Console.WriteLine("nfosn");
-            Console.WriteLine("inloq");
-            Console.WriteLine("ekhrs");
-            Console.WriteLine("ppkow");
-            Console.WriteLine("tpagu");
-            Console.WriteLine("aefqq");
-            Console.WriteLine("ybkib");
-            Console.WriteLine("bwqqn");
         }
     }
 }
