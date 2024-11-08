@@ -825,10 +825,6 @@ namespace MockCode
             Console.WriteLine("pcfsx");
             Console.WriteLine("dluos");
             Console.WriteLine("ydynh");
-            Console.WriteLine("udmsi");
-            Console.WriteLine("oamol");
-            Console.WriteLine("fwdmy");
-            Console.WriteLine("jbhav");
         }
     }
 }
