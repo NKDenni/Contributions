@@ -829,21 +829,6 @@ namespace MockCode
             Console.WriteLine("oamol");
             Console.WriteLine("fwdmy");
             Console.WriteLine("jbhav");
-            Console.WriteLine("xwffw");
-            Console.WriteLine("cwkuq");
-            Console.WriteLine("ttrlv");
-            Console.WriteLine("ppoig");
-            Console.WriteLine("tpgju");
-            Console.WriteLine("dayny");
-            Console.WriteLine("hknbt");
-            Console.WriteLine("ejlov");
-            Console.WriteLine("snemc");
-            Console.WriteLine("hexsl");
-            Console.WriteLine("meqgr");
-            Console.WriteLine("afids");
-            Console.WriteLine("onqxy");
-            Console.WriteLine("kjetc");
-            Console.WriteLine("sdatj");
         }
     }
 }
