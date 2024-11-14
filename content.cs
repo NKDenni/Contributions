@@ -863,20 +863,6 @@ namespace MockCode
             Console.WriteLine("yicwm");
             Console.WriteLine("xhgix");
             Console.WriteLine("epdlc");
-            Console.WriteLine("ljocw");
-            Console.WriteLine("crcdr");
-            Console.WriteLine("hkphp");
-            Console.WriteLine("sydqb");
-            Console.WriteLine("xofns");
-            Console.WriteLine("bxpuf");
-            Console.WriteLine("deapl");
-            Console.WriteLine("beett");
-            Console.WriteLine("kefvu");
-            Console.WriteLine("xeqwr");
-            Console.WriteLine("vvqea");
-            Console.WriteLine("bwfte");
-            Console.WriteLine("obfsc");
-            Console.WriteLine("yjifn");
         }
     }
 }
