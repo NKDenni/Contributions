@@ -834,21 +834,6 @@ namespace MockCode
             Console.WriteLine("fudat");
             Console.WriteLine("uhcap");
             Console.WriteLine("bwnrp");
-            Console.WriteLine("gxrnv");
-            Console.WriteLine("utpgp");
-            Console.WriteLine("gywbs");
-            Console.WriteLine("gueit");
-            Console.WriteLine("ymvov");
-            Console.WriteLine("gniiy");
-            Console.WriteLine("gebfa");
-            Console.WriteLine("jkjkp");
-            Console.WriteLine("pnchc");
-            Console.WriteLine("jhfhn");
-            Console.WriteLine("cvtfx");
-            Console.WriteLine("vpiuq");
-            Console.WriteLine("lricm");
-            Console.WriteLine("ujdnp");
-            Console.WriteLine("ivold");
         }
     }
 }
