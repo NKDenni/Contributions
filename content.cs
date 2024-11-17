@@ -830,21 +830,6 @@ namespace MockCode
             Console.WriteLine("vlotb");
             Console.WriteLine("saooc");
             Console.WriteLine("yostg");
-            Console.WriteLine("tcyts");
-            Console.WriteLine("evuab");
-            Console.WriteLine("xuwbv");
-            Console.WriteLine("pjdsg");
-            Console.WriteLine("lpssd");
-            Console.WriteLine("hdrej");
-            Console.WriteLine("tyhbj");
-            Console.WriteLine("cslmp");
-            Console.WriteLine("rmnbc");
-            Console.WriteLine("mpnaj");
-            Console.WriteLine("vjpmo");
-            Console.WriteLine("xjtbw");
-            Console.WriteLine("pbcat");
-            Console.WriteLine("baqql");
-            Console.WriteLine("hnrcm");
         }
     }
 }
