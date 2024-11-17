@@ -845,21 +845,6 @@ namespace MockCode
             Console.WriteLine("pbcat");
             Console.WriteLine("baqql");
             Console.WriteLine("hnrcm");
-            Console.WriteLine("cemxk");
-            Console.WriteLine("tosky");
-            Console.WriteLine("lyvoq");
-            Console.WriteLine("olgpc");
-            Console.WriteLine("taldm");
-            Console.WriteLine("ujtmg");
-            Console.WriteLine("cbaqw");
-            Console.WriteLine("fwjxh");
-            Console.WriteLine("ucfdj");
-            Console.WriteLine("igcwd");
-            Console.WriteLine("edjob");
-            Console.WriteLine("prvqr");
-            Console.WriteLine("eldkj");
-            Console.WriteLine("bjfgx");
-            Console.WriteLine("lgrdb");
         }
     }
 }
