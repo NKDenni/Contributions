@@ -809,12 +809,6 @@ namespace MockCode
             Console.WriteLine("rfxsh");
             Console.WriteLine("peudl");
             Console.WriteLine("jlywx");
-            Console.WriteLine("pramq");
-            Console.WriteLine("htwtf");
-            Console.WriteLine("ypcnr");
-            Console.WriteLine("mgkvg");
-            Console.WriteLine("ndcxu");
-            Console.WriteLine("mvrcx");
         }
     }
 }
