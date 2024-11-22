@@ -788,21 +788,6 @@ namespace MockCode
             Console.WriteLine("aqcyy");
             Console.WriteLine("oxisp");
             Console.WriteLine("bqgps");
-            Console.WriteLine("qttby");
-            Console.WriteLine("csunt");
-            Console.WriteLine("tgkrp");
-            Console.WriteLine("wouta");
-            Console.WriteLine("jkvbk");
-            Console.WriteLine("biish");
-            Console.WriteLine("imtgv");
-            Console.WriteLine("unxny");
-            Console.WriteLine("vcxnq");
-            Console.WriteLine("cjhsn");
-            Console.WriteLine("ferwd");
-            Console.WriteLine("foady");
-            Console.WriteLine("xrucl");
-            Console.WriteLine("myqjh");
-            Console.WriteLine("shqis");
         }
     }
 }
