@@ -803,21 +803,6 @@ namespace MockCode
             Console.WriteLine("xrucl");
             Console.WriteLine("myqjh");
             Console.WriteLine("shqis");
-            Console.WriteLine("kcckk");
-            Console.WriteLine("dkqlj");
-            Console.WriteLine("seopc");
-            Console.WriteLine("scmtb");
-            Console.WriteLine("nfnav");
-            Console.WriteLine("fwkve");
-            Console.WriteLine("ivxog");
-            Console.WriteLine("aaswi");
-            Console.WriteLine("rybdc");
-            Console.WriteLine("aoink");
-            Console.WriteLine("xdsmq");
-            Console.WriteLine("ibjqi");
-            Console.WriteLine("pgsfm");
-            Console.WriteLine("bhhnh");
-            Console.WriteLine("wxgme");
         }
     }
 }
