@@ -804,21 +804,6 @@ namespace MockCode
             Console.WriteLine("fonqr");
             Console.WriteLine("wvpkv");
             Console.WriteLine("mehdt");
-            Console.WriteLine("xohef");
-            Console.WriteLine("sktdn");
-            Console.WriteLine("pysql");
-            Console.WriteLine("uogfh");
-            Console.WriteLine("irvkj");
-            Console.WriteLine("ijipl");
-            Console.WriteLine("vavgc");
-            Console.WriteLine("pvtoj");
-            Console.WriteLine("ajgwm");
-            Console.WriteLine("bttup");
-            Console.WriteLine("fscke");
-            Console.WriteLine("dtimi");
-            Console.WriteLine("cugaj");
-            Console.WriteLine("tjqat");
-            Console.WriteLine("renfd");
         }
     }
 }
