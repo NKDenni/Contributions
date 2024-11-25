@@ -787,8 +787,6 @@ namespace MockCode
             Console.WriteLine("mniwf");
             Console.WriteLine("aqcyy");
             Console.WriteLine("oxisp");
-            Console.WriteLine("nftru");
-            Console.WriteLine("tweev");
         }
     }
 }
