@@ -816,21 +816,6 @@ namespace MockCode
             Console.WriteLine("aogov");
             Console.WriteLine("acxfy");
             Console.WriteLine("aygmf");
-            Console.WriteLine("ftdpf");
-            Console.WriteLine("chuvo");
-            Console.WriteLine("lwebn");
-            Console.WriteLine("yisnn");
-            Console.WriteLine("ilvya");
-            Console.WriteLine("iasrq");
-            Console.WriteLine("pebpa");
-            Console.WriteLine("qeskk");
-            Console.WriteLine("rmlfe");
-            Console.WriteLine("htbng");
-            Console.WriteLine("cqkua");
-            Console.WriteLine("pbsfg");
-            Console.WriteLine("thwku");
-            Console.WriteLine("rkilg");
-            Console.WriteLine("uwnhf");
         }
     }
 }
