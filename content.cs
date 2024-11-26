@@ -801,21 +801,6 @@ namespace MockCode
             Console.WriteLine("wtjjl");
             Console.WriteLine("bberh");
             Console.WriteLine("qflvg");
-            Console.WriteLine("sskoh");
-            Console.WriteLine("bvufb");
-            Console.WriteLine("eebbe");
-            Console.WriteLine("henlk");
-            Console.WriteLine("sawut");
-            Console.WriteLine("tddjj");
-            Console.WriteLine("eddjr");
-            Console.WriteLine("gcqml");
-            Console.WriteLine("ylyqi");
-            Console.WriteLine("amjja");
-            Console.WriteLine("chuua");
-            Console.WriteLine("seaih");
-            Console.WriteLine("aogov");
-            Console.WriteLine("acxfy");
-            Console.WriteLine("aygmf");
         }
     }
 }
