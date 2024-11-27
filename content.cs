@@ -787,9 +787,6 @@ namespace MockCode
             Console.WriteLine("mniwf");
             Console.WriteLine("aqcyy");
             Console.WriteLine("xbqof");
-            Console.WriteLine("hqcwn");
-            Console.WriteLine("yfrgj");
-            Console.WriteLine("fobeq");
         }
     }
 }
