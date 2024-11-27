@@ -790,21 +790,6 @@ namespace MockCode
             Console.WriteLine("hqcwn");
             Console.WriteLine("yfrgj");
             Console.WriteLine("fobeq");
-            Console.WriteLine("mxjep");
-            Console.WriteLine("kxcse");
-            Console.WriteLine("poswk");
-            Console.WriteLine("gpxnh");
-            Console.WriteLine("kwqlk");
-            Console.WriteLine("uaxwg");
-            Console.WriteLine("jkbss");
-            Console.WriteLine("kwipd");
-            Console.WriteLine("bjurj");
-            Console.WriteLine("aodxh");
-            Console.WriteLine("uagne");
-            Console.WriteLine("sqcqh");
-            Console.WriteLine("ngokc");
-            Console.WriteLine("lmwtl");
-            Console.WriteLine("ytijb");
         }
     }
 }
