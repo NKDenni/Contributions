@@ -840,13 +840,6 @@ namespace MockCode
             Console.WriteLine("vyaax");
             Console.WriteLine("usjhb");
             Console.WriteLine("esyvk");
-            Console.WriteLine("cdjsa");
-            Console.WriteLine("pajbg");
-            Console.WriteLine("nlgeb");
-            Console.WriteLine("aokpq");
-            Console.WriteLine("yyajq");
-            Console.WriteLine("dpxft");
-            Console.WriteLine("gwbvn");
         }
     }
 }
