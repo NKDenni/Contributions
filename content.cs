@@ -787,14 +787,6 @@ namespace MockCode
             Console.WriteLine("mniwf");
             Console.WriteLine("aqcyy");
             Console.WriteLine("xbqof");
-            Console.WriteLine("kcwly");
-            Console.WriteLine("qotxb");
-            Console.WriteLine("gcdos");
-            Console.WriteLine("hyvpw");
-            Console.WriteLine("xqsmc");
-            Console.WriteLine("dfoia");
-            Console.WriteLine("rgsfh");
-            Console.WriteLine("bjeen");
         }
     }
 }
