@@ -842,13 +842,6 @@ namespace MockCode
             Console.WriteLine("lkasq");
             Console.WriteLine("dcfng");
             Console.WriteLine("tflvh");
-            Console.WriteLine("ifgmf");
-            Console.WriteLine("diaex");
-            Console.WriteLine("kfevh");
-            Console.WriteLine("lejrm");
-            Console.WriteLine("ehvtk");
-            Console.WriteLine("kthws");
-            Console.WriteLine("ecaev");
         }
     }
 }
