@@ -789,14 +789,6 @@ namespace MockCode
             Console.WriteLine("xbqof");
             Console.WriteLine("mpkxs");
             Console.WriteLine("livdi");
-            Console.WriteLine("yqgah");
-            Console.WriteLine("pbmlc");
-            Console.WriteLine("dirca");
-            Console.WriteLine("iiuiv");
-            Console.WriteLine("qkyum");
-            Console.WriteLine("tepgc");
-            Console.WriteLine("uvrew");
-            Console.WriteLine("ektdt");
         }
     }
 }
