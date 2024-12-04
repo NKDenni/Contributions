@@ -827,21 +827,6 @@ namespace MockCode
             Console.WriteLine("ovpxg");
             Console.WriteLine("wmqkk");
             Console.WriteLine("krpdi");
-            Console.WriteLine("ysrnr");
-            Console.WriteLine("lthoi");
-            Console.WriteLine("npdwu");
-            Console.WriteLine("uncpp");
-            Console.WriteLine("ajlvq");
-            Console.WriteLine("ejmbn");
-            Console.WriteLine("xjhbf");
-            Console.WriteLine("immmw");
-            Console.WriteLine("eomov");
-            Console.WriteLine("dkntb");
-            Console.WriteLine("oaswq");
-            Console.WriteLine("hdjeu");
-            Console.WriteLine("lkasq");
-            Console.WriteLine("dcfng");
-            Console.WriteLine("tflvh");
         }
     }
 }
