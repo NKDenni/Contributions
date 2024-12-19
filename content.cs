@@ -908,9 +908,6 @@ namespace MockCode
             Console.WriteLine("tvnew");
             Console.WriteLine("ktcdd");
             Console.WriteLine("ktsgv");
-            Console.WriteLine("ulgkr");
-            Console.WriteLine("coykg");
-            Console.WriteLine("psmoi");
         }
     }
 }
