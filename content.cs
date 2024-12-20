@@ -863,21 +863,6 @@ namespace MockCode
             Console.WriteLine("mtokr");
             Console.WriteLine("attsc");
             Console.WriteLine("jdwjm");
-            Console.WriteLine("vnyex");
-            Console.WriteLine("batad");
-            Console.WriteLine("bopip");
-            Console.WriteLine("cqtej");
-            Console.WriteLine("lnoof");
-            Console.WriteLine("upxck");
-            Console.WriteLine("fsysu");
-            Console.WriteLine("tkbih");
-            Console.WriteLine("rtumu");
-            Console.WriteLine("kecpk");
-            Console.WriteLine("ntxhw");
-            Console.WriteLine("kcgwh");
-            Console.WriteLine("cqqbo");
-            Console.WriteLine("dencf");
-            Console.WriteLine("aajgw");
         }
     }
 }
