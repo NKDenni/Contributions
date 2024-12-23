@@ -880,21 +880,6 @@ namespace MockCode
             Console.WriteLine("kyipr");
             Console.WriteLine("gjrbv");
             Console.WriteLine("rwhyk");
-            Console.WriteLine("oqgdt");
-            Console.WriteLine("svghm");
-            Console.WriteLine("srnhw");
-            Console.WriteLine("bvdwu");
-            Console.WriteLine("hfkxt");
-            Console.WriteLine("fqwtf");
-            Console.WriteLine("rlbdk");
-            Console.WriteLine("jwvce");
-            Console.WriteLine("jkqio");
-            Console.WriteLine("galqn");
-            Console.WriteLine("hjvxu");
-            Console.WriteLine("qtbwm");
-            Console.WriteLine("npqit");
-            Console.WriteLine("jpemb");
-            Console.WriteLine("mmbbj");
         }
     }
 }
