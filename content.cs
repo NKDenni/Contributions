@@ -853,21 +853,6 @@ namespace MockCode
             Console.WriteLine("dmwko");
             Console.WriteLine("vvfll");
             Console.WriteLine("mpwsk");
-            Console.WriteLine("rqxww");
-            Console.WriteLine("qreyg");
-            Console.WriteLine("rwhml");
-            Console.WriteLine("phhpw");
-            Console.WriteLine("xaovv");
-            Console.WriteLine("pfasb");
-            Console.WriteLine("jokaw");
-            Console.WriteLine("vupov");
-            Console.WriteLine("reftr");
-            Console.WriteLine("vssbr");
-            Console.WriteLine("jfkoi");
-            Console.WriteLine("sfucu");
-            Console.WriteLine("wgltf");
-            Console.WriteLine("yjjdu");
-            Console.WriteLine("seqwa");
         }
     }
 }
