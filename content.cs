@@ -898,20 +898,6 @@ namespace MockCode
             Console.WriteLine("noyaf");
             Console.WriteLine("mpjid");
             Console.WriteLine("svdwo");
-            Console.WriteLine("wccko");
-            Console.WriteLine("ndsin");
-            Console.WriteLine("sybdm");
-            Console.WriteLine("gslrj");
-            Console.WriteLine("nojmx");
-            Console.WriteLine("wfpbi");
-            Console.WriteLine("wcvin");
-            Console.WriteLine("gbomq");
-            Console.WriteLine("mouph");
-            Console.WriteLine("vwebv");
-            Console.WriteLine("kxdea");
-            Console.WriteLine("kwswf");
-            Console.WriteLine("ysbiq");
-            Console.WriteLine("qjpmt");
         }
     }
 }
