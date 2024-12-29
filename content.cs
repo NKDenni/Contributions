@@ -868,21 +868,6 @@ namespace MockCode
             Console.WriteLine("iqttj");
             Console.WriteLine("pioko");
             Console.WriteLine("icftn");
-            Console.WriteLine("ovouc");
-            Console.WriteLine("cbgjd");
-            Console.WriteLine("sauxy");
-            Console.WriteLine("tcopd");
-            Console.WriteLine("xdmpo");
-            Console.WriteLine("ikshk");
-            Console.WriteLine("txekw");
-            Console.WriteLine("dypsb");
-            Console.WriteLine("preyv");
-            Console.WriteLine("uwijn");
-            Console.WriteLine("mueau");
-            Console.WriteLine("gdqwf");
-            Console.WriteLine("jfrih");
-            Console.WriteLine("prwat");
-            Console.WriteLine("crerl");
         }
     }
 }
