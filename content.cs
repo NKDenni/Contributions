@@ -888,21 +888,6 @@ namespace MockCode
             Console.WriteLine("yrqqm");
             Console.WriteLine("yvjrv");
             Console.WriteLine("rjjos");
-            Console.WriteLine("janvx");
-            Console.WriteLine("qsvsl");
-            Console.WriteLine("ithiq");
-            Console.WriteLine("pwsna");
-            Console.WriteLine("tsgar");
-            Console.WriteLine("ebguj");
-            Console.WriteLine("axotl");
-            Console.WriteLine("aqnwr");
-            Console.WriteLine("ephou");
-            Console.WriteLine("bngvo");
-            Console.WriteLine("ycglv");
-            Console.WriteLine("xnlcl");
-            Console.WriteLine("hkdwx");
-            Console.WriteLine("rosev");
-            Console.WriteLine("ywrbq");
         }
     }
 }
