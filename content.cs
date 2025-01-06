@@ -856,8 +856,6 @@ namespace MockCode
             Console.WriteLine("qldmi");
             Console.WriteLine("ghwkc");
             Console.WriteLine("ebpnd");
-            Console.WriteLine("wschm");
-            Console.WriteLine("nrknj");
         }
     }
 }
