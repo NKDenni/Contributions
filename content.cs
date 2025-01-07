@@ -910,12 +910,6 @@ namespace MockCode
             Console.WriteLine("hpiky");
             Console.WriteLine("mopjc");
             Console.WriteLine("hrmyu");
-            Console.WriteLine("kvces");
-            Console.WriteLine("ruweh");
-            Console.WriteLine("urrms");
-            Console.WriteLine("gqcay");
-            Console.WriteLine("wkfyk");
-            Console.WriteLine("mqiek");
         }
     }
 }
