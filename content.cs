@@ -906,21 +906,6 @@ namespace MockCode
             Console.WriteLine("grbee");
             Console.WriteLine("yqdql");
             Console.WriteLine("dnoiw");
-            Console.WriteLine("drcxg");
-            Console.WriteLine("ncong");
-            Console.WriteLine("mrkfr");
-            Console.WriteLine("yuyuo");
-            Console.WriteLine("oddcn");
-            Console.WriteLine("rwhgm");
-            Console.WriteLine("jxpnk");
-            Console.WriteLine("ctxla");
-            Console.WriteLine("uwlfr");
-            Console.WriteLine("pkfjq");
-            Console.WriteLine("buwch");
-            Console.WriteLine("hwtkl");
-            Console.WriteLine("neejg");
-            Console.WriteLine("srgeg");
-            Console.WriteLine("hpkmj");
         }
     }
 }
