@@ -870,12 +870,6 @@ namespace MockCode
             Console.WriteLine("ikpbq");
             Console.WriteLine("aidtt");
             Console.WriteLine("awmnd");
-            Console.WriteLine("sxmmq");
-            Console.WriteLine("embrc");
-            Console.WriteLine("aljcm");
-            Console.WriteLine("jqtii");
-            Console.WriteLine("cxqcm");
-            Console.WriteLine("lqqgd");
         }
     }
 }
