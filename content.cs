@@ -921,15 +921,6 @@ namespace MockCode
             Console.WriteLine("neejg");
             Console.WriteLine("srgeg");
             Console.WriteLine("hpkmj");
-            Console.WriteLine("yqdku");
-            Console.WriteLine("fcbnk");
-            Console.WriteLine("tbrsn");
-            Console.WriteLine("gnucm");
-            Console.WriteLine("hcttr");
-            Console.WriteLine("mlrta");
-            Console.WriteLine("xldtq");
-            Console.WriteLine("dnswe");
-            Console.WriteLine("fqauu");
         }
     }
 }
