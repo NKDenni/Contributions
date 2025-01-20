@@ -961,21 +961,6 @@ namespace MockCode
             Console.WriteLine("kwqhb");
             Console.WriteLine("pppwi");
             Console.WriteLine("lsohs");
-            Console.WriteLine("cumtx");
-            Console.WriteLine("qsrwj");
-            Console.WriteLine("cmrwr");
-            Console.WriteLine("quelg");
-            Console.WriteLine("wrhtr");
-            Console.WriteLine("mwamf");
-            Console.WriteLine("gilfi");
-            Console.WriteLine("prutj");
-            Console.WriteLine("xnrwt");
-            Console.WriteLine("wtmth");
-            Console.WriteLine("gandt");
-            Console.WriteLine("trbba");
-            Console.WriteLine("moelr");
-            Console.WriteLine("kgbpw");
-            Console.WriteLine("fjltn");
         }
     }
 }
