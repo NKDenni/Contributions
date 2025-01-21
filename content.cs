@@ -931,21 +931,6 @@ namespace MockCode
             Console.WriteLine("cjldq");
             Console.WriteLine("qfwka");
             Console.WriteLine("yworb");
-            Console.WriteLine("qsgyr");
-            Console.WriteLine("jiyyr");
-            Console.WriteLine("gwixp");
-            Console.WriteLine("jusdq");
-            Console.WriteLine("ubqba");
-            Console.WriteLine("gbldl");
-            Console.WriteLine("hqpdf");
-            Console.WriteLine("ligmw");
-            Console.WriteLine("jkkgd");
-            Console.WriteLine("cvbga");
-            Console.WriteLine("pvywf");
-            Console.WriteLine("uvtdp");
-            Console.WriteLine("otasd");
-            Console.WriteLine("mfuhg");
-            Console.WriteLine("yldgf");
         }
     }
 }
