@@ -988,21 +988,6 @@ namespace MockCode
             Console.WriteLine("kkuqm");
             Console.WriteLine("fhlxw");
             Console.WriteLine("sjseg");
-            Console.WriteLine("pdiwu");
-            Console.WriteLine("apqeq");
-            Console.WriteLine("ergcd");
-            Console.WriteLine("jofgp");
-            Console.WriteLine("pltjw");
-            Console.WriteLine("qslgb");
-            Console.WriteLine("ctnnq");
-            Console.WriteLine("uajub");
-            Console.WriteLine("vflha");
-            Console.WriteLine("smjmk");
-            Console.WriteLine("plsnq");
-            Console.WriteLine("asbmk");
-            Console.WriteLine("ctghw");
-            Console.WriteLine("fvaxy");
-            Console.WriteLine("xvndn");
         }
     }
 }
