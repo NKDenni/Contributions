@@ -973,21 +973,6 @@ namespace MockCode
             Console.WriteLine("vjgec");
             Console.WriteLine("hdhqb");
             Console.WriteLine("xdrgb");
-            Console.WriteLine("taotw");
-            Console.WriteLine("mxsbm");
-            Console.WriteLine("mecsg");
-            Console.WriteLine("pyepm");
-            Console.WriteLine("aykao");
-            Console.WriteLine("svcbp");
-            Console.WriteLine("yiipt");
-            Console.WriteLine("musmr");
-            Console.WriteLine("qdbfr");
-            Console.WriteLine("eljgp");
-            Console.WriteLine("kxrym");
-            Console.WriteLine("ykjkd");
-            Console.WriteLine("kkuqm");
-            Console.WriteLine("fhlxw");
-            Console.WriteLine("sjseg");
         }
     }
 }
