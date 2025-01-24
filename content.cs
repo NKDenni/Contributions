@@ -970,21 +970,6 @@ namespace MockCode
             Console.WriteLine("lrogt");
             Console.WriteLine("feanh");
             Console.WriteLine("edoum");
-            Console.WriteLine("afech");
-            Console.WriteLine("mvaga");
-            Console.WriteLine("vnwuv");
-            Console.WriteLine("nxgyu");
-            Console.WriteLine("mkljj");
-            Console.WriteLine("uystj");
-            Console.WriteLine("vctqu");
-            Console.WriteLine("hbhov");
-            Console.WriteLine("bfucw");
-            Console.WriteLine("tbjff");
-            Console.WriteLine("jkndd");
-            Console.WriteLine("ysknd");
-            Console.WriteLine("ksyqo");
-            Console.WriteLine("qwtee");
-            Console.WriteLine("shbkc");
         }
     }
 }
