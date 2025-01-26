@@ -992,18 +992,6 @@ namespace MockCode
             Console.WriteLine("lhpbi");
             Console.WriteLine("atfdy");
             Console.WriteLine("foaui");
-            Console.WriteLine("fjwub");
-            Console.WriteLine("jwnqw");
-            Console.WriteLine("sntwr");
-            Console.WriteLine("mheue");
-            Console.WriteLine("msssn");
-            Console.WriteLine("tqfxk");
-            Console.WriteLine("kvlsb");
-            Console.WriteLine("ifcqc");
-            Console.WriteLine("aybhx");
-            Console.WriteLine("qjkpf");
-            Console.WriteLine("ofmur");
-            Console.WriteLine("mlndh");
         }
     }
 }
