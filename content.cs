@@ -977,21 +977,6 @@ namespace MockCode
             Console.WriteLine("hemse");
             Console.WriteLine("ymgtl");
             Console.WriteLine("alpaf");
-            Console.WriteLine("uqngg");
-            Console.WriteLine("pufdx");
-            Console.WriteLine("hcyws");
-            Console.WriteLine("dvovk");
-            Console.WriteLine("flsqi");
-            Console.WriteLine("oqnys");
-            Console.WriteLine("miuyq");
-            Console.WriteLine("sduiq");
-            Console.WriteLine("tdkvp");
-            Console.WriteLine("cnncv");
-            Console.WriteLine("gymfp");
-            Console.WriteLine("dmdyh");
-            Console.WriteLine("lhpbi");
-            Console.WriteLine("atfdy");
-            Console.WriteLine("foaui");
         }
     }
 }
