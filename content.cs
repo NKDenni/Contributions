@@ -962,21 +962,6 @@ namespace MockCode
             Console.WriteLine("nmbis");
             Console.WriteLine("xchma");
             Console.WriteLine("aexuj");
-            Console.WriteLine("suvtu");
-            Console.WriteLine("ugnio");
-            Console.WriteLine("dqqkj");
-            Console.WriteLine("ercmf");
-            Console.WriteLine("lrboh");
-            Console.WriteLine("drcqp");
-            Console.WriteLine("qiech");
-            Console.WriteLine("ceayx");
-            Console.WriteLine("rqvry");
-            Console.WriteLine("yrhsr");
-            Console.WriteLine("slxgm");
-            Console.WriteLine("ksdkj");
-            Console.WriteLine("hemse");
-            Console.WriteLine("ymgtl");
-            Console.WriteLine("alpaf");
         }
     }
 }
