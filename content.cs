@@ -954,14 +954,6 @@ namespace MockCode
             Console.WriteLine("qtukt");
             Console.WriteLine("egyqw");
             Console.WriteLine("liukn");
-            Console.WriteLine("jtxrm");
-            Console.WriteLine("msump");
-            Console.WriteLine("cuigq");
-            Console.WriteLine("otnrw");
-            Console.WriteLine("qalbt");
-            Console.WriteLine("nmbis");
-            Console.WriteLine("xchma");
-            Console.WriteLine("aexuj");
         }
     }
 }
