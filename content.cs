@@ -999,21 +999,11 @@ namespace MockCode
             Console.WriteLine("bxbye");
             Console.WriteLine("auahk");
             Console.WriteLine("sokke");
-            Console.WriteLine("jaqmd");
-            Console.WriteLine("wvwaf");
-            Console.WriteLine("ycrtb");
-            Console.WriteLine("nbplr");
-            Console.WriteLine("rgvxn");
-            Console.WriteLine("ceuhu");
-            Console.WriteLine("eqaau");
-            Console.WriteLine("wfsgj");
-            Console.WriteLine("epvga");
-            Console.WriteLine("vmswr");
-            Console.WriteLine("koyrr");
-            Console.WriteLine("nxifj");
-            Console.WriteLine("ncjgv");
-            Console.WriteLine("mnqxe");
-            Console.WriteLine("ibssd");
+            Console.WriteLine("xdprg");
+            Console.WriteLine("wxhbu");
+            Console.WriteLine("osqud");
+            Console.WriteLine("peubx");
+            Console.WriteLine("qggjh");
         }
     }
 }
