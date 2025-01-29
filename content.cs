@@ -1041,7 +1041,8 @@ namespace MockCode
             Console.WriteLine("bluos");
             Console.WriteLine("blnih");
             Console.WriteLine("ikkkg");
-            Console.WriteLine("kynkm");
+            Console.WriteLine("hkehd");
+            Console.WriteLine("wphyu");
         }
     }
 }
