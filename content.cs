@@ -1047,14 +1047,10 @@ namespace MockCode
             Console.WriteLine("bjiia");
             Console.WriteLine("cfppd");
             Console.WriteLine("qsbdt");
-            Console.WriteLine("jwyfr");
-            Console.WriteLine("wrlol");
-            Console.WriteLine("lputl");
-            Console.WriteLine("gwgbu");
-            Console.WriteLine("xbbei");
-            Console.WriteLine("dkpnf");
-            Console.WriteLine("txcny");
-            Console.WriteLine("htwrm");
+            Console.WriteLine("nvukq");
+            Console.WriteLine("cenmn");
+            Console.WriteLine("uwgfi");
+            Console.WriteLine("wwcvj");
         }
     }
 }
