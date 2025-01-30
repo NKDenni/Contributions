@@ -1062,21 +1062,10 @@ namespace MockCode
             Console.WriteLine("qvpvd");
             Console.WriteLine("dmyin");
             Console.WriteLine("dqlow");
-            Console.WriteLine("odiog");
-            Console.WriteLine("ittlr");
-            Console.WriteLine("edyrx");
-            Console.WriteLine("kuekg");
-            Console.WriteLine("sokns");
-            Console.WriteLine("vrpji");
-            Console.WriteLine("xwdww");
-            Console.WriteLine("girqi");
-            Console.WriteLine("qogwv");
-            Console.WriteLine("bvsll");
-            Console.WriteLine("xatxd");
-            Console.WriteLine("lvmqu");
-            Console.WriteLine("kctov");
-            Console.WriteLine("fmfiu");
-            Console.WriteLine("chqcf");
+            Console.WriteLine("kcatv");
+            Console.WriteLine("lrips");
+            Console.WriteLine("ietfn");
+            Console.WriteLine("gfscl");
         }
     }
 }
