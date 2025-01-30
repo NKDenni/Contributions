@@ -1073,21 +1073,10 @@ namespace MockCode
             Console.WriteLine("qogwv");
             Console.WriteLine("bvsll");
             Console.WriteLine("xatxd");
-            Console.WriteLine("rmhkb");
-            Console.WriteLine("spvfo");
-            Console.WriteLine("qemsk");
-            Console.WriteLine("wtcxo");
-            Console.WriteLine("ejhwg");
-            Console.WriteLine("pdfob");
-            Console.WriteLine("xkcvw");
-            Console.WriteLine("ldmij");
-            Console.WriteLine("agatf");
-            Console.WriteLine("grcfd");
-            Console.WriteLine("ocist");
-            Console.WriteLine("okesd");
-            Console.WriteLine("jbpmk");
-            Console.WriteLine("yohiv");
-            Console.WriteLine("faaky");
+            Console.WriteLine("lvmqu");
+            Console.WriteLine("kctov");
+            Console.WriteLine("fmfiu");
+            Console.WriteLine("chqcf");
         }
     }
 }
