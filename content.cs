@@ -1051,21 +1051,10 @@ namespace MockCode
             Console.WriteLine("wrlol");
             Console.WriteLine("lputl");
             Console.WriteLine("gwgbu");
-            Console.WriteLine("ndpvl");
-            Console.WriteLine("ogacu");
-            Console.WriteLine("vtoht");
-            Console.WriteLine("ytdjn");
-            Console.WriteLine("fdbri");
-            Console.WriteLine("lmpts");
-            Console.WriteLine("hmjqk");
-            Console.WriteLine("cbkoh");
-            Console.WriteLine("qvpvd");
-            Console.WriteLine("dmyin");
-            Console.WriteLine("dqlow");
-            Console.WriteLine("kcatv");
-            Console.WriteLine("lrips");
-            Console.WriteLine("ietfn");
-            Console.WriteLine("gfscl");
+            Console.WriteLine("xbbei");
+            Console.WriteLine("dkpnf");
+            Console.WriteLine("txcny");
+            Console.WriteLine("htwrm");
         }
     }
 }
