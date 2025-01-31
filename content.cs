@@ -1128,21 +1128,8 @@ namespace MockCode
             Console.WriteLine("tbfao");
             Console.WriteLine("kqxoa");
             Console.WriteLine("ypsxx");
-            Console.WriteLine("iqdva");
-            Console.WriteLine("gpliv");
-            Console.WriteLine("wdpxu");
-            Console.WriteLine("ruvbc");
-            Console.WriteLine("tojlk");
-            Console.WriteLine("kccre");
-            Console.WriteLine("hrsoi");
-            Console.WriteLine("hbbow");
-            Console.WriteLine("wllvp");
-            Console.WriteLine("ogqds");
-            Console.WriteLine("sgwoa");
-            Console.WriteLine("kuihx");
-            Console.WriteLine("hlauh");
-            Console.WriteLine("vrcvy");
-            Console.WriteLine("lcmam");
+            Console.WriteLine("ktbyu");
+            Console.WriteLine("impgh");
         }
     }
 }
