@@ -1141,17 +1141,8 @@ namespace MockCode
             Console.WriteLine("sgwoa");
             Console.WriteLine("kuihx");
             Console.WriteLine("hlauh");
-            Console.WriteLine("xtdfc");
-            Console.WriteLine("spqfu");
-            Console.WriteLine("iysqd");
-            Console.WriteLine("unlvn");
-            Console.WriteLine("scqlc");
-            Console.WriteLine("mdltx");
-            Console.WriteLine("lfgpi");
-            Console.WriteLine("ackrf");
-            Console.WriteLine("mbydb");
-            Console.WriteLine("icqpc");
-            Console.WriteLine("hlmxp");
+            Console.WriteLine("vrcvy");
+            Console.WriteLine("lcmam");
         }
     }
 }
