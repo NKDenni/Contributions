@@ -1100,10 +1100,8 @@ namespace MockCode
             Console.WriteLine("mfrnw");
             Console.WriteLine("pggtj");
             Console.WriteLine("qfych");
-            Console.WriteLine("wpjcb");
-            Console.WriteLine("jxari");
-            Console.WriteLine("deakh");
-            Console.WriteLine("memou");
+            Console.WriteLine("nsqbo");
+            Console.WriteLine("khbxr");
         }
     }
 }
