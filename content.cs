@@ -1158,10 +1158,6 @@ namespace MockCode
             Console.WriteLine("pxfkt");
             Console.WriteLine("gjaix");
             Console.WriteLine("dmeky");
-            Console.WriteLine("xowpi");
-            Console.WriteLine("ppcmg");
-            Console.WriteLine("sapnj");
-            Console.WriteLine("bfmiy");
         }
     }
 }
