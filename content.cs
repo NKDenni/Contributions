@@ -1102,17 +1102,6 @@ namespace MockCode
             Console.WriteLine("qfych");
             Console.WriteLine("nsqbo");
             Console.WriteLine("khbxr");
-            Console.WriteLine("bgkrs");
-            Console.WriteLine("srcbd");
-            Console.WriteLine("hswcv");
-            Console.WriteLine("nvthj");
-            Console.WriteLine("ojvwt");
-            Console.WriteLine("cjjng");
-            Console.WriteLine("aiydj");
-            Console.WriteLine("lamea");
-            Console.WriteLine("pkjst");
-            Console.WriteLine("ksfoi");
-            Console.WriteLine("nnkff");
         }
     }
 }
