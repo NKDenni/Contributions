@@ -1068,10 +1068,6 @@ namespace MockCode
             Console.WriteLine("ixsqp");
             Console.WriteLine("oqpoa");
             Console.WriteLine("ogkhl");
-            Console.WriteLine("sdvjd");
-            Console.WriteLine("qmjlb");
-            Console.WriteLine("mrupt");
-            Console.WriteLine("gbvme");
         }
     }
 }
