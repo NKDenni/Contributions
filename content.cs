@@ -1075,21 +1075,6 @@ namespace MockCode
             Console.WriteLine("baush");
             Console.WriteLine("lgjnt");
             Console.WriteLine("mvdcl");
-            Console.WriteLine("ebcyv");
-            Console.WriteLine("qkvov");
-            Console.WriteLine("qlmfm");
-            Console.WriteLine("joklx");
-            Console.WriteLine("symrq");
-            Console.WriteLine("sastu");
-            Console.WriteLine("qmryp");
-            Console.WriteLine("tdqpf");
-            Console.WriteLine("ndeuu");
-            Console.WriteLine("ubitb");
-            Console.WriteLine("eajid");
-            Console.WriteLine("udwov");
-            Console.WriteLine("rggru");
-            Console.WriteLine("fcvxg");
-            Console.WriteLine("dsmja");
         }
     }
 }
