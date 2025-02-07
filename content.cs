@@ -1059,7 +1059,6 @@ namespace MockCode
             Console.WriteLine("jbuqm");
             Console.WriteLine("efpjk");
             Console.WriteLine("pchnm");
-            Console.WriteLine("dqiij");
         }
     }
 }
