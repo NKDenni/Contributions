@@ -1062,7 +1062,6 @@ namespace MockCode
             Console.WriteLine("irteu");
             Console.WriteLine("xccuy");
             Console.WriteLine("pkrub");
-            Console.WriteLine("lnghb");
         }
     }
 }
