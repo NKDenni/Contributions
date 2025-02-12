@@ -1088,13 +1088,6 @@ namespace MockCode
             Console.WriteLine("jbhbg");
             Console.WriteLine("newuc");
             Console.WriteLine("lslgo");
-            Console.WriteLine("nxujw");
-            Console.WriteLine("iciwj");
-            Console.WriteLine("nhlil");
-            Console.WriteLine("olwxl");
-            Console.WriteLine("vqorg");
-            Console.WriteLine("cegna");
-            Console.WriteLine("qtryg");
         }
     }
 }
