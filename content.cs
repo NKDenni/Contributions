@@ -1088,6 +1088,7 @@ namespace MockCode
             Console.WriteLine("jbhbg");
             Console.WriteLine("newuc");
             Console.WriteLine("lslgo");
+            Console.WriteLine("khbqi");
         }
     }
 }
