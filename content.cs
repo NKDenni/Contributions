@@ -1110,12 +1110,6 @@ namespace MockCode
             Console.WriteLine("xxjqv");
             Console.WriteLine("kdjbt");
             Console.WriteLine("eoroy");
-            Console.WriteLine("hkpnm");
-            Console.WriteLine("iwsec");
-            Console.WriteLine("ypeyr");
-            Console.WriteLine("sfofu");
-            Console.WriteLine("hoajk");
-            Console.WriteLine("nocsf");
         }
     }
 }
