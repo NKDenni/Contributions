@@ -1086,13 +1086,6 @@ namespace MockCode
             Console.WriteLine("fwibp");
             Console.WriteLine("npnar");
             Console.WriteLine("jbhbg");
-            Console.WriteLine("newuc");
-            Console.WriteLine("lslgo");
-            Console.WriteLine("khbqi");
-            Console.WriteLine("xebkl");
-            Console.WriteLine("suagw");
-            Console.WriteLine("oiure");
-            Console.WriteLine("nguha");
         }
     }
 }
