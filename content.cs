@@ -1102,8 +1102,6 @@ namespace MockCode
             Console.WriteLine("rfqan");
             Console.WriteLine("gngjo");
             Console.WriteLine("xvblo");
-            Console.WriteLine("igrxb");
-            Console.WriteLine("yexvn");
         }
     }
 }
