@@ -1149,12 +1149,6 @@ namespace MockCode
             Console.WriteLine("shvio");
             Console.WriteLine("quirn");
             Console.WriteLine("hgple");
-            Console.WriteLine("xwvfk");
-            Console.WriteLine("tsulo");
-            Console.WriteLine("tpbhn");
-            Console.WriteLine("yeuve");
-            Console.WriteLine("lxppe");
-            Console.WriteLine("wyiid");
         }
     }
 }
