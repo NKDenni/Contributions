@@ -1104,21 +1104,6 @@ namespace MockCode
             Console.WriteLine("xvblo");
             Console.WriteLine("igrxb");
             Console.WriteLine("yexvn");
-            Console.WriteLine("dddjj");
-            Console.WriteLine("hoeyb");
-            Console.WriteLine("tfolj");
-            Console.WriteLine("khwkh");
-            Console.WriteLine("hnpdn");
-            Console.WriteLine("timtj");
-            Console.WriteLine("qiova");
-            Console.WriteLine("omfui");
-            Console.WriteLine("iursm");
-            Console.WriteLine("eiujc");
-            Console.WriteLine("dydps");
-            Console.WriteLine("nevwa");
-            Console.WriteLine("agulb");
-            Console.WriteLine("cdvfk");
-            Console.WriteLine("dycwr");
         }
     }
 }
