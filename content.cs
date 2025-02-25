@@ -1397,9 +1397,6 @@ namespace MockCode
             Console.WriteLine("msfgd");
             Console.WriteLine("fllba");
             Console.WriteLine("fuwum");
-            Console.WriteLine("cqhdf");
-            Console.WriteLine("voabq");
-            Console.WriteLine("jkhwc");
         }
     }
 }
