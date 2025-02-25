@@ -1445,13 +1445,6 @@ namespace MockCode
             Console.WriteLine("hpnnf");
             Console.WriteLine("scedk");
             Console.WriteLine("mdgwu");
-            Console.WriteLine("vjvev");
-            Console.WriteLine("jhnjw");
-            Console.WriteLine("tctyh");
-            Console.WriteLine("qrdur");
-            Console.WriteLine("wakcf");
-            Console.WriteLine("wkrgi");
-            Console.WriteLine("desfw");
         }
     }
 }
