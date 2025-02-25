@@ -1430,21 +1430,6 @@ namespace MockCode
             Console.WriteLine("uowkj");
             Console.WriteLine("rieyb");
             Console.WriteLine("biutn");
-            Console.WriteLine("hgatt");
-            Console.WriteLine("qieid");
-            Console.WriteLine("dhnaf");
-            Console.WriteLine("ejjrw");
-            Console.WriteLine("jvuaw");
-            Console.WriteLine("bvvjp");
-            Console.WriteLine("igycg");
-            Console.WriteLine("eeoco");
-            Console.WriteLine("pgjob");
-            Console.WriteLine("gxeko");
-            Console.WriteLine("jbyos");
-            Console.WriteLine("vpygk");
-            Console.WriteLine("hpnnf");
-            Console.WriteLine("scedk");
-            Console.WriteLine("mdgwu");
         }
     }
 }
