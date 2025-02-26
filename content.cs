@@ -1392,36 +1392,6 @@ namespace MockCode
             Console.WriteLine("guugy");
             Console.WriteLine("ymfdk");
             Console.WriteLine("jwsgl");
-            Console.WriteLine("rwdky");
-            Console.WriteLine("noyxg");
-            Console.WriteLine("pvgqm");
-            Console.WriteLine("aburp");
-            Console.WriteLine("ojxre");
-            Console.WriteLine("qyotd");
-            Console.WriteLine("lpdqv");
-            Console.WriteLine("etsfw");
-            Console.WriteLine("ynriy");
-            Console.WriteLine("udkvu");
-            Console.WriteLine("dcfdw");
-            Console.WriteLine("tvgkj");
-            Console.WriteLine("pvpok");
-            Console.WriteLine("ulxgd");
-            Console.WriteLine("viyvg");
-            Console.WriteLine("svjco");
-            Console.WriteLine("ibsej");
-            Console.WriteLine("vsvwr");
-            Console.WriteLine("qudna");
-            Console.WriteLine("xbryc");
-            Console.WriteLine("xyqep");
-            Console.WriteLine("tchpn");
-            Console.WriteLine("ryfoc");
-            Console.WriteLine("lulcg");
-            Console.WriteLine("kfkmw");
-            Console.WriteLine("brjgf");
-            Console.WriteLine("tayma");
-            Console.WriteLine("lmjxr");
-            Console.WriteLine("blmkc");
-            Console.WriteLine("dvgst");
         }
     }
 }
