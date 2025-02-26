@@ -1389,14 +1389,6 @@ namespace MockCode
             Console.WriteLine("dvkev");
             Console.WriteLine("iauwp");
             Console.WriteLine("kvoyd");
-            Console.WriteLine("pyccx");
-            Console.WriteLine("iqums");
-            Console.WriteLine("pnxmk");
-            Console.WriteLine("cgidj");
-            Console.WriteLine("pesja");
-            Console.WriteLine("msfgd");
-            Console.WriteLine("fllba");
-            Console.WriteLine("fuwum");
         }
     }
 }
