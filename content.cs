@@ -1440,15 +1440,6 @@ namespace MockCode
             Console.WriteLine("fjsuh");
             Console.WriteLine("nxpxg");
             Console.WriteLine("rijml");
-            Console.WriteLine("ftlyd");
-            Console.WriteLine("krijp");
-            Console.WriteLine("eihwx");
-            Console.WriteLine("nsvpo");
-            Console.WriteLine("ihphj");
-            Console.WriteLine("fmdfd");
-            Console.WriteLine("wjcsu");
-            Console.WriteLine("ybwph");
-            Console.WriteLine("pacph");
         }
     }
 }
