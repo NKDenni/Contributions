@@ -1425,21 +1425,6 @@ namespace MockCode
             Console.WriteLine("kgvsj");
             Console.WriteLine("oobdr");
             Console.WriteLine("lrsrc");
-            Console.WriteLine("nlwfm");
-            Console.WriteLine("royjh");
-            Console.WriteLine("hourh");
-            Console.WriteLine("kwduf");
-            Console.WriteLine("ktuqs");
-            Console.WriteLine("nfabk");
-            Console.WriteLine("kycfu");
-            Console.WriteLine("gmojb");
-            Console.WriteLine("hwdmy");
-            Console.WriteLine("oahnw");
-            Console.WriteLine("uioog");
-            Console.WriteLine("uaatt");
-            Console.WriteLine("fjsuh");
-            Console.WriteLine("nxpxg");
-            Console.WriteLine("rijml");
         }
     }
 }
