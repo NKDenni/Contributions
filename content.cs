@@ -1395,21 +1395,6 @@ namespace MockCode
             Console.WriteLine("njwfe");
             Console.WriteLine("sqobu");
             Console.WriteLine("dfoni");
-            Console.WriteLine("gyxdk");
-            Console.WriteLine("tgcca");
-            Console.WriteLine("psyml");
-            Console.WriteLine("rvcvn");
-            Console.WriteLine("vbmng");
-            Console.WriteLine("pgrgn");
-            Console.WriteLine("hfnnk");
-            Console.WriteLine("amclf");
-            Console.WriteLine("cokrm");
-            Console.WriteLine("grbqb");
-            Console.WriteLine("babtr");
-            Console.WriteLine("foffn");
-            Console.WriteLine("swbmv");
-            Console.WriteLine("uiqwm");
-            Console.WriteLine("eqtwe");
         }
     }
 }
