@@ -1389,12 +1389,6 @@ namespace MockCode
             Console.WriteLine("dvkev");
             Console.WriteLine("iauwp");
             Console.WriteLine("kvoyd");
-            Console.WriteLine("kqtip");
-            Console.WriteLine("ckpyu");
-            Console.WriteLine("okuwf");
-            Console.WriteLine("njwfe");
-            Console.WriteLine("sqobu");
-            Console.WriteLine("dfoni");
         }
     }
 }
