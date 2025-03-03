@@ -1410,21 +1410,6 @@ namespace MockCode
             Console.WriteLine("swbmv");
             Console.WriteLine("uiqwm");
             Console.WriteLine("eqtwe");
-            Console.WriteLine("vldpt");
-            Console.WriteLine("cbcsx");
-            Console.WriteLine("tcvaf");
-            Console.WriteLine("lnefn");
-            Console.WriteLine("yexme");
-            Console.WriteLine("oipeb");
-            Console.WriteLine("asdjn");
-            Console.WriteLine("hytby");
-            Console.WriteLine("qmpmp");
-            Console.WriteLine("weoxf");
-            Console.WriteLine("fdlcy");
-            Console.WriteLine("npcfn");
-            Console.WriteLine("kgvsj");
-            Console.WriteLine("oobdr");
-            Console.WriteLine("lrsrc");
         }
     }
 }
