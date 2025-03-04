@@ -1435,20 +1435,6 @@ namespace MockCode
             Console.WriteLine("teuil");
             Console.WriteLine("wgbte");
             Console.WriteLine("cjjgl");
-            Console.WriteLine("jxelq");
-            Console.WriteLine("tmtag");
-            Console.WriteLine("fvvaj");
-            Console.WriteLine("kctqu");
-            Console.WriteLine("tlfgx");
-            Console.WriteLine("cyosb");
-            Console.WriteLine("xnlew");
-            Console.WriteLine("umlmd");
-            Console.WriteLine("lpgsm");
-            Console.WriteLine("rlsln");
-            Console.WriteLine("jnakq");
-            Console.WriteLine("kpvri");
-            Console.WriteLine("ikklo");
-            Console.WriteLine("vmhqx");
         }
     }
 }
