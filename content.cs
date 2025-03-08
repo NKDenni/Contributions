@@ -1391,21 +1391,12 @@ namespace MockCode
             Console.WriteLine("bdjdx");
             Console.WriteLine("sevdt");
             Console.WriteLine("ciqmc");
-            Console.WriteLine("ibyvs");
-            Console.WriteLine("wqygd");
-            Console.WriteLine("wymdy");
-            Console.WriteLine("bjivf");
-            Console.WriteLine("gkffe");
-            Console.WriteLine("wyvga");
-            Console.WriteLine("guakx");
-            Console.WriteLine("agjgu");
-            Console.WriteLine("kudny");
-            Console.WriteLine("qkjkn");
-            Console.WriteLine("algdm");
-            Console.WriteLine("fmsup");
-            Console.WriteLine("xobey");
-            Console.WriteLine("itque");
-            Console.WriteLine("ppajr");
+            Console.WriteLine("jnmig");
+            Console.WriteLine("tqhfk");
+            Console.WriteLine("fhvsc");
+            Console.WriteLine("vrquq");
+            Console.WriteLine("jummw");
+            Console.WriteLine("bybsc");
         }
     }
 }
