@@ -1407,9 +1407,6 @@ namespace MockCode
             Console.WriteLine("qkfqr");
             Console.WriteLine("vgifv");
             Console.WriteLine("minet");
-            Console.WriteLine("wrdcv");
-            Console.WriteLine("ygsdg");
-            Console.WriteLine("apgdm");
         }
     }
 }
