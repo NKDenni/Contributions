@@ -1483,21 +1483,6 @@ namespace MockCode
             Console.WriteLine("ofqiq");
             Console.WriteLine("bpwht");
             Console.WriteLine("jsrio");
-            Console.WriteLine("nesdm");
-            Console.WriteLine("jmrbx");
-            Console.WriteLine("mldgj");
-            Console.WriteLine("btpmp");
-            Console.WriteLine("garex");
-            Console.WriteLine("autvj");
-            Console.WriteLine("vqkem");
-            Console.WriteLine("gnlfw");
-            Console.WriteLine("fmdej");
-            Console.WriteLine("onscc");
-            Console.WriteLine("wcnvo");
-            Console.WriteLine("arhct");
-            Console.WriteLine("mserr");
-            Console.WriteLine("wmqed");
-            Console.WriteLine("brgxr");
         }
     }
 }
