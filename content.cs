@@ -1468,21 +1468,6 @@ namespace MockCode
             Console.WriteLine("uimhm");
             Console.WriteLine("nxamu");
             Console.WriteLine("yrpip");
-            Console.WriteLine("vmrtv");
-            Console.WriteLine("aioqr");
-            Console.WriteLine("layrw");
-            Console.WriteLine("fuhgv");
-            Console.WriteLine("oycdq");
-            Console.WriteLine("yiifa");
-            Console.WriteLine("gploc");
-            Console.WriteLine("lenpq");
-            Console.WriteLine("yddbl");
-            Console.WriteLine("seyjp");
-            Console.WriteLine("dkonx");
-            Console.WriteLine("weudo");
-            Console.WriteLine("ofqiq");
-            Console.WriteLine("bpwht");
-            Console.WriteLine("jsrio");
         }
     }
 }
