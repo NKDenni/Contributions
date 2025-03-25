@@ -1506,13 +1506,6 @@ namespace MockCode
             Console.WriteLine("oiqnv");
             Console.WriteLine("uuqti");
             Console.WriteLine("vmeof");
-            Console.WriteLine("bcbxg");
-            Console.WriteLine("bnsnt");
-            Console.WriteLine("fupey");
-            Console.WriteLine("rcllh");
-            Console.WriteLine("xedya");
-            Console.WriteLine("oinlf");
-            Console.WriteLine("ksdqd");
         }
     }
 }
