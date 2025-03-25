@@ -1476,21 +1476,6 @@ namespace MockCode
             Console.WriteLine("cswdi");
             Console.WriteLine("offfc");
             Console.WriteLine("dtxdc");
-            Console.WriteLine("unjlv");
-            Console.WriteLine("vhnoc");
-            Console.WriteLine("kssed");
-            Console.WriteLine("sswth");
-            Console.WriteLine("tjuch");
-            Console.WriteLine("rdwlw");
-            Console.WriteLine("cdwui");
-            Console.WriteLine("oaiqu");
-            Console.WriteLine("niuqs");
-            Console.WriteLine("rjggw");
-            Console.WriteLine("sbwae");
-            Console.WriteLine("tyygo");
-            Console.WriteLine("idhpm");
-            Console.WriteLine("hhasf");
-            Console.WriteLine("mkvki");
         }
     }
 }
