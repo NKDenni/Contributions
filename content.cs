@@ -1494,8 +1494,6 @@ namespace MockCode
             Console.WriteLine("yhpur");
             Console.WriteLine("othoo");
             Console.WriteLine("sravx");
-            Console.WriteLine("dwggs");
-            Console.WriteLine("qwfon");
         }
     }
 }
