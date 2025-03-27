@@ -1468,21 +1468,6 @@ namespace MockCode
             Console.WriteLine("ytwis");
             Console.WriteLine("icdcy");
             Console.WriteLine("hcpjp");
-            Console.WriteLine("bpqjx");
-            Console.WriteLine("vcadq");
-            Console.WriteLine("yshsx");
-            Console.WriteLine("kyowq");
-            Console.WriteLine("uxoki");
-            Console.WriteLine("mtasy");
-            Console.WriteLine("ygjuw");
-            Console.WriteLine("mlbgc");
-            Console.WriteLine("phfmk");
-            Console.WriteLine("tgswq");
-            Console.WriteLine("gotsm");
-            Console.WriteLine("sgefx");
-            Console.WriteLine("hwhgd");
-            Console.WriteLine("homos");
-            Console.WriteLine("pybvu");
         }
     }
 }
