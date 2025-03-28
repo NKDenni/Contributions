@@ -1453,21 +1453,6 @@ namespace MockCode
             Console.WriteLine("tryxh");
             Console.WriteLine("bpwhm");
             Console.WriteLine("ggsih");
-            Console.WriteLine("dauki");
-            Console.WriteLine("ttrda");
-            Console.WriteLine("colqu");
-            Console.WriteLine("rmmqt");
-            Console.WriteLine("vobwy");
-            Console.WriteLine("gimpn");
-            Console.WriteLine("wkaku");
-            Console.WriteLine("ingqp");
-            Console.WriteLine("hatgd");
-            Console.WriteLine("wifpl");
-            Console.WriteLine("mmsdc");
-            Console.WriteLine("wfamk");
-            Console.WriteLine("ftdvt");
-            Console.WriteLine("ktopt");
-            Console.WriteLine("ipnsa");
         }
     }
 }
