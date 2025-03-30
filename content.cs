@@ -1502,10 +1502,6 @@ namespace MockCode
             Console.WriteLine("bipto");
             Console.WriteLine("jvhmd");
             Console.WriteLine("yevpp");
-            Console.WriteLine("tuypa");
-            Console.WriteLine("yeqhr");
-            Console.WriteLine("ahbjf");
-            Console.WriteLine("ttvdm");
         }
     }
 }
