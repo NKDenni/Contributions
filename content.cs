@@ -1486,16 +1486,6 @@ namespace MockCode
             Console.WriteLine("tjlkw");
             Console.WriteLine("qqebs");
             Console.WriteLine("eruyv");
-            Console.WriteLine("euqsn");
-            Console.WriteLine("itmlc");
-            Console.WriteLine("pebcn");
-            Console.WriteLine("hmdoc");
-            Console.WriteLine("vrtwt");
-            Console.WriteLine("louiw");
-            Console.WriteLine("tqsse");
-            Console.WriteLine("veful");
-            Console.WriteLine("etuoa");
-            Console.WriteLine("uqhpn");
         }
     }
 }
