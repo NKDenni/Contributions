@@ -1446,17 +1446,6 @@ namespace MockCode
             Console.WriteLine("esbwr");
             Console.WriteLine("ltjpx");
             Console.WriteLine("peilt");
-            Console.WriteLine("uscwc");
-            Console.WriteLine("fqejq");
-            Console.WriteLine("hrywr");
-            Console.WriteLine("hjcxk");
-            Console.WriteLine("aaycm");
-            Console.WriteLine("xrvcp");
-            Console.WriteLine("dwopd");
-            Console.WriteLine("xmkeu");
-            Console.WriteLine("agdim");
-            Console.WriteLine("ciqxj");
-            Console.WriteLine("qtstt");
         }
     }
 }
