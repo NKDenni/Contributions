@@ -1430,12 +1430,6 @@ namespace MockCode
             Console.WriteLine("xookh");
             Console.WriteLine("iflmx");
             Console.WriteLine("pykhw");
-            Console.WriteLine("gcden");
-            Console.WriteLine("ghucm");
-            Console.WriteLine("rjqqu");
-            Console.WriteLine("dkhyk");
-            Console.WriteLine("lywev");
-            Console.WriteLine("daluj");
         }
     }
 }
