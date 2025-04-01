@@ -1481,15 +1481,6 @@ namespace MockCode
             Console.WriteLine("xuwpr");
             Console.WriteLine("dstec");
             Console.WriteLine("bjcgm");
-            Console.WriteLine("wclry");
-            Console.WriteLine("ujxtf");
-            Console.WriteLine("fklih");
-            Console.WriteLine("acscx");
-            Console.WriteLine("suvgq");
-            Console.WriteLine("tbdjy");
-            Console.WriteLine("bwrpv");
-            Console.WriteLine("qhhfl");
-            Console.WriteLine("btmbn");
         }
     }
 }
