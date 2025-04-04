@@ -1397,12 +1397,6 @@ namespace MockCode
             Console.WriteLine("vrquq");
             Console.WriteLine("jummw");
             Console.WriteLine("ekfiu");
-            Console.WriteLine("rwwgs");
-            Console.WriteLine("kseuv");
-            Console.WriteLine("savsx");
-            Console.WriteLine("ttdqc");
-            Console.WriteLine("jtxos");
-            Console.WriteLine("lroqv");
         }
     }
 }
