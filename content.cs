@@ -1403,21 +1403,6 @@ namespace MockCode
             Console.WriteLine("ttdqc");
             Console.WriteLine("jtxos");
             Console.WriteLine("lroqv");
-            Console.WriteLine("kqqkd");
-            Console.WriteLine("libsy");
-            Console.WriteLine("urtax");
-            Console.WriteLine("alhem");
-            Console.WriteLine("oyucq");
-            Console.WriteLine("joxdl");
-            Console.WriteLine("uiifj");
-            Console.WriteLine("abkvq");
-            Console.WriteLine("jbobd");
-            Console.WriteLine("rengo");
-            Console.WriteLine("jukrh");
-            Console.WriteLine("yexfe");
-            Console.WriteLine("xdesl");
-            Console.WriteLine("wltje");
-            Console.WriteLine("mvjfj");
         }
     }
 }
