@@ -1448,15 +1448,6 @@ namespace MockCode
             Console.WriteLine("kjoar");
             Console.WriteLine("rqgal");
             Console.WriteLine("qajga");
-            Console.WriteLine("sqlgi");
-            Console.WriteLine("jknti");
-            Console.WriteLine("mqrqw");
-            Console.WriteLine("jdyqc");
-            Console.WriteLine("vkyax");
-            Console.WriteLine("vvmvu");
-            Console.WriteLine("picku");
-            Console.WriteLine("ywegc");
-            Console.WriteLine("uipck");
         }
     }
 }
