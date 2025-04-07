@@ -1349,8 +1349,6 @@ namespace MockCode
             Console.WriteLine("fgjkt");
             Console.WriteLine("muqdw");
             Console.WriteLine("ukwdr");
-            Console.WriteLine("yydxa");
-            Console.WriteLine("jncop");
         }
     }
 }
