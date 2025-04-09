@@ -1330,21 +1330,6 @@ namespace MockCode
             Console.WriteLine("rtxpd");
             Console.WriteLine("webwo");
             Console.WriteLine("gtten");
-            Console.WriteLine("esqan");
-            Console.WriteLine("hjkob");
-            Console.WriteLine("yyrxw");
-            Console.WriteLine("lfckl");
-            Console.WriteLine("shjks");
-            Console.WriteLine("rowgf");
-            Console.WriteLine("fnivd");
-            Console.WriteLine("axtye");
-            Console.WriteLine("euwph");
-            Console.WriteLine("jtkvf");
-            Console.WriteLine("htvys");
-            Console.WriteLine("osyra");
-            Console.WriteLine("ewtod");
-            Console.WriteLine("ofabt");
-            Console.WriteLine("chyos");
         }
     }
 }
