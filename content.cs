@@ -1290,19 +1290,8 @@ namespace MockCode
             Console.WriteLine("adfgn");
             Console.WriteLine("prrcu");
             Console.WriteLine("reeof");
-            Console.WriteLine("iteci");
-            Console.WriteLine("lrnsi");
-            Console.WriteLine("lnxbj");
-            Console.WriteLine("rvwem");
-            Console.WriteLine("xuiml");
-            Console.WriteLine("qdqie");
-            Console.WriteLine("jirmd");
-            Console.WriteLine("skqmr");
-            Console.WriteLine("cjmpn");
-            Console.WriteLine("mlaoh");
-            Console.WriteLine("ucmso");
-            Console.WriteLine("anyxv");
-            Console.WriteLine("xbjey");
+            Console.WriteLine("sidqy");
+            Console.WriteLine("jejyu");
         }
     }
 }
