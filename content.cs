@@ -1288,18 +1288,6 @@ namespace MockCode
             Console.WriteLine("isftl");
             Console.WriteLine("urwsh");
             Console.WriteLine("adfgn");
-            Console.WriteLine("fpikp");
-            Console.WriteLine("sffuh");
-            Console.WriteLine("xrocn");
-            Console.WriteLine("fwmpa");
-            Console.WriteLine("gdeyl");
-            Console.WriteLine("cmshy");
-            Console.WriteLine("wrqtl");
-            Console.WriteLine("bweip");
-            Console.WriteLine("lccim");
-            Console.WriteLine("brltf");
-            Console.WriteLine("mtwij");
-            Console.WriteLine("sjves");
         }
     }
 }
