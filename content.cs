@@ -1345,9 +1345,6 @@ namespace MockCode
             Console.WriteLine("ewtod");
             Console.WriteLine("ofabt");
             Console.WriteLine("chyos");
-            Console.WriteLine("wjpre");
-            Console.WriteLine("iatwr");
-            Console.WriteLine("kspwe");
         }
     }
 }
