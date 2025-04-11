@@ -1339,15 +1339,6 @@ namespace MockCode
             Console.WriteLine("pudhe");
             Console.WriteLine("lmpao");
             Console.WriteLine("yjrpg");
-            Console.WriteLine("xuuox");
-            Console.WriteLine("rhbva");
-            Console.WriteLine("allvj");
-            Console.WriteLine("nacbb");
-            Console.WriteLine("dcaxl");
-            Console.WriteLine("vixvk");
-            Console.WriteLine("tyhmq");
-            Console.WriteLine("gjwgr");
-            Console.WriteLine("xyjfy");
         }
     }
 }
