@@ -1324,21 +1324,6 @@ namespace MockCode
             Console.WriteLine("toqkp");
             Console.WriteLine("xbhmp");
             Console.WriteLine("bghgp");
-            Console.WriteLine("ticdt");
-            Console.WriteLine("cemuc");
-            Console.WriteLine("pimcx");
-            Console.WriteLine("mgreq");
-            Console.WriteLine("axlta");
-            Console.WriteLine("epoxu");
-            Console.WriteLine("spapg");
-            Console.WriteLine("mgntu");
-            Console.WriteLine("excbx");
-            Console.WriteLine("xrhxm");
-            Console.WriteLine("nfqfg");
-            Console.WriteLine("sdyyi");
-            Console.WriteLine("pudhe");
-            Console.WriteLine("lmpao");
-            Console.WriteLine("yjrpg");
         }
     }
 }
