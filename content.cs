@@ -1288,12 +1288,6 @@ namespace MockCode
             Console.WriteLine("isftl");
             Console.WriteLine("urwsh");
             Console.WriteLine("adfgn");
-            Console.WriteLine("unxfb");
-            Console.WriteLine("gukfi");
-            Console.WriteLine("qocqr");
-            Console.WriteLine("vrwxk");
-            Console.WriteLine("llwgm");
-            Console.WriteLine("sonos");
         }
     }
 }
