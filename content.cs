@@ -1309,21 +1309,6 @@ namespace MockCode
             Console.WriteLine("ndujx");
             Console.WriteLine("pctad");
             Console.WriteLine("gfkrj");
-            Console.WriteLine("tiyyt");
-            Console.WriteLine("bburl");
-            Console.WriteLine("qqqya");
-            Console.WriteLine("dgdsr");
-            Console.WriteLine("mwcwm");
-            Console.WriteLine("hhayi");
-            Console.WriteLine("qxvrx");
-            Console.WriteLine("ycxtc");
-            Console.WriteLine("aruoo");
-            Console.WriteLine("wfxth");
-            Console.WriteLine("jvmvj");
-            Console.WriteLine("opayy");
-            Console.WriteLine("toqkp");
-            Console.WriteLine("xbhmp");
-            Console.WriteLine("bghgp");
         }
     }
 }
