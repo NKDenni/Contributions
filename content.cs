@@ -1288,35 +1288,6 @@ namespace MockCode
             Console.WriteLine("isftl");
             Console.WriteLine("urwsh");
             Console.WriteLine("adfgn");
-            Console.WriteLine("jpwnb");
-            Console.WriteLine("vhpsu");
-            Console.WriteLine("gpeca");
-            Console.WriteLine("ehndl");
-            Console.WriteLine("kbubl");
-            Console.WriteLine("lphxd");
-            Console.WriteLine("opufb");
-            Console.WriteLine("hmutu");
-            Console.WriteLine("silqt");
-            Console.WriteLine("ebame");
-            Console.WriteLine("pjsbv");
-            Console.WriteLine("qcaec");
-            Console.WriteLine("imfod");
-            Console.WriteLine("hyfxk");
-            Console.WriteLine("podhj");
-            Console.WriteLine("theam");
-            Console.WriteLine("vetfb");
-            Console.WriteLine("xhkqa");
-            Console.WriteLine("yquhi");
-            Console.WriteLine("rsekg");
-            Console.WriteLine("liccp");
-            Console.WriteLine("ngnac");
-            Console.WriteLine("rrkly");
-            Console.WriteLine("viqik");
-            Console.WriteLine("yhxyg");
-            Console.WriteLine("ptvov");
-            Console.WriteLine("hniso");
-            Console.WriteLine("notte");
-            Console.WriteLine("dqkwt");
         }
     }
 }
