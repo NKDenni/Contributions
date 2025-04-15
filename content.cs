@@ -1333,21 +1333,6 @@ namespace MockCode
             Console.WriteLine("iejht");
             Console.WriteLine("xndme");
             Console.WriteLine("fjuvn");
-            Console.WriteLine("yxtfy");
-            Console.WriteLine("mhgll");
-            Console.WriteLine("mbgte");
-            Console.WriteLine("tpier");
-            Console.WriteLine("hpryd");
-            Console.WriteLine("xlcca");
-            Console.WriteLine("eessy");
-            Console.WriteLine("jfmil");
-            Console.WriteLine("dpnpo");
-            Console.WriteLine("ispcu");
-            Console.WriteLine("qlxdo");
-            Console.WriteLine("laner");
-            Console.WriteLine("wynlt");
-            Console.WriteLine("cwhte");
-            Console.WriteLine("eeqbs");
         }
     }
 }
