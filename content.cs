@@ -1318,21 +1318,6 @@ namespace MockCode
             Console.WriteLine("icgtl");
             Console.WriteLine("oiemh");
             Console.WriteLine("tpdge");
-            Console.WriteLine("nrkyi");
-            Console.WriteLine("gvuib");
-            Console.WriteLine("anpfn");
-            Console.WriteLine("axlhk");
-            Console.WriteLine("fdpta");
-            Console.WriteLine("dcsux");
-            Console.WriteLine("sokkr");
-            Console.WriteLine("dxhbq");
-            Console.WriteLine("mjyvs");
-            Console.WriteLine("fhpha");
-            Console.WriteLine("ypwyt");
-            Console.WriteLine("uamsq");
-            Console.WriteLine("ufjlf");
-            Console.WriteLine("rpcig");
-            Console.WriteLine("aywub");
         }
     }
 }
