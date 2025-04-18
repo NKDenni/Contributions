@@ -1295,21 +1295,6 @@ namespace MockCode
             Console.WriteLine("jnnml");
             Console.WriteLine("gefmo");
             Console.WriteLine("ngjoi");
-            Console.WriteLine("dibru");
-            Console.WriteLine("rfwcu");
-            Console.WriteLine("xyvyl");
-            Console.WriteLine("sxrag");
-            Console.WriteLine("xhhue");
-            Console.WriteLine("vxxhy");
-            Console.WriteLine("vltrx");
-            Console.WriteLine("nwhek");
-            Console.WriteLine("xtqkb");
-            Console.WriteLine("rugnn");
-            Console.WriteLine("elnuj");
-            Console.WriteLine("faxmu");
-            Console.WriteLine("sfdcw");
-            Console.WriteLine("jgcag");
-            Console.WriteLine("eftgr");
         }
     }
 }
