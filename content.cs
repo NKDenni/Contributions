@@ -1274,7 +1274,6 @@ namespace MockCode
             Console.WriteLine("txrhl");
             Console.WriteLine("lombt");
             Console.WriteLine("bcmyw");
-            Console.WriteLine("uedrk");
         }
     }
 }
