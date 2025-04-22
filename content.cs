@@ -1274,14 +1274,6 @@ namespace MockCode
             Console.WriteLine("txrhl");
             Console.WriteLine("qffol");
             Console.WriteLine("tgags");
-            Console.WriteLine("stbha");
-            Console.WriteLine("vccjf");
-            Console.WriteLine("ofpur");
-            Console.WriteLine("fgenw");
-            Console.WriteLine("namuk");
-            Console.WriteLine("dnysl");
-            Console.WriteLine("ocevm");
-            Console.WriteLine("mjonx");
         }
     }
 }
