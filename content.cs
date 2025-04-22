@@ -1327,13 +1327,6 @@ namespace MockCode
             Console.WriteLine("hcchv");
             Console.WriteLine("aowpb");
             Console.WriteLine("lyxsw");
-            Console.WriteLine("uimhp");
-            Console.WriteLine("jdecp");
-            Console.WriteLine("saquu");
-            Console.WriteLine("iiicw");
-            Console.WriteLine("hlcgg");
-            Console.WriteLine("cuqxo");
-            Console.WriteLine("giaie");
         }
     }
 }
