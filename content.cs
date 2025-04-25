@@ -1283,21 +1283,6 @@ namespace MockCode
             Console.WriteLine("qjqoa");
             Console.WriteLine("iupke");
             Console.WriteLine("vjrub");
-            Console.WriteLine("yakbb");
-            Console.WriteLine("kownq");
-            Console.WriteLine("kxfsb");
-            Console.WriteLine("jbinx");
-            Console.WriteLine("loywr");
-            Console.WriteLine("kxiev");
-            Console.WriteLine("pwhke");
-            Console.WriteLine("jurbp");
-            Console.WriteLine("veurs");
-            Console.WriteLine("sdvpg");
-            Console.WriteLine("tuswa");
-            Console.WriteLine("cfbgi");
-            Console.WriteLine("klkmx");
-            Console.WriteLine("cyffe");
-            Console.WriteLine("hxisu");
         }
     }
 }
