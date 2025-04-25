@@ -1313,14 +1313,6 @@ namespace MockCode
             Console.WriteLine("pnese");
             Console.WriteLine("jsdtu");
             Console.WriteLine("nuudu");
-            Console.WriteLine("wwqao");
-            Console.WriteLine("dvedb");
-            Console.WriteLine("ujnyc");
-            Console.WriteLine("nabqx");
-            Console.WriteLine("xhjmn");
-            Console.WriteLine("cdlqg");
-            Console.WriteLine("ruamj");
-            Console.WriteLine("snomc");
         }
     }
 }
