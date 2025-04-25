@@ -1261,13 +1261,6 @@ namespace MockCode
             Console.WriteLine("sgxhp");
             Console.WriteLine("msfpy");
             Console.WriteLine("kmlln");
-            Console.WriteLine("alunr");
-            Console.WriteLine("hucjt");
-            Console.WriteLine("tmypb");
-            Console.WriteLine("ukawx");
-            Console.WriteLine("futnv");
-            Console.WriteLine("bqnyk");
-            Console.WriteLine("ovpnj");
         }
     }
 }
