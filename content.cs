@@ -1308,19 +1308,6 @@ namespace MockCode
             Console.WriteLine("xqiyo");
             Console.WriteLine("qiclp");
             Console.WriteLine("dlsus");
-            Console.WriteLine("lvvlf");
-            Console.WriteLine("prslg");
-            Console.WriteLine("skinw");
-            Console.WriteLine("dqier");
-            Console.WriteLine("uhfqj");
-            Console.WriteLine("phwed");
-            Console.WriteLine("ipoxk");
-            Console.WriteLine("ocgna");
-            Console.WriteLine("boibg");
-            Console.WriteLine("shttw");
-            Console.WriteLine("icoju");
-            Console.WriteLine("avekt");
-            Console.WriteLine("jcxia");
         }
     }
 }
