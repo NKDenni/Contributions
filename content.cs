@@ -1261,8 +1261,6 @@ namespace MockCode
             Console.WriteLine("sgxhp");
             Console.WriteLine("msfpy");
             Console.WriteLine("kmlln");
-            Console.WriteLine("msfjd");
-            Console.WriteLine("nomim");
         }
     }
 }
