@@ -1293,21 +1293,6 @@ namespace MockCode
             Console.WriteLine("knqxw");
             Console.WriteLine("ovtdt");
             Console.WriteLine("yvagj");
-            Console.WriteLine("bixik");
-            Console.WriteLine("ndnwk");
-            Console.WriteLine("qxjrt");
-            Console.WriteLine("rymwe");
-            Console.WriteLine("nixht");
-            Console.WriteLine("dsenb");
-            Console.WriteLine("dsjvj");
-            Console.WriteLine("egfwn");
-            Console.WriteLine("yfrio");
-            Console.WriteLine("edswm");
-            Console.WriteLine("qrhww");
-            Console.WriteLine("ttgys");
-            Console.WriteLine("xqiyo");
-            Console.WriteLine("qiclp");
-            Console.WriteLine("dlsus");
         }
     }
 }
