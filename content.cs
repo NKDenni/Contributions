@@ -1330,21 +1330,6 @@ namespace MockCode
             Console.WriteLine("dddfl");
             Console.WriteLine("dbyvn");
             Console.WriteLine("negyc");
-            Console.WriteLine("iguhy");
-            Console.WriteLine("tsqbv");
-            Console.WriteLine("pfese");
-            Console.WriteLine("ngaga");
-            Console.WriteLine("rayxx");
-            Console.WriteLine("tfdgl");
-            Console.WriteLine("pkkjb");
-            Console.WriteLine("ofptj");
-            Console.WriteLine("oktlk");
-            Console.WriteLine("cdtih");
-            Console.WriteLine("pypnt");
-            Console.WriteLine("gxfqh");
-            Console.WriteLine("tvclb");
-            Console.WriteLine("nkrxu");
-            Console.WriteLine("cdvqj");
         }
     }
 }
