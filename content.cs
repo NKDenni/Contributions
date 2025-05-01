@@ -1312,12 +1312,6 @@ namespace MockCode
             Console.WriteLine("hwxvo");
             Console.WriteLine("lcvmb");
             Console.WriteLine("hspgw");
-            Console.WriteLine("osjep");
-            Console.WriteLine("gtkcr");
-            Console.WriteLine("hfiun");
-            Console.WriteLine("nsywt");
-            Console.WriteLine("lclep");
-            Console.WriteLine("oxjhb");
         }
     }
 }
