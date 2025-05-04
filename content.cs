@@ -1310,8 +1310,6 @@ namespace MockCode
             Console.WriteLine("vvall");
             Console.WriteLine("okuyr");
             Console.WriteLine("joqwi");
-            Console.WriteLine("mspll");
-            Console.WriteLine("qbypo");
         }
     }
 }
