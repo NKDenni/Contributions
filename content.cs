@@ -1327,13 +1327,6 @@ namespace MockCode
             Console.WriteLine("dppjt");
             Console.WriteLine("qwxpq");
             Console.WriteLine("vudyy");
-            Console.WriteLine("unned");
-            Console.WriteLine("jmkra");
-            Console.WriteLine("elkka");
-            Console.WriteLine("lxvyu");
-            Console.WriteLine("cksix");
-            Console.WriteLine("bpcjb");
-            Console.WriteLine("xcffq");
         }
     }
 }
