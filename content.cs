@@ -1312,11 +1312,6 @@ namespace MockCode
             Console.WriteLine("joqwi");
             Console.WriteLine("tovla");
             Console.WriteLine("xfemn");
-            Console.WriteLine("npfrl");
-            Console.WriteLine("moihw");
-            Console.WriteLine("neclm");
-            Console.WriteLine("aqfum");
-            Console.WriteLine("qdkgs");
         }
     }
 }
