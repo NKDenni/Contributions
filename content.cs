@@ -1362,16 +1362,6 @@ namespace MockCode
             Console.WriteLine("wtyft");
             Console.WriteLine("bkcbq");
             Console.WriteLine("afqyx");
-            Console.WriteLine("qljec");
-            Console.WriteLine("qkxjp");
-            Console.WriteLine("fhqbe");
-            Console.WriteLine("tfapp");
-            Console.WriteLine("vxcdv");
-            Console.WriteLine("ecmjl");
-            Console.WriteLine("wewvt");
-            Console.WriteLine("cmftj");
-            Console.WriteLine("ykwbi");
-            Console.WriteLine("fggvx");
         }
     }
 }
