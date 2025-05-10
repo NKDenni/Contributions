@@ -1312,21 +1312,6 @@ namespace MockCode
             Console.WriteLine("madyc");
             Console.WriteLine("mogma");
             Console.WriteLine("stoay");
-            Console.WriteLine("fsweq");
-            Console.WriteLine("ekvbl");
-            Console.WriteLine("yghqb");
-            Console.WriteLine("tsahd");
-            Console.WriteLine("vdaxo");
-            Console.WriteLine("ippyi");
-            Console.WriteLine("qrslq");
-            Console.WriteLine("vyfve");
-            Console.WriteLine("vnkos");
-            Console.WriteLine("ksgdi");
-            Console.WriteLine("malqq");
-            Console.WriteLine("cjelr");
-            Console.WriteLine("rpkef");
-            Console.WriteLine("qqivv");
-            Console.WriteLine("rrdbj");
         }
     }
 }
