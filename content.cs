@@ -1358,13 +1358,6 @@ namespace MockCode
             Console.WriteLine("wshky");
             Console.WriteLine("hctky");
             Console.WriteLine("idlhy");
-            Console.WriteLine("dfbqv");
-            Console.WriteLine("jmrfd");
-            Console.WriteLine("maicv");
-            Console.WriteLine("sugur");
-            Console.WriteLine("hxfao");
-            Console.WriteLine("mjkde");
-            Console.WriteLine("bhtoc");
         }
     }
 }
