@@ -1312,7 +1312,6 @@ namespace MockCode
             Console.WriteLine("madyc");
             Console.WriteLine("mogma");
             Console.WriteLine("stoay");
-            Console.WriteLine("gnwne");
         }
     }
 }
