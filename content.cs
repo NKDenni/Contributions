@@ -1374,11 +1374,6 @@ namespace MockCode
             Console.WriteLine("fywtr");
             Console.WriteLine("ivhbf");
             Console.WriteLine("rbutb");
-            Console.WriteLine("olhfj");
-            Console.WriteLine("nunck");
-            Console.WriteLine("cougj");
-            Console.WriteLine("gbbkt");
-            Console.WriteLine("emttl");
         }
     }
 }
