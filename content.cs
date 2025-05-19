@@ -1324,7 +1324,6 @@ namespace MockCode
             Console.WriteLine("dklfe");
             Console.WriteLine("joiey");
             Console.WriteLine("xabom");
-            Console.WriteLine("amlee");
         }
     }
 }
