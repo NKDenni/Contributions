@@ -1316,12 +1316,6 @@ namespace MockCode
             Console.WriteLine("stcom");
             Console.WriteLine("yftov");
             Console.WriteLine("hnlmy");
-            Console.WriteLine("lobra");
-            Console.WriteLine("irqap");
-            Console.WriteLine("mhtiv");
-            Console.WriteLine("fsblx");
-            Console.WriteLine("ewbxc");
-            Console.WriteLine("tdvqu");
         }
     }
 }
