@@ -1341,21 +1341,6 @@ namespace MockCode
             Console.WriteLine("opseg");
             Console.WriteLine("fgtpg");
             Console.WriteLine("gxwrl");
-            Console.WriteLine("dogfg");
-            Console.WriteLine("ofqjw");
-            Console.WriteLine("smcsk");
-            Console.WriteLine("hstdg");
-            Console.WriteLine("rovpt");
-            Console.WriteLine("twopy");
-            Console.WriteLine("yepdw");
-            Console.WriteLine("bsytd");
-            Console.WriteLine("ebqpf");
-            Console.WriteLine("oaagl");
-            Console.WriteLine("cxibe");
-            Console.WriteLine("mqojh");
-            Console.WriteLine("nekoo");
-            Console.WriteLine("pqcks");
-            Console.WriteLine("ffppr");
         }
     }
 }
