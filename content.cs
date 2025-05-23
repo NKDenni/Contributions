@@ -1310,7 +1310,6 @@ namespace MockCode
             Console.WriteLine("udhqi");
             Console.WriteLine("vnygf");
             Console.WriteLine("rdlrl");
-            Console.WriteLine("rgqks");
         }
     }
 }
