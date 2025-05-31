@@ -1312,15 +1312,7 @@ namespace MockCode
             Console.WriteLine("rdlrl");
             Console.WriteLine("wvnwy");
             Console.WriteLine("fxjks");
-            Console.WriteLine("ddkbn");
-            Console.WriteLine("ebyvm");
-            Console.WriteLine("flmvw");
-            Console.WriteLine("ruuce");
-            Console.WriteLine("mbajd");
-            Console.WriteLine("vscwj");
-            Console.WriteLine("qtaug");
-            Console.WriteLine("lyouf");
-            Console.WriteLine("tulkq");
+            Console.WriteLine("annru");
         }
     }
 }
