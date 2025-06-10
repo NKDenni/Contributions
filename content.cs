@@ -1320,15 +1320,6 @@ namespace MockCode
             Console.WriteLine("uwqla");
             Console.WriteLine("tlcxw");
             Console.WriteLine("ovffp");
-            Console.WriteLine("aobpl");
-            Console.WriteLine("fhrvy");
-            Console.WriteLine("bycch");
-            Console.WriteLine("cpwgn");
-            Console.WriteLine("jfami");
-            Console.WriteLine("bhrhr");
-            Console.WriteLine("ttuqr");
-            Console.WriteLine("hmkun");
-            Console.WriteLine("estqa");
         }
     }
 }
