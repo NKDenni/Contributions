@@ -1321,9 +1321,6 @@ namespace MockCode
             Console.WriteLine("tlcxw");
             Console.WriteLine("ovffp");
             Console.WriteLine("kycxf");
-            Console.WriteLine("hnmwc");
-            Console.WriteLine("sftcq");
-            Console.WriteLine("wfogb");
         }
     }
 }
