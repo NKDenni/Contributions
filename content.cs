@@ -1335,10 +1335,6 @@ namespace MockCode
             Console.WriteLine("ndoju");
             Console.WriteLine("qvsqg");
             Console.WriteLine("dafrs");
-            Console.WriteLine("yjhol");
-            Console.WriteLine("rvelq");
-            Console.WriteLine("vmckw");
-            Console.WriteLine("hgwkn");
         }
     }
 }
