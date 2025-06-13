@@ -1367,15 +1367,6 @@ namespace MockCode
             Console.WriteLine("blmki");
             Console.WriteLine("deaia");
             Console.WriteLine("nlmjk");
-            Console.WriteLine("oifqy");
-            Console.WriteLine("seipk");
-            Console.WriteLine("xbewn");
-            Console.WriteLine("dkqbg");
-            Console.WriteLine("evebw");
-            Console.WriteLine("ovrmr");
-            Console.WriteLine("xhbfl");
-            Console.WriteLine("wipeg");
-            Console.WriteLine("vnmmv");
         }
     }
 }
