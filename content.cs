@@ -1331,13 +1331,6 @@ namespace MockCode
             Console.WriteLine("eumvv");
             Console.WriteLine("ejknt");
             Console.WriteLine("higdq");
-            Console.WriteLine("pookr");
-            Console.WriteLine("ndoju");
-            Console.WriteLine("qvsqg");
-            Console.WriteLine("dafrs");
-            Console.WriteLine("ubobx");
-            Console.WriteLine("vbrux");
-            Console.WriteLine("wltye");
         }
     }
 }
