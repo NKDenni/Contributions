@@ -1328,21 +1328,6 @@ namespace MockCode
             Console.WriteLine("ivgfq");
             Console.WriteLine("gsukd");
             Console.WriteLine("qifci");
-            Console.WriteLine("lqoqy");
-            Console.WriteLine("jqbfj");
-            Console.WriteLine("thjah");
-            Console.WriteLine("pqpcx");
-            Console.WriteLine("ckmle");
-            Console.WriteLine("dmqfc");
-            Console.WriteLine("rkhnc");
-            Console.WriteLine("tthkv");
-            Console.WriteLine("smbia");
-            Console.WriteLine("usnrd");
-            Console.WriteLine("dcaqc");
-            Console.WriteLine("nbhyu");
-            Console.WriteLine("rqkgd");
-            Console.WriteLine("cavdo");
-            Console.WriteLine("lginy");
         }
     }
 }
