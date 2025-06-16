@@ -1343,21 +1343,6 @@ namespace MockCode
             Console.WriteLine("rqkgd");
             Console.WriteLine("cavdo");
             Console.WriteLine("lginy");
-            Console.WriteLine("mifjo");
-            Console.WriteLine("bbbjr");
-            Console.WriteLine("ermhw");
-            Console.WriteLine("oqkcv");
-            Console.WriteLine("ngqvh");
-            Console.WriteLine("yaanh");
-            Console.WriteLine("cgsth");
-            Console.WriteLine("pwcru");
-            Console.WriteLine("giocq");
-            Console.WriteLine("sbiev");
-            Console.WriteLine("tyjsy");
-            Console.WriteLine("isfrr");
-            Console.WriteLine("dywwk");
-            Console.WriteLine("jafgj");
-            Console.WriteLine("dfbog");
         }
     }
 }
