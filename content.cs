@@ -1373,11 +1373,6 @@ namespace MockCode
             Console.WriteLine("tieny");
             Console.WriteLine("krlry");
             Console.WriteLine("tixci");
-            Console.WriteLine("jwjgv");
-            Console.WriteLine("nbhqx");
-            Console.WriteLine("xotsm");
-            Console.WriteLine("pvokx");
-            Console.WriteLine("lnafc");
         }
     }
 }
