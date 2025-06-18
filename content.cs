@@ -1384,16 +1384,6 @@ namespace MockCode
             Console.WriteLine("pvtaa");
             Console.WriteLine("wudod");
             Console.WriteLine("juslx");
-            Console.WriteLine("njivs");
-            Console.WriteLine("xkhuu");
-            Console.WriteLine("mrgvv");
-            Console.WriteLine("tvppo");
-            Console.WriteLine("imomh");
-            Console.WriteLine("dvrmo");
-            Console.WriteLine("jpsar");
-            Console.WriteLine("afpfi");
-            Console.WriteLine("pfoiv");
-            Console.WriteLine("ouwfu");
         }
     }
 }
