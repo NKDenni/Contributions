@@ -1334,12 +1334,6 @@ namespace MockCode
             Console.WriteLine("xnbfj");
             Console.WriteLine("dkhld");
             Console.WriteLine("vikbr");
-            Console.WriteLine("vdkgt");
-            Console.WriteLine("eecxo");
-            Console.WriteLine("vhtyn");
-            Console.WriteLine("njvfy");
-            Console.WriteLine("eyiuy");
-            Console.WriteLine("uhaut");
         }
     }
 }
