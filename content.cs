@@ -1370,21 +1370,6 @@ namespace MockCode
             Console.WriteLine("xyatd");
             Console.WriteLine("ludxr");
             Console.WriteLine("uctwj");
-            Console.WriteLine("mpiqc");
-            Console.WriteLine("dijrm");
-            Console.WriteLine("lfvjn");
-            Console.WriteLine("aiqyc");
-            Console.WriteLine("sxxrc");
-            Console.WriteLine("rsiox");
-            Console.WriteLine("qtpsb");
-            Console.WriteLine("grxmn");
-            Console.WriteLine("ehtvi");
-            Console.WriteLine("wnrvu");
-            Console.WriteLine("deoos");
-            Console.WriteLine("xyede");
-            Console.WriteLine("rleja");
-            Console.WriteLine("lwwme");
-            Console.WriteLine("fawov");
         }
     }
 }
