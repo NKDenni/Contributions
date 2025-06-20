@@ -1385,15 +1385,6 @@ namespace MockCode
             Console.WriteLine("rleja");
             Console.WriteLine("lwwme");
             Console.WriteLine("fawov");
-            Console.WriteLine("ygjma");
-            Console.WriteLine("enlsc");
-            Console.WriteLine("sslym");
-            Console.WriteLine("waqab");
-            Console.WriteLine("vmqeu");
-            Console.WriteLine("ggdwv");
-            Console.WriteLine("hcwte");
-            Console.WriteLine("sxkhr");
-            Console.WriteLine("yrjoa");
         }
     }
 }
