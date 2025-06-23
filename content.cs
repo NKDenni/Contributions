@@ -1350,21 +1350,6 @@ namespace MockCode
             Console.WriteLine("kiatv");
             Console.WriteLine("lepkv");
             Console.WriteLine("vcfnd");
-            Console.WriteLine("ragmk");
-            Console.WriteLine("guoqk");
-            Console.WriteLine("wsrkp");
-            Console.WriteLine("esmlh");
-            Console.WriteLine("djmvd");
-            Console.WriteLine("rbxiy");
-            Console.WriteLine("yecrc");
-            Console.WriteLine("yxjwe");
-            Console.WriteLine("qslqw");
-            Console.WriteLine("oxjrd");
-            Console.WriteLine("bvdld");
-            Console.WriteLine("wrfaj");
-            Console.WriteLine("sppya");
-            Console.WriteLine("hgfbe");
-            Console.WriteLine("tqkff");
         }
     }
 }
