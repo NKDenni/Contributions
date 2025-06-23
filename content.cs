@@ -1334,7 +1334,6 @@ namespace MockCode
             Console.WriteLine("xnbfj");
             Console.WriteLine("dkhld");
             Console.WriteLine("vikbr");
-            Console.WriteLine("kjhpy");
         }
     }
 }
