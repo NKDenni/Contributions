@@ -1367,8 +1367,6 @@ namespace MockCode
             Console.WriteLine("qsnib");
             Console.WriteLine("ivuih");
             Console.WriteLine("afqtr");
-            Console.WriteLine("jsnbf");
-            Console.WriteLine("cbprq");
         }
     }
 }
