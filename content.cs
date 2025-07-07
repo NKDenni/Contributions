@@ -1331,14 +1331,6 @@ namespace MockCode
             Console.WriteLine("orggn");
             Console.WriteLine("njsci");
             Console.WriteLine("emihh");
-            Console.WriteLine("oxdyc");
-            Console.WriteLine("ivhlf");
-            Console.WriteLine("rbqbc");
-            Console.WriteLine("htweb");
-            Console.WriteLine("hpgal");
-            Console.WriteLine("wuyhu");
-            Console.WriteLine("hfhud");
-            Console.WriteLine("jruie");
         }
     }
 }
