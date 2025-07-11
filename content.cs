@@ -1331,21 +1331,6 @@ namespace MockCode
             Console.WriteLine("orggn");
             Console.WriteLine("njsci");
             Console.WriteLine("emihh");
-            Console.WriteLine("komxp");
-            Console.WriteLine("eoipr");
-            Console.WriteLine("bmxpc");
-            Console.WriteLine("cpgbr");
-            Console.WriteLine("gkeuc");
-            Console.WriteLine("mdnoo");
-            Console.WriteLine("dvowh");
-            Console.WriteLine("uatox");
-            Console.WriteLine("rouif");
-            Console.WriteLine("povbk");
-            Console.WriteLine("obipc");
-            Console.WriteLine("ttacw");
-            Console.WriteLine("hhsan");
-            Console.WriteLine("prhgu");
-            Console.WriteLine("stpaj");
         }
     }
 }
