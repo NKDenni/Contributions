@@ -1434,17 +1434,6 @@ namespace MockCode
             Console.WriteLine("xidrd");
             Console.WriteLine("jiore");
             Console.WriteLine("uksgt");
-            Console.WriteLine("fkpub");
-            Console.WriteLine("hsejc");
-            Console.WriteLine("agctm");
-            Console.WriteLine("nseve");
-            Console.WriteLine("dulmo");
-            Console.WriteLine("kdqsk");
-            Console.WriteLine("ywfgu");
-            Console.WriteLine("eitlb");
-            Console.WriteLine("tdiuq");
-            Console.WriteLine("ubser");
-            Console.WriteLine("mflfu");
         }
     }
 }
