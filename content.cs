@@ -1385,10 +1385,6 @@ namespace MockCode
             Console.WriteLine("hsyij");
             Console.WriteLine("qoykf");
             Console.WriteLine("khikt");
-            Console.WriteLine("qrofl");
-            Console.WriteLine("btvia");
-            Console.WriteLine("qhqpf");
-            Console.WriteLine("ropwm");
         }
     }
 }
