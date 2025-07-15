@@ -1466,17 +1466,6 @@ namespace MockCode
             Console.WriteLine("smgvd");
             Console.WriteLine("kitfl");
             Console.WriteLine("eksdp");
-            Console.WriteLine("vhame");
-            Console.WriteLine("nfkps");
-            Console.WriteLine("uxumu");
-            Console.WriteLine("fioyt");
-            Console.WriteLine("oifck");
-            Console.WriteLine("xbgqr");
-            Console.WriteLine("guxse");
-            Console.WriteLine("jktdk");
-            Console.WriteLine("cddll");
-            Console.WriteLine("jdoor");
-            Console.WriteLine("htrpi");
         }
     }
 }
