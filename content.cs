@@ -1417,10 +1417,6 @@ namespace MockCode
             Console.WriteLine("pcvxe");
             Console.WriteLine("hotfb");
             Console.WriteLine("uuxnd");
-            Console.WriteLine("jjkli");
-            Console.WriteLine("cvxhf");
-            Console.WriteLine("wifre");
-            Console.WriteLine("tiifc");
         }
     }
 }
