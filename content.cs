@@ -1565,19 +1565,6 @@ namespace MockCode
             Console.WriteLine("ywxkk");
             Console.WriteLine("obcnx");
             Console.WriteLine("kpcwl");
-            Console.WriteLine("uimxp");
-            Console.WriteLine("rlvbs");
-            Console.WriteLine("vmvgy");
-            Console.WriteLine("oashw");
-            Console.WriteLine("pvyig");
-            Console.WriteLine("ysyvu");
-            Console.WriteLine("yodnf");
-            Console.WriteLine("gggtn");
-            Console.WriteLine("olvur");
-            Console.WriteLine("ipgvk");
-            Console.WriteLine("osabl");
-            Console.WriteLine("qabwq");
-            Console.WriteLine("qsexi");
         }
     }
 }
