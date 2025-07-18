@@ -1518,8 +1518,6 @@ namespace MockCode
             Console.WriteLine("scrrb");
             Console.WriteLine("lhrsm");
             Console.WriteLine("scgjj");
-            Console.WriteLine("tiqbx");
-            Console.WriteLine("apomt");
         }
     }
 }
