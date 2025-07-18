@@ -1520,21 +1520,6 @@ namespace MockCode
             Console.WriteLine("scgjj");
             Console.WriteLine("tiqbx");
             Console.WriteLine("apomt");
-            Console.WriteLine("uefjy");
-            Console.WriteLine("qlrln");
-            Console.WriteLine("bktsu");
-            Console.WriteLine("pswri");
-            Console.WriteLine("pvybh");
-            Console.WriteLine("cnhyc");
-            Console.WriteLine("uofro");
-            Console.WriteLine("uvkfw");
-            Console.WriteLine("yluhe");
-            Console.WriteLine("bsyti");
-            Console.WriteLine("kaajt");
-            Console.WriteLine("lxcdl");
-            Console.WriteLine("oqxaq");
-            Console.WriteLine("rnhqc");
-            Console.WriteLine("olhtg");
         }
     }
 }
