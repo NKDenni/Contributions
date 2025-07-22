@@ -1478,7 +1478,6 @@ namespace MockCode
             Console.WriteLine("dghqo");
             Console.WriteLine("pwjik");
             Console.WriteLine("qdmus");
-            Console.WriteLine("sxwix");
         }
     }
 }
