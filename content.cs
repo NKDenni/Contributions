@@ -1524,20 +1524,6 @@ namespace MockCode
             Console.WriteLine("faykn");
             Console.WriteLine("nppkm");
             Console.WriteLine("lbewp");
-            Console.WriteLine("rampc");
-            Console.WriteLine("djcto");
-            Console.WriteLine("xayeh");
-            Console.WriteLine("obhlo");
-            Console.WriteLine("akptq");
-            Console.WriteLine("lnbjr");
-            Console.WriteLine("mseha");
-            Console.WriteLine("slfuk");
-            Console.WriteLine("gbcht");
-            Console.WriteLine("xmxwh");
-            Console.WriteLine("mcnim");
-            Console.WriteLine("dbdub");
-            Console.WriteLine("tjdrw");
-            Console.WriteLine("skhxb");
         }
     }
 }
