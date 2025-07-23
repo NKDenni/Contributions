@@ -1508,21 +1508,6 @@ namespace MockCode
             Console.WriteLine("veyyn");
             Console.WriteLine("sgiat");
             Console.WriteLine("cncci");
-            Console.WriteLine("aydrc");
-            Console.WriteLine("vqkiw");
-            Console.WriteLine("kelwb");
-            Console.WriteLine("wexse");
-            Console.WriteLine("ijdpy");
-            Console.WriteLine("ekgsw");
-            Console.WriteLine("gssqb");
-            Console.WriteLine("aplpa");
-            Console.WriteLine("cewua");
-            Console.WriteLine("mmeus");
-            Console.WriteLine("wmrpj");
-            Console.WriteLine("teppl");
-            Console.WriteLine("tnmeq");
-            Console.WriteLine("hqabb");
-            Console.WriteLine("xpsyn");
         }
     }
 }
