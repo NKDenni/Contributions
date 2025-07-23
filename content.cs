@@ -1493,21 +1493,6 @@ namespace MockCode
             Console.WriteLine("epsmt");
             Console.WriteLine("xslfm");
             Console.WriteLine("ronnk");
-            Console.WriteLine("pqrvy");
-            Console.WriteLine("jjsse");
-            Console.WriteLine("ylvpa");
-            Console.WriteLine("djswy");
-            Console.WriteLine("nhiab");
-            Console.WriteLine("glacw");
-            Console.WriteLine("cpitc");
-            Console.WriteLine("vsgkx");
-            Console.WriteLine("clkko");
-            Console.WriteLine("ivcob");
-            Console.WriteLine("mwoqx");
-            Console.WriteLine("qhspe");
-            Console.WriteLine("veyyn");
-            Console.WriteLine("sgiat");
-            Console.WriteLine("cncci");
         }
     }
 }
