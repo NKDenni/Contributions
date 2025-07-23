@@ -1523,21 +1523,6 @@ namespace MockCode
             Console.WriteLine("tnmeq");
             Console.WriteLine("hqabb");
             Console.WriteLine("xpsyn");
-            Console.WriteLine("antdu");
-            Console.WriteLine("rdaql");
-            Console.WriteLine("bokgj");
-            Console.WriteLine("lmhnb");
-            Console.WriteLine("laafs");
-            Console.WriteLine("hmuqu");
-            Console.WriteLine("kmrds");
-            Console.WriteLine("rplvo");
-            Console.WriteLine("dlfpp");
-            Console.WriteLine("oefeq");
-            Console.WriteLine("fagmd");
-            Console.WriteLine("gblhq");
-            Console.WriteLine("jfyti");
-            Console.WriteLine("hhvjj");
-            Console.WriteLine("fobcm");
         }
     }
 }
