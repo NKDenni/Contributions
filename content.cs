@@ -1428,7 +1428,6 @@ namespace MockCode
             Console.WriteLine("jwmbh");
             Console.WriteLine("xaqrg");
             Console.WriteLine("fiasb");
-            Console.WriteLine("aqlma");
         }
     }
 }
