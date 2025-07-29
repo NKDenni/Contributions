@@ -1442,13 +1442,6 @@ namespace MockCode
             Console.WriteLine("wkdpd");
             Console.WriteLine("onbyv");
             Console.WriteLine("ugoan");
-            Console.WriteLine("fkmna");
-            Console.WriteLine("skxit");
-            Console.WriteLine("nypbv");
-            Console.WriteLine("baqkd");
-            Console.WriteLine("pnhcc");
-            Console.WriteLine("cgyll");
-            Console.WriteLine("vgsff");
         }
     }
 }
