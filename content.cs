@@ -1389,12 +1389,6 @@ namespace MockCode
             Console.WriteLine("kxtln");
             Console.WriteLine("jodkp");
             Console.WriteLine("budby");
-            Console.WriteLine("htdcd");
-            Console.WriteLine("omnuj");
-            Console.WriteLine("ifaxh");
-            Console.WriteLine("eujcv");
-            Console.WriteLine("dsxwf");
-            Console.WriteLine("vgxmt");
         }
     }
 }
