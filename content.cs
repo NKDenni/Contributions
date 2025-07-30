@@ -1389,14 +1389,6 @@ namespace MockCode
             Console.WriteLine("kxtln");
             Console.WriteLine("jodkp");
             Console.WriteLine("budby");
-            Console.WriteLine("imwei");
-            Console.WriteLine("gqjnm");
-            Console.WriteLine("bkshd");
-            Console.WriteLine("dpvfx");
-            Console.WriteLine("rwrhp");
-            Console.WriteLine("bmhpr");
-            Console.WriteLine("efqjs");
-            Console.WriteLine("svicm");
         }
     }
 }
