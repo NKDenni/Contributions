@@ -1397,18 +1397,6 @@ namespace MockCode
             Console.WriteLine("fbejr");
             Console.WriteLine("rpeuy");
             Console.WriteLine("nbrun");
-            Console.WriteLine("albmw");
-            Console.WriteLine("witvb");
-            Console.WriteLine("bgaqb");
-            Console.WriteLine("ciott");
-            Console.WriteLine("wntqh");
-            Console.WriteLine("xxohx");
-            Console.WriteLine("imxdk");
-            Console.WriteLine("pwlwu");
-            Console.WriteLine("smrvx");
-            Console.WriteLine("qomuc");
-            Console.WriteLine("jdobe");
-            Console.WriteLine("pgboe");
         }
     }
 }
