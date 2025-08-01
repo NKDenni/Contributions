@@ -1424,21 +1424,6 @@ namespace MockCode
             Console.WriteLine("tvmdb");
             Console.WriteLine("creid");
             Console.WriteLine("seobd");
-            Console.WriteLine("bpqcc");
-            Console.WriteLine("afoeb");
-            Console.WriteLine("xclfg");
-            Console.WriteLine("eqrpu");
-            Console.WriteLine("fxswb");
-            Console.WriteLine("jxdiv");
-            Console.WriteLine("tognu");
-            Console.WriteLine("icjgi");
-            Console.WriteLine("prqqp");
-            Console.WriteLine("fmlds");
-            Console.WriteLine("xrrpp");
-            Console.WriteLine("stnsi");
-            Console.WriteLine("gecba");
-            Console.WriteLine("xlbse");
-            Console.WriteLine("bceou");
         }
     }
 }
