@@ -1454,9 +1454,6 @@ namespace MockCode
             Console.WriteLine("jyfyp");
             Console.WriteLine("fujgc");
             Console.WriteLine("biamw");
-            Console.WriteLine("oufof");
-            Console.WriteLine("xirin");
-            Console.WriteLine("wrybs");
         }
     }
 }
