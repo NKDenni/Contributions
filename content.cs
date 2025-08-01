@@ -1409,21 +1409,6 @@ namespace MockCode
             Console.WriteLine("qomuc");
             Console.WriteLine("jdobe");
             Console.WriteLine("pgboe");
-            Console.WriteLine("kfjwt");
-            Console.WriteLine("ugvlc");
-            Console.WriteLine("jvspw");
-            Console.WriteLine("cnjkv");
-            Console.WriteLine("aniew");
-            Console.WriteLine("ubuvh");
-            Console.WriteLine("oyxyb");
-            Console.WriteLine("sxhid");
-            Console.WriteLine("lqrnx");
-            Console.WriteLine("ydyjc");
-            Console.WriteLine("oxnwc");
-            Console.WriteLine("fiddv");
-            Console.WriteLine("tvmdb");
-            Console.WriteLine("creid");
-            Console.WriteLine("seobd");
         }
     }
 }
