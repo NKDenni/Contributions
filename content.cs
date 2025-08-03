@@ -1439,20 +1439,6 @@ namespace MockCode
             Console.WriteLine("uaefr");
             Console.WriteLine("gcobu");
             Console.WriteLine("ghcvm");
-            Console.WriteLine("xpjek");
-            Console.WriteLine("rsfnk");
-            Console.WriteLine("fyyma");
-            Console.WriteLine("nshvx");
-            Console.WriteLine("hgioh");
-            Console.WriteLine("nkwnu");
-            Console.WriteLine("wvogs");
-            Console.WriteLine("rjrhv");
-            Console.WriteLine("waxls");
-            Console.WriteLine("wqgah");
-            Console.WriteLine("mdbpy");
-            Console.WriteLine("hxtnk");
-            Console.WriteLine("bynay");
-            Console.WriteLine("pbnia");
         }
     }
 }
