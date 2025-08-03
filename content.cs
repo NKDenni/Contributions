@@ -1468,11 +1468,6 @@ namespace MockCode
             Console.WriteLine("rxlty");
             Console.WriteLine("ragnp");
             Console.WriteLine("dydvf");
-            Console.WriteLine("xqplm");
-            Console.WriteLine("cnrqh");
-            Console.WriteLine("ruasa");
-            Console.WriteLine("aafjo");
-            Console.WriteLine("usvpy");
         }
     }
 }
