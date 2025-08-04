@@ -1443,16 +1443,6 @@ namespace MockCode
             Console.WriteLine("ueabs");
             Console.WriteLine("cgdli");
             Console.WriteLine("rdqge");
-            Console.WriteLine("srsqr");
-            Console.WriteLine("apjgc");
-            Console.WriteLine("pmhjy");
-            Console.WriteLine("fepur");
-            Console.WriteLine("cgesv");
-            Console.WriteLine("hdyay");
-            Console.WriteLine("mxrso");
-            Console.WriteLine("ijext");
-            Console.WriteLine("kxway");
-            Console.WriteLine("fmjll");
         }
     }
 }
