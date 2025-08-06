@@ -1488,16 +1488,6 @@ namespace MockCode
             Console.WriteLine("twcqi");
             Console.WriteLine("gwhut");
             Console.WriteLine("arajv");
-            Console.WriteLine("tfxut");
-            Console.WriteLine("dalem");
-            Console.WriteLine("fkvvj");
-            Console.WriteLine("qilym");
-            Console.WriteLine("arldg");
-            Console.WriteLine("ggawq");
-            Console.WriteLine("fabnv");
-            Console.WriteLine("tvtbx");
-            Console.WriteLine("mxuic");
-            Console.WriteLine("ybono");
         }
     }
 }
