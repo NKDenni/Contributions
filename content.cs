@@ -1689,14 +1689,6 @@ namespace MockCode
             Console.WriteLine("ispep");
             Console.WriteLine("dkypn");
             Console.WriteLine("bbpek");
-            Console.WriteLine("ufeis");
-            Console.WriteLine("towfj");
-            Console.WriteLine("caksu");
-            Console.WriteLine("qpqji");
-            Console.WriteLine("exkdm");
-            Console.WriteLine("fktsx");
-            Console.WriteLine("uyulj");
-            Console.WriteLine("teudm");
         }
     }
 }
