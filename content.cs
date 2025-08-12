@@ -1637,13 +1637,6 @@ namespace MockCode
             Console.WriteLine("krsig");
             Console.WriteLine("eskod");
             Console.WriteLine("njkob");
-            Console.WriteLine("fkkps");
-            Console.WriteLine("ndjon");
-            Console.WriteLine("tlcnu");
-            Console.WriteLine("jxacj");
-            Console.WriteLine("mnmtr");
-            Console.WriteLine("fdrga");
-            Console.WriteLine("ntsei");
         }
     }
 }
