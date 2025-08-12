@@ -1644,21 +1644,6 @@ namespace MockCode
             Console.WriteLine("mnmtr");
             Console.WriteLine("fdrga");
             Console.WriteLine("ntsei");
-            Console.WriteLine("lejeu");
-            Console.WriteLine("kgsmh");
-            Console.WriteLine("elvqu");
-            Console.WriteLine("jikkv");
-            Console.WriteLine("noocs");
-            Console.WriteLine("opipx");
-            Console.WriteLine("lwist");
-            Console.WriteLine("gvccr");
-            Console.WriteLine("omjbv");
-            Console.WriteLine("eyoid");
-            Console.WriteLine("noypa");
-            Console.WriteLine("wukdr");
-            Console.WriteLine("vpdph");
-            Console.WriteLine("jftgq");
-            Console.WriteLine("mrdfl");
         }
     }
 }
