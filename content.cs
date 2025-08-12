@@ -1634,20 +1634,6 @@ namespace MockCode
             Console.WriteLine("cvarp");
             Console.WriteLine("nxyxe");
             Console.WriteLine("nereb");
-            Console.WriteLine("krsig");
-            Console.WriteLine("eskod");
-            Console.WriteLine("njkob");
-            Console.WriteLine("bsqcf");
-            Console.WriteLine("xagms");
-            Console.WriteLine("ciduo");
-            Console.WriteLine("qjamk");
-            Console.WriteLine("lekie");
-            Console.WriteLine("upxhk");
-            Console.WriteLine("ujegj");
-            Console.WriteLine("fprcj");
-            Console.WriteLine("rnnam");
-            Console.WriteLine("pfndc");
-            Console.WriteLine("rdpcy");
         }
     }
 }
