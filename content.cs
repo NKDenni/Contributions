@@ -1648,21 +1648,6 @@ namespace MockCode
             Console.WriteLine("rnnam");
             Console.WriteLine("pfndc");
             Console.WriteLine("rdpcy");
-            Console.WriteLine("nabls");
-            Console.WriteLine("yruku");
-            Console.WriteLine("heiqj");
-            Console.WriteLine("uhvor");
-            Console.WriteLine("qsucl");
-            Console.WriteLine("apgul");
-            Console.WriteLine("msmpi");
-            Console.WriteLine("ljiqe");
-            Console.WriteLine("pnksf");
-            Console.WriteLine("hxdjt");
-            Console.WriteLine("nxwmf");
-            Console.WriteLine("cjwbj");
-            Console.WriteLine("tvptb");
-            Console.WriteLine("vffqe");
-            Console.WriteLine("awfnc");
         }
     }
 }
