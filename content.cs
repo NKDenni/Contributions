@@ -1663,21 +1663,6 @@ namespace MockCode
             Console.WriteLine("tvptb");
             Console.WriteLine("vffqe");
             Console.WriteLine("awfnc");
-            Console.WriteLine("llams");
-            Console.WriteLine("lyhvt");
-            Console.WriteLine("dxjue");
-            Console.WriteLine("optgr");
-            Console.WriteLine("cpiyd");
-            Console.WriteLine("gcaee");
-            Console.WriteLine("oubqp");
-            Console.WriteLine("xqvct");
-            Console.WriteLine("gtlyg");
-            Console.WriteLine("yvrkd");
-            Console.WriteLine("wibwg");
-            Console.WriteLine("gejai");
-            Console.WriteLine("effiu");
-            Console.WriteLine("nopar");
-            Console.WriteLine("eccyf");
         }
     }
 }
