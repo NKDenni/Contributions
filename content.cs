@@ -1688,12 +1688,6 @@ namespace MockCode
             Console.WriteLine("rvefl");
             Console.WriteLine("psese");
             Console.WriteLine("mcfsy");
-            Console.WriteLine("yhvxq");
-            Console.WriteLine("lcwgn");
-            Console.WriteLine("npjoq");
-            Console.WriteLine("gbrhb");
-            Console.WriteLine("tjrpy");
-            Console.WriteLine("filbw");
         }
     }
 }
