@@ -1658,21 +1658,6 @@ namespace MockCode
             Console.WriteLine("mqcpd");
             Console.WriteLine("xpxdd");
             Console.WriteLine("mjkfd");
-            Console.WriteLine("gmpbn");
-            Console.WriteLine("nnvtm");
-            Console.WriteLine("kmyqf");
-            Console.WriteLine("qxwcc");
-            Console.WriteLine("dbpqo");
-            Console.WriteLine("mpgty");
-            Console.WriteLine("nqatn");
-            Console.WriteLine("qbjis");
-            Console.WriteLine("ykjjt");
-            Console.WriteLine("uaicm");
-            Console.WriteLine("mfcux");
-            Console.WriteLine("aoibq");
-            Console.WriteLine("inlji");
-            Console.WriteLine("mshbs");
-            Console.WriteLine("njwwm");
         }
     }
 }
