@@ -1643,21 +1643,6 @@ namespace MockCode
             Console.WriteLine("odurh");
             Console.WriteLine("yepff");
             Console.WriteLine("dlibb");
-            Console.WriteLine("qnbuy");
-            Console.WriteLine("htxgn");
-            Console.WriteLine("pnmoq");
-            Console.WriteLine("juoju");
-            Console.WriteLine("nvejr");
-            Console.WriteLine("oootq");
-            Console.WriteLine("xjnlt");
-            Console.WriteLine("jtgjf");
-            Console.WriteLine("hafio");
-            Console.WriteLine("pdjlj");
-            Console.WriteLine("jbynm");
-            Console.WriteLine("gkivo");
-            Console.WriteLine("mqcpd");
-            Console.WriteLine("xpxdd");
-            Console.WriteLine("mjkfd");
         }
     }
 }
