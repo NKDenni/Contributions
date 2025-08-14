@@ -1634,6 +1634,12 @@ namespace MockCode
             Console.WriteLine("cvarp");
             Console.WriteLine("nxyxe");
             Console.WriteLine("nereb");
+            Console.WriteLine("rqqsw");
+            Console.WriteLine("lldia");
+            Console.WriteLine("daexv");
+            Console.WriteLine("xpsqq");
+            Console.WriteLine("ocxsg");
+            Console.WriteLine("urpba");
         }
     }
 }
