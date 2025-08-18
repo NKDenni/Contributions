@@ -1756,9 +1756,6 @@ namespace MockCode
             Console.WriteLine("typtg");
             Console.WriteLine("tecnv");
             Console.WriteLine("kwyfj");
-            Console.WriteLine("wkkti");
-            Console.WriteLine("fdpyo");
-            Console.WriteLine("nswgs");
         }
     }
 }
