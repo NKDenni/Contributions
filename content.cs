@@ -1932,9 +1932,6 @@ namespace MockCode
             Console.WriteLine("iqhsk");
             Console.WriteLine("agddx");
             Console.WriteLine("tpidd");
-            Console.WriteLine("fofhs");
-            Console.WriteLine("uvucc");
-            Console.WriteLine("gxbkg");
         }
     }
 }
