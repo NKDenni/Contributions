@@ -1875,48 +1875,6 @@ namespace MockCode
             Console.WriteLine("cojas");
             Console.WriteLine("wvxpo");
             Console.WriteLine("uixcv");
-            Console.WriteLine("npoak");
-            Console.WriteLine("isblv");
-            Console.WriteLine("qfuae");
-            Console.WriteLine("cssok");
-            Console.WriteLine("iotcs");
-            Console.WriteLine("hdpnc");
-            Console.WriteLine("mytlf");
-            Console.WriteLine("twbsw");
-            Console.WriteLine("shexj");
-            Console.WriteLine("tjuma");
-            Console.WriteLine("dvqgm");
-            Console.WriteLine("hjhpj");
-            Console.WriteLine("kbofi");
-            Console.WriteLine("ojths");
-            Console.WriteLine("eaije");
-            Console.WriteLine("wiopd");
-            Console.WriteLine("kcvdh");
-            Console.WriteLine("floho");
-            Console.WriteLine("aqobj");
-            Console.WriteLine("muflu");
-            Console.WriteLine("amspb");
-            Console.WriteLine("yngsg");
-            Console.WriteLine("dikbg");
-            Console.WriteLine("iqfyi");
-            Console.WriteLine("umvki");
-            Console.WriteLine("btyeo");
-            Console.WriteLine("fjfij");
-            Console.WriteLine("rtlfk");
-            Console.WriteLine("qlhtq");
-            Console.WriteLine("avvuh");
-            Console.WriteLine("xwssh");
-            Console.WriteLine("qaywo");
-            Console.WriteLine("fafjx");
-            Console.WriteLine("eremv");
-            Console.WriteLine("koqgj");
-            Console.WriteLine("cokjv");
-            Console.WriteLine("icjfj");
-            Console.WriteLine("fdlfg");
-            Console.WriteLine("buqav");
-            Console.WriteLine("xtnse");
-            Console.WriteLine("dxfjh");
-            Console.WriteLine("mroul");
         }
     }
 }
