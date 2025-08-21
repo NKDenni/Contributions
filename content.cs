@@ -2565,8 +2565,6 @@ namespace MockCode
             Console.WriteLine("yvsan");
             Console.WriteLine("hxrov");
             Console.WriteLine("xqyui");
-            Console.WriteLine("xoxes");
-            Console.WriteLine("nmanf");
         }
     }
 }
