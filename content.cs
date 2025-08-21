@@ -2597,21 +2597,6 @@ namespace MockCode
             Console.WriteLine("pkdqj");
             Console.WriteLine("xdsqf");
             Console.WriteLine("wilqj");
-            Console.WriteLine("yuaxl");
-            Console.WriteLine("hsymh");
-            Console.WriteLine("bbjre");
-            Console.WriteLine("lgslf");
-            Console.WriteLine("ixdcf");
-            Console.WriteLine("iaryf");
-            Console.WriteLine("ukevb");
-            Console.WriteLine("hbxwa");
-            Console.WriteLine("vitqc");
-            Console.WriteLine("ywvry");
-            Console.WriteLine("dmewg");
-            Console.WriteLine("rxkty");
-            Console.WriteLine("sabvx");
-            Console.WriteLine("vkcpf");
-            Console.WriteLine("pmflu");
         }
     }
 }
