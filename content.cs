@@ -2743,8 +2743,6 @@ namespace MockCode
             Console.WriteLine("bvjsp");
             Console.WriteLine("koxta");
             Console.WriteLine("tqolu");
-            Console.WriteLine("xdrhh");
-            Console.WriteLine("edlan");
         }
     }
 }
