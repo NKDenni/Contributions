@@ -3085,9 +3085,6 @@ namespace MockCode
             Console.WriteLine("aebxw");
             Console.WriteLine("ucsuj");
             Console.WriteLine("dvmwl");
-            Console.WriteLine("hnmcq");
-            Console.WriteLine("aumlr");
-            Console.WriteLine("xuycg");
         }
     }
 }
