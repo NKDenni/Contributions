@@ -3055,21 +3055,6 @@ namespace MockCode
             Console.WriteLine("liglj");
             Console.WriteLine("keudm");
             Console.WriteLine("butmd");
-            Console.WriteLine("gqgya");
-            Console.WriteLine("pxnjp");
-            Console.WriteLine("ohtbk");
-            Console.WriteLine("obnba");
-            Console.WriteLine("qshsv");
-            Console.WriteLine("adefx");
-            Console.WriteLine("gugxh");
-            Console.WriteLine("unmcg");
-            Console.WriteLine("keckt");
-            Console.WriteLine("qipir");
-            Console.WriteLine("jiugo");
-            Console.WriteLine("oraie");
-            Console.WriteLine("baamo");
-            Console.WriteLine("nelbs");
-            Console.WriteLine("woemk");
         }
     }
 }
