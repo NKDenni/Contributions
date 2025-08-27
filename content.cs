@@ -3040,21 +3040,6 @@ namespace MockCode
             Console.WriteLine("hgotr");
             Console.WriteLine("mscve");
             Console.WriteLine("xqchp");
-            Console.WriteLine("gouwc");
-            Console.WriteLine("oqfxb");
-            Console.WriteLine("dfkir");
-            Console.WriteLine("obref");
-            Console.WriteLine("ifbhc");
-            Console.WriteLine("nxuev");
-            Console.WriteLine("bbntw");
-            Console.WriteLine("bebrp");
-            Console.WriteLine("brxam");
-            Console.WriteLine("ldvux");
-            Console.WriteLine("xgxgi");
-            Console.WriteLine("ouldq");
-            Console.WriteLine("liglj");
-            Console.WriteLine("keudm");
-            Console.WriteLine("butmd");
         }
     }
 }
