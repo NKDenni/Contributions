@@ -3028,18 +3028,6 @@ namespace MockCode
             Console.WriteLine("bsdlk");
             Console.WriteLine("drcro");
             Console.WriteLine("semou");
-            Console.WriteLine("qrtan");
-            Console.WriteLine("gsapc");
-            Console.WriteLine("qxpir");
-            Console.WriteLine("eodvy");
-            Console.WriteLine("cryeb");
-            Console.WriteLine("nvhqy");
-            Console.WriteLine("mcorh");
-            Console.WriteLine("tfgol");
-            Console.WriteLine("xydgu");
-            Console.WriteLine("hgotr");
-            Console.WriteLine("mscve");
-            Console.WriteLine("xqchp");
         }
     }
 }
