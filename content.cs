@@ -3051,21 +3051,7 @@ namespace MockCode
             Console.WriteLine("tulrs");
             Console.WriteLine("gscip");
             Console.WriteLine("vtuww");
-            Console.WriteLine("jabrp");
-            Console.WriteLine("fffcm");
-            Console.WriteLine("tphsg");
-            Console.WriteLine("stwpg");
-            Console.WriteLine("ygcxi");
-            Console.WriteLine("ivlsl");
-            Console.WriteLine("sdtgk");
-            Console.WriteLine("ajwvy");
-            Console.WriteLine("rxsjr");
-            Console.WriteLine("cpnmd");
-            Console.WriteLine("ddede");
-            Console.WriteLine("cfggr");
-            Console.WriteLine("lqjsw");
-            Console.WriteLine("thnxn");
-            Console.WriteLine("ulpvh");
+            Console.WriteLine("exsrs");
         }
     }
 }
