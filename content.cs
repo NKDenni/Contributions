@@ -3037,21 +3037,7 @@ namespace MockCode
             Console.WriteLine("jkdjl");
             Console.WriteLine("wkkrl");
             Console.WriteLine("kfmbd");
-            Console.WriteLine("gkede");
-            Console.WriteLine("rxtix");
-            Console.WriteLine("kijeq");
-            Console.WriteLine("yiswv");
-            Console.WriteLine("oscfn");
-            Console.WriteLine("ntsnh");
-            Console.WriteLine("kimqk");
-            Console.WriteLine("cntyi");
-            Console.WriteLine("uktpn");
-            Console.WriteLine("jxbyt");
-            Console.WriteLine("qsnqk");
-            Console.WriteLine("tulrs");
-            Console.WriteLine("gscip");
-            Console.WriteLine("vtuww");
-            Console.WriteLine("exsrs");
+            Console.WriteLine("lxtxe");
         }
     }
 }
