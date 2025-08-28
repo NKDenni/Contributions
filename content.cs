@@ -3015,9 +3015,7 @@ namespace MockCode
             Console.WriteLine("lrtjs");
             Console.WriteLine("iwtsw");
             Console.WriteLine("jxeqb");
-            Console.WriteLine("pnrfr");
-            Console.WriteLine("kgmey");
-            Console.WriteLine("ximqc");
+            Console.WriteLine("drjlu");
         }
     }
 }
