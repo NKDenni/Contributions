@@ -3019,11 +3019,7 @@ namespace MockCode
             Console.WriteLine("tlpml");
             Console.WriteLine("lviec");
             Console.WriteLine("ssctf");
-            Console.WriteLine("dsoqf");
-            Console.WriteLine("ngcdw");
-            Console.WriteLine("cvhcn");
-            Console.WriteLine("kpbfi");
-            Console.WriteLine("suplj");
+            Console.WriteLine("ngkrs");
         }
     }
 }
