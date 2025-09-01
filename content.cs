@@ -3064,21 +3064,6 @@ namespace MockCode
             Console.WriteLine("piipy");
             Console.WriteLine("bsamj");
             Console.WriteLine("dtrlu");
-            Console.WriteLine("ajhfd");
-            Console.WriteLine("pjdsa");
-            Console.WriteLine("xahyi");
-            Console.WriteLine("orycg");
-            Console.WriteLine("uvqon");
-            Console.WriteLine("uxfxk");
-            Console.WriteLine("efaxg");
-            Console.WriteLine("pvqpe");
-            Console.WriteLine("mnmki");
-            Console.WriteLine("svupa");
-            Console.WriteLine("mdorn");
-            Console.WriteLine("nkcto");
-            Console.WriteLine("iynil");
-            Console.WriteLine("wxusu");
-            Console.WriteLine("vefng");
         }
     }
 }
