@@ -3049,21 +3049,6 @@ namespace MockCode
             Console.WriteLine("yoext");
             Console.WriteLine("ggpct");
             Console.WriteLine("uvsdt");
-            Console.WriteLine("vcsty");
-            Console.WriteLine("gutgp");
-            Console.WriteLine("ekbqn");
-            Console.WriteLine("nibae");
-            Console.WriteLine("jyaht");
-            Console.WriteLine("chywr");
-            Console.WriteLine("odbvy");
-            Console.WriteLine("tagfk");
-            Console.WriteLine("gyooc");
-            Console.WriteLine("yebjo");
-            Console.WriteLine("qfknp");
-            Console.WriteLine("ofacg");
-            Console.WriteLine("piipy");
-            Console.WriteLine("bsamj");
-            Console.WriteLine("dtrlu");
         }
     }
 }
