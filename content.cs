@@ -3042,13 +3042,6 @@ namespace MockCode
             Console.WriteLine("idual");
             Console.WriteLine("ylfsx");
             Console.WriteLine("iqbay");
-            Console.WriteLine("vgxve");
-            Console.WriteLine("nudlr");
-            Console.WriteLine("uqgjq");
-            Console.WriteLine("mkfcf");
-            Console.WriteLine("yoext");
-            Console.WriteLine("ggpct");
-            Console.WriteLine("uvsdt");
         }
     }
 }
