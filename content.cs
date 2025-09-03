@@ -2974,14 +2974,6 @@ namespace MockCode
             Console.WriteLine("cgwbu");
             Console.WriteLine("tslrw");
             Console.WriteLine("enisb");
-            Console.WriteLine("blefx");
-            Console.WriteLine("otabl");
-            Console.WriteLine("sqfau");
-            Console.WriteLine("sbooc");
-            Console.WriteLine("ycpsd");
-            Console.WriteLine("bwleo");
-            Console.WriteLine("fhnws");
-            Console.WriteLine("ygcoy");
         }
     }
 }
