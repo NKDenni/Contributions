@@ -2967,13 +2967,6 @@ namespace MockCode
             Console.WriteLine("urqkl");
             Console.WriteLine("knvjs");
             Console.WriteLine("cktqw");
-            Console.WriteLine("ykhku");
-            Console.WriteLine("xoltg");
-            Console.WriteLine("lmcpo");
-            Console.WriteLine("xxafa");
-            Console.WriteLine("cgwbu");
-            Console.WriteLine("tslrw");
-            Console.WriteLine("enisb");
         }
     }
 }
