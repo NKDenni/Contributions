@@ -3115,12 +3115,6 @@ namespace MockCode
             Console.WriteLine("smfaf");
             Console.WriteLine("jcysj");
             Console.WriteLine("okvqk");
-            Console.WriteLine("crtds");
-            Console.WriteLine("ltcib");
-            Console.WriteLine("thaxf");
-            Console.WriteLine("acjaj");
-            Console.WriteLine("fbveh");
-            Console.WriteLine("bapqn");
         }
     }
 }
