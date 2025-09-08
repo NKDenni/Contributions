@@ -3103,11 +3103,6 @@ namespace MockCode
             Console.WriteLine("kngkn");
             Console.WriteLine("iwhmj");
             Console.WriteLine("foydd");
-            Console.WriteLine("rnolo");
-            Console.WriteLine("rdktm");
-            Console.WriteLine("oyjwn");
-            Console.WriteLine("miwps");
-            Console.WriteLine("fryww");
         }
     }
 }
