@@ -3136,21 +3136,6 @@ namespace MockCode
             Console.WriteLine("ofled");
             Console.WriteLine("milqb");
             Console.WriteLine("hbkrx");
-            Console.WriteLine("wemlx");
-            Console.WriteLine("sgoyh");
-            Console.WriteLine("tapsc");
-            Console.WriteLine("wpxvf");
-            Console.WriteLine("jyhfi");
-            Console.WriteLine("aufgd");
-            Console.WriteLine("koohx");
-            Console.WriteLine("egnhr");
-            Console.WriteLine("amfjq");
-            Console.WriteLine("wtlcf");
-            Console.WriteLine("kseok");
-            Console.WriteLine("kyftx");
-            Console.WriteLine("meslo");
-            Console.WriteLine("styxg");
-            Console.WriteLine("lxcyh");
         }
     }
 }
