@@ -3181,19 +3181,6 @@ namespace MockCode
             Console.WriteLine("xndwn");
             Console.WriteLine("khpyq");
             Console.WriteLine("hebob");
-            Console.WriteLine("reglp");
-            Console.WriteLine("iitlr");
-            Console.WriteLine("qpdvu");
-            Console.WriteLine("qbpou");
-            Console.WriteLine("staji");
-            Console.WriteLine("hirho");
-            Console.WriteLine("ekrla");
-            Console.WriteLine("nxmhp");
-            Console.WriteLine("rsecp");
-            Console.WriteLine("wvrix");
-            Console.WriteLine("dgmqj");
-            Console.WriteLine("ksegb");
-            Console.WriteLine("ofsaq");
         }
     }
 }
