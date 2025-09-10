@@ -3151,21 +3151,6 @@ namespace MockCode
             Console.WriteLine("meslo");
             Console.WriteLine("styxg");
             Console.WriteLine("lxcyh");
-            Console.WriteLine("cpnvc");
-            Console.WriteLine("fqjte");
-            Console.WriteLine("psdmx");
-            Console.WriteLine("grctr");
-            Console.WriteLine("gjbjh");
-            Console.WriteLine("uxquc");
-            Console.WriteLine("lqolv");
-            Console.WriteLine("ljyae");
-            Console.WriteLine("yfnbq");
-            Console.WriteLine("ipufy");
-            Console.WriteLine("pvous");
-            Console.WriteLine("dnudb");
-            Console.WriteLine("dbxtd");
-            Console.WriteLine("rkhsp");
-            Console.WriteLine("jyaot");
         }
     }
 }
