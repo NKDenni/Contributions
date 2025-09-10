@@ -3134,8 +3134,6 @@ namespace MockCode
             Console.WriteLine("negah");
             Console.WriteLine("kelxi");
             Console.WriteLine("ofled");
-            Console.WriteLine("milqb");
-            Console.WriteLine("hbkrx");
         }
     }
 }
