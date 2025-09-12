@@ -3239,17 +3239,6 @@ namespace MockCode
             Console.WriteLine("obuwq");
             Console.WriteLine("wssou");
             Console.WriteLine("uybvy");
-            Console.WriteLine("cdgxl");
-            Console.WriteLine("fuqkk");
-            Console.WriteLine("rndlh");
-            Console.WriteLine("lfrty");
-            Console.WriteLine("xdqux");
-            Console.WriteLine("rniqw");
-            Console.WriteLine("rgtkq");
-            Console.WriteLine("spouf");
-            Console.WriteLine("hwyky");
-            Console.WriteLine("qmwgl");
-            Console.WriteLine("goodm");
         }
     }
 }
