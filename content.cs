@@ -3190,10 +3190,6 @@ namespace MockCode
             Console.WriteLine("phxdj");
             Console.WriteLine("rwpcq");
             Console.WriteLine("ekoeh");
-            Console.WriteLine("uyagb");
-            Console.WriteLine("ljojq");
-            Console.WriteLine("jghfn");
-            Console.WriteLine("bxsqt");
         }
     }
 }
