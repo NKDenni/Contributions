@@ -3209,21 +3209,6 @@ namespace MockCode
             Console.WriteLine("jcfii");
             Console.WriteLine("fgaae");
             Console.WriteLine("taope");
-            Console.WriteLine("vkniv");
-            Console.WriteLine("jykjy");
-            Console.WriteLine("xojsb");
-            Console.WriteLine("tekxe");
-            Console.WriteLine("spurm");
-            Console.WriteLine("vorih");
-            Console.WriteLine("nnqgs");
-            Console.WriteLine("fgkyk");
-            Console.WriteLine("prcec");
-            Console.WriteLine("kepcj");
-            Console.WriteLine("aqxak");
-            Console.WriteLine("cogym");
-            Console.WriteLine("golji");
-            Console.WriteLine("jalsb");
-            Console.WriteLine("wanyk");
         }
     }
 }
