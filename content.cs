@@ -3590,21 +3590,6 @@ namespace MockCode
             Console.WriteLine("oqdls");
             Console.WriteLine("cxmhb");
             Console.WriteLine("msylo");
-            Console.WriteLine("mkacb");
-            Console.WriteLine("yghxu");
-            Console.WriteLine("xilxk");
-            Console.WriteLine("cnlda");
-            Console.WriteLine("gfapg");
-            Console.WriteLine("jpscl");
-            Console.WriteLine("ablsf");
-            Console.WriteLine("aojqx");
-            Console.WriteLine("wbcur");
-            Console.WriteLine("ficam");
-            Console.WriteLine("lqkgi");
-            Console.WriteLine("vlfxc");
-            Console.WriteLine("xkcew");
-            Console.WriteLine("evhrf");
-            Console.WriteLine("pqqyn");
         }
     }
 }
