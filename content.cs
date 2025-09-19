@@ -3584,12 +3584,6 @@ namespace MockCode
             Console.WriteLine("yqwvu");
             Console.WriteLine("hpnel");
             Console.WriteLine("bynyh");
-            Console.WriteLine("lmmds");
-            Console.WriteLine("nitkt");
-            Console.WriteLine("gnyej");
-            Console.WriteLine("wubop");
-            Console.WriteLine("bxkew");
-            Console.WriteLine("ddkhy");
         }
     }
 }
