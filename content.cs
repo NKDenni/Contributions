@@ -3554,21 +3554,6 @@ namespace MockCode
             Console.WriteLine("qqrwy");
             Console.WriteLine("nrxqk");
             Console.WriteLine("bxjuu");
-            Console.WriteLine("uuiso");
-            Console.WriteLine("ooebg");
-            Console.WriteLine("rrnam");
-            Console.WriteLine("jobsk");
-            Console.WriteLine("ckkpa");
-            Console.WriteLine("hgwob");
-            Console.WriteLine("iadco");
-            Console.WriteLine("gepeo");
-            Console.WriteLine("qtalk");
-            Console.WriteLine("jwbwj");
-            Console.WriteLine("asbpb");
-            Console.WriteLine("jbspl");
-            Console.WriteLine("ajgms");
-            Console.WriteLine("xgsmd");
-            Console.WriteLine("henbi");
         }
     }
 }
