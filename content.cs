@@ -3530,10 +3530,6 @@ namespace MockCode
             Console.WriteLine("xwrrq");
             Console.WriteLine("trhbw");
             Console.WriteLine("ikjas");
-            Console.WriteLine("neoxt");
-            Console.WriteLine("btgsn");
-            Console.WriteLine("pdwdt");
-            Console.WriteLine("nqgus");
         }
     }
 }
