@@ -3579,17 +3579,6 @@ namespace MockCode
             Console.WriteLine("gieqr");
             Console.WriteLine("kbfee");
             Console.WriteLine("mnahb");
-            Console.WriteLine("xpxdb");
-            Console.WriteLine("mgtuj");
-            Console.WriteLine("avbdq");
-            Console.WriteLine("gvdts");
-            Console.WriteLine("tsano");
-            Console.WriteLine("ijokn");
-            Console.WriteLine("fqgcb");
-            Console.WriteLine("cmbkl");
-            Console.WriteLine("vpwpq");
-            Console.WriteLine("ohhcp");
-            Console.WriteLine("oeyck");
         }
     }
 }
