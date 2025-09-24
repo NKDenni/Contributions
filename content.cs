@@ -3605,21 +3605,6 @@ namespace MockCode
             Console.WriteLine("psrfy");
             Console.WriteLine("ndfax");
             Console.WriteLine("rdjyw");
-            Console.WriteLine("kggfc");
-            Console.WriteLine("tbfvy");
-            Console.WriteLine("tuxya");
-            Console.WriteLine("aqvyk");
-            Console.WriteLine("bnadu");
-            Console.WriteLine("psdfh");
-            Console.WriteLine("vwema");
-            Console.WriteLine("qwdux");
-            Console.WriteLine("ehjrq");
-            Console.WriteLine("vsurs");
-            Console.WriteLine("copju");
-            Console.WriteLine("owayk");
-            Console.WriteLine("qclig");
-            Console.WriteLine("ucudj");
-            Console.WriteLine("adkok");
         }
     }
 }
