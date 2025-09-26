@@ -3707,9 +3707,6 @@ namespace MockCode
             Console.WriteLine("wrfcg");
             Console.WriteLine("dghpj");
             Console.WriteLine("cdgqp");
-            Console.WriteLine("gqqed");
-            Console.WriteLine("yotif");
-            Console.WriteLine("adstn");
         }
     }
 }
