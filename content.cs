@@ -3755,18 +3755,6 @@ namespace MockCode
             Console.WriteLine("uwgsi");
             Console.WriteLine("qgcxx");
             Console.WriteLine("evgjr");
-            Console.WriteLine("dijlm");
-            Console.WriteLine("gheay");
-            Console.WriteLine("mffjw");
-            Console.WriteLine("itqcu");
-            Console.WriteLine("dvhhh");
-            Console.WriteLine("tdjwh");
-            Console.WriteLine("dbvsl");
-            Console.WriteLine("xdqji");
-            Console.WriteLine("ybhla");
-            Console.WriteLine("asxmv");
-            Console.WriteLine("kkecm");
-            Console.WriteLine("memgc");
         }
     }
 }
