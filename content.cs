@@ -3710,21 +3710,6 @@ namespace MockCode
             Console.WriteLine("gqqed");
             Console.WriteLine("yotif");
             Console.WriteLine("adstn");
-            Console.WriteLine("dyxwa");
-            Console.WriteLine("pfivi");
-            Console.WriteLine("gkuug");
-            Console.WriteLine("yapvp");
-            Console.WriteLine("rdsae");
-            Console.WriteLine("hgwhp");
-            Console.WriteLine("pcbdi");
-            Console.WriteLine("adxil");
-            Console.WriteLine("kurwb");
-            Console.WriteLine("bwhum");
-            Console.WriteLine("jobix");
-            Console.WriteLine("fasyx");
-            Console.WriteLine("mvjsx");
-            Console.WriteLine("omhfn");
-            Console.WriteLine("mdpyo");
         }
     }
 }
