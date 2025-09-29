@@ -3707,12 +3707,6 @@ namespace MockCode
             Console.WriteLine("wrfcg");
             Console.WriteLine("dghpj");
             Console.WriteLine("cdgqp");
-            Console.WriteLine("qwrkw");
-            Console.WriteLine("tlkhh");
-            Console.WriteLine("ebpmw");
-            Console.WriteLine("lbxcx");
-            Console.WriteLine("dlpjk");
-            Console.WriteLine("nbkyq");
         }
     }
 }
