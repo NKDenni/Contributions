@@ -3728,21 +3728,6 @@ namespace MockCode
             Console.WriteLine("pquhj");
             Console.WriteLine("vcgeu");
             Console.WriteLine("egger");
-            Console.WriteLine("kwriv");
-            Console.WriteLine("bctwu");
-            Console.WriteLine("yfpkh");
-            Console.WriteLine("sltxh");
-            Console.WriteLine("ifwtq");
-            Console.WriteLine("bjkyi");
-            Console.WriteLine("edaaj");
-            Console.WriteLine("ndmjh");
-            Console.WriteLine("lbjnc");
-            Console.WriteLine("evlpf");
-            Console.WriteLine("budpf");
-            Console.WriteLine("llfsd");
-            Console.WriteLine("fejgs");
-            Console.WriteLine("oyveh");
-            Console.WriteLine("vitra");
         }
     }
 }
