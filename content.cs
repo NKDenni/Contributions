@@ -3758,15 +3758,6 @@ namespace MockCode
             Console.WriteLine("vqxbl");
             Console.WriteLine("gbwqh");
             Console.WriteLine("vjanj");
-            Console.WriteLine("xmvbb");
-            Console.WriteLine("txqya");
-            Console.WriteLine("yntot");
-            Console.WriteLine("snxdu");
-            Console.WriteLine("bacsq");
-            Console.WriteLine("wrgom");
-            Console.WriteLine("skwod");
-            Console.WriteLine("byuja");
-            Console.WriteLine("yousd");
         }
     }
 }
