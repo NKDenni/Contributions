@@ -3713,21 +3713,6 @@ namespace MockCode
             Console.WriteLine("lbxcx");
             Console.WriteLine("dlpjk");
             Console.WriteLine("nbkyq");
-            Console.WriteLine("estmw");
-            Console.WriteLine("bgkti");
-            Console.WriteLine("wkgtp");
-            Console.WriteLine("wdsvy");
-            Console.WriteLine("hwpyj");
-            Console.WriteLine("fkeuq");
-            Console.WriteLine("utqrp");
-            Console.WriteLine("kojfe");
-            Console.WriteLine("kptja");
-            Console.WriteLine("aituj");
-            Console.WriteLine("nsegp");
-            Console.WriteLine("gscee");
-            Console.WriteLine("pquhj");
-            Console.WriteLine("vcgeu");
-            Console.WriteLine("egger");
         }
     }
 }
