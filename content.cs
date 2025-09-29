@@ -3743,21 +3743,6 @@ namespace MockCode
             Console.WriteLine("fejgs");
             Console.WriteLine("oyveh");
             Console.WriteLine("vitra");
-            Console.WriteLine("mksrn");
-            Console.WriteLine("bepbw");
-            Console.WriteLine("jmtax");
-            Console.WriteLine("mquhf");
-            Console.WriteLine("cnlty");
-            Console.WriteLine("gkegn");
-            Console.WriteLine("ybjhn");
-            Console.WriteLine("xiqou");
-            Console.WriteLine("rgcxu");
-            Console.WriteLine("pytxa");
-            Console.WriteLine("gcdyp");
-            Console.WriteLine("wjifa");
-            Console.WriteLine("vqxbl");
-            Console.WriteLine("gbwqh");
-            Console.WriteLine("vjanj");
         }
     }
 }
