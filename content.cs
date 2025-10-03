@@ -3727,21 +3727,6 @@ namespace MockCode
             Console.WriteLine("anyfi");
             Console.WriteLine("gjgdn");
             Console.WriteLine("axnwh");
-            Console.WriteLine("oamfy");
-            Console.WriteLine("medic");
-            Console.WriteLine("hoqkd");
-            Console.WriteLine("fkvlt");
-            Console.WriteLine("wwrpv");
-            Console.WriteLine("kckps");
-            Console.WriteLine("pbxik");
-            Console.WriteLine("ybtjh");
-            Console.WriteLine("jjkta");
-            Console.WriteLine("fiigh");
-            Console.WriteLine("uanbl");
-            Console.WriteLine("etsqu");
-            Console.WriteLine("msmvk");
-            Console.WriteLine("vrijh");
-            Console.WriteLine("oaqyn");
         }
     }
 }
