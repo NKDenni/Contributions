@@ -3712,21 +3712,6 @@ namespace MockCode
             Console.WriteLine("xkdiv");
             Console.WriteLine("lfoqb");
             Console.WriteLine("xochf");
-            Console.WriteLine("qpkes");
-            Console.WriteLine("jluqb");
-            Console.WriteLine("dwyyv");
-            Console.WriteLine("jwimn");
-            Console.WriteLine("haria");
-            Console.WriteLine("wwtrl");
-            Console.WriteLine("uaask");
-            Console.WriteLine("wnfey");
-            Console.WriteLine("nsypu");
-            Console.WriteLine("patby");
-            Console.WriteLine("jyovx");
-            Console.WriteLine("aontj");
-            Console.WriteLine("anyfi");
-            Console.WriteLine("gjgdn");
-            Console.WriteLine("axnwh");
         }
     }
 }
