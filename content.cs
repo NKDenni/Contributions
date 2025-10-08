@@ -3947,9 +3947,6 @@ namespace MockCode
             Console.WriteLine("ohscq");
             Console.WriteLine("pwxmh");
             Console.WriteLine("yqqvh");
-            Console.WriteLine("hgosn");
-            Console.WriteLine("tsypp");
-            Console.WriteLine("sqxwp");
         }
     }
 }
