@@ -3932,21 +3932,6 @@ namespace MockCode
             Console.WriteLine("oquot");
             Console.WriteLine("ccbop");
             Console.WriteLine("aiieg");
-            Console.WriteLine("fmgmf");
-            Console.WriteLine("pjawi");
-            Console.WriteLine("jlcmf");
-            Console.WriteLine("qtfrd");
-            Console.WriteLine("tdcet");
-            Console.WriteLine("omckb");
-            Console.WriteLine("jdnde");
-            Console.WriteLine("sjejq");
-            Console.WriteLine("xpard");
-            Console.WriteLine("pdqhb");
-            Console.WriteLine("aleua");
-            Console.WriteLine("maaux");
-            Console.WriteLine("ohscq");
-            Console.WriteLine("pwxmh");
-            Console.WriteLine("yqqvh");
         }
     }
 }
