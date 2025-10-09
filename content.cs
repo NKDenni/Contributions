@@ -3892,21 +3892,6 @@ namespace MockCode
             Console.WriteLine("afusw");
             Console.WriteLine("towga");
             Console.WriteLine("ccshu");
-            Console.WriteLine("brdac");
-            Console.WriteLine("xytbp");
-            Console.WriteLine("cprak");
-            Console.WriteLine("karny");
-            Console.WriteLine("yiuyn");
-            Console.WriteLine("kmops");
-            Console.WriteLine("njmcc");
-            Console.WriteLine("feimx");
-            Console.WriteLine("fspcc");
-            Console.WriteLine("ffkpt");
-            Console.WriteLine("ssmad");
-            Console.WriteLine("ahqtb");
-            Console.WriteLine("nrwow");
-            Console.WriteLine("nwfpp");
-            Console.WriteLine("yhwyq");
         }
     }
 }
