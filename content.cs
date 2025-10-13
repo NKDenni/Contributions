@@ -3876,9 +3876,6 @@ namespace MockCode
             Console.WriteLine("avnuh");
             Console.WriteLine("grxrw");
             Console.WriteLine("hbwck");
-            Console.WriteLine("ysgnu");
-            Console.WriteLine("aaspk");
-            Console.WriteLine("bklgl");
         }
     }
 }
