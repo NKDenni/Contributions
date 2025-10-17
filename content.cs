@@ -3891,21 +3891,6 @@ namespace MockCode
             Console.WriteLine("xyapi");
             Console.WriteLine("hpmhm");
             Console.WriteLine("qlwtm");
-            Console.WriteLine("rkxoc");
-            Console.WriteLine("eipfk");
-            Console.WriteLine("iiflt");
-            Console.WriteLine("lojaq");
-            Console.WriteLine("tdrqi");
-            Console.WriteLine("tlrtv");
-            Console.WriteLine("faadc");
-            Console.WriteLine("mhefj");
-            Console.WriteLine("pvqfw");
-            Console.WriteLine("gahft");
-            Console.WriteLine("ghlfy");
-            Console.WriteLine("pepsu");
-            Console.WriteLine("xgdvm");
-            Console.WriteLine("idkrh");
-            Console.WriteLine("qcsnw");
         }
     }
 }
