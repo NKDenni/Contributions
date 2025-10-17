@@ -3906,21 +3906,6 @@ namespace MockCode
             Console.WriteLine("xgdvm");
             Console.WriteLine("idkrh");
             Console.WriteLine("qcsnw");
-            Console.WriteLine("wxckw");
-            Console.WriteLine("fyrjf");
-            Console.WriteLine("hkghi");
-            Console.WriteLine("affcl");
-            Console.WriteLine("yaotn");
-            Console.WriteLine("psyca");
-            Console.WriteLine("bhmio");
-            Console.WriteLine("jqhxg");
-            Console.WriteLine("knhsb");
-            Console.WriteLine("qxpbc");
-            Console.WriteLine("yafja");
-            Console.WriteLine("emfts");
-            Console.WriteLine("slspq");
-            Console.WriteLine("fvbeh");
-            Console.WriteLine("rimij");
         }
     }
 }
