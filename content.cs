@@ -3878,21 +3878,6 @@ namespace MockCode
             Console.WriteLine("baslk");
             Console.WriteLine("qdomj");
             Console.WriteLine("qhlds");
-            Console.WriteLine("emclu");
-            Console.WriteLine("uobdm");
-            Console.WriteLine("tmxxq");
-            Console.WriteLine("ghfni");
-            Console.WriteLine("npdhy");
-            Console.WriteLine("aekta");
-            Console.WriteLine("rchsg");
-            Console.WriteLine("lvqxh");
-            Console.WriteLine("ttdeb");
-            Console.WriteLine("fiwar");
-            Console.WriteLine("auawn");
-            Console.WriteLine("emjgo");
-            Console.WriteLine("xijph");
-            Console.WriteLine("ggpwn");
-            Console.WriteLine("uodkq");
         }
     }
 }
