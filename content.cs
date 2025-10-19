@@ -3908,20 +3908,6 @@ namespace MockCode
             Console.WriteLine("tqawp");
             Console.WriteLine("vqmjd");
             Console.WriteLine("aolif");
-            Console.WriteLine("vywyq");
-            Console.WriteLine("jhwfy");
-            Console.WriteLine("mbhnm");
-            Console.WriteLine("xgghk");
-            Console.WriteLine("ladtp");
-            Console.WriteLine("wumxc");
-            Console.WriteLine("dsgff");
-            Console.WriteLine("hkvlc");
-            Console.WriteLine("mkbmm");
-            Console.WriteLine("atrfq");
-            Console.WriteLine("pihkn");
-            Console.WriteLine("otvsh");
-            Console.WriteLine("kjoxn");
-            Console.WriteLine("otobg");
         }
     }
 }
