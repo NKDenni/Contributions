@@ -3862,7 +3862,6 @@ namespace MockCode
             Console.WriteLine("tytfh");
             Console.WriteLine("sbxcu");
             Console.WriteLine("sxrxu");
-            Console.WriteLine("hapqd");
         }
     }
 }
