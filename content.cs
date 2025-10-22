@@ -3916,13 +3916,6 @@ namespace MockCode
             Console.WriteLine("tlbrj");
             Console.WriteLine("bsscp");
             Console.WriteLine("saopd");
-            Console.WriteLine("bxijg");
-            Console.WriteLine("tptdr");
-            Console.WriteLine("bkevj");
-            Console.WriteLine("uvsxd");
-            Console.WriteLine("pfgyq");
-            Console.WriteLine("lxytw");
-            Console.WriteLine("yfawn");
         }
     }
 }
