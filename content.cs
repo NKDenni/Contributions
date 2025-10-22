@@ -3863,14 +3863,6 @@ namespace MockCode
             Console.WriteLine("sbxcu");
             Console.WriteLine("sxrxu");
             Console.WriteLine("mbijp");
-            Console.WriteLine("fonyp");
-            Console.WriteLine("latut");
-            Console.WriteLine("yhgms");
-            Console.WriteLine("jaiot");
-            Console.WriteLine("khcfl");
-            Console.WriteLine("hvyeq");
-            Console.WriteLine("xesnk");
-            Console.WriteLine("hdwjp");
         }
     }
 }
