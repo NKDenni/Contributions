@@ -3921,8 +3921,6 @@ namespace MockCode
             Console.WriteLine("gxolh");
             Console.WriteLine("iaqbi");
             Console.WriteLine("soyjn");
-            Console.WriteLine("vxufi");
-            Console.WriteLine("rinqu");
         }
     }
 }
