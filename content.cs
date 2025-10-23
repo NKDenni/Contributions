@@ -3876,21 +3876,6 @@ namespace MockCode
             Console.WriteLine("lylki");
             Console.WriteLine("jxwlp");
             Console.WriteLine("qrxil");
-            Console.WriteLine("xwstj");
-            Console.WriteLine("armeg");
-            Console.WriteLine("acnxj");
-            Console.WriteLine("iemkc");
-            Console.WriteLine("wdhck");
-            Console.WriteLine("qyujo");
-            Console.WriteLine("comis");
-            Console.WriteLine("fcujn");
-            Console.WriteLine("hwdjv");
-            Console.WriteLine("cxrmy");
-            Console.WriteLine("nftuy");
-            Console.WriteLine("vdcpl");
-            Console.WriteLine("tuhcl");
-            Console.WriteLine("amqbq");
-            Console.WriteLine("wjrrq");
         }
     }
 }
