@@ -3918,11 +3918,6 @@ namespace MockCode
             Console.WriteLine("hwcvd");
             Console.WriteLine("tcrah");
             Console.WriteLine("whydv");
-            Console.WriteLine("yrldj");
-            Console.WriteLine("edlbh");
-            Console.WriteLine("iwold");
-            Console.WriteLine("xpjmn");
-            Console.WriteLine("digtt");
         }
     }
 }
