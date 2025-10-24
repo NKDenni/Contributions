@@ -3888,21 +3888,6 @@ namespace MockCode
             Console.WriteLine("awowx");
             Console.WriteLine("kmfcm");
             Console.WriteLine("bjhyk");
-            Console.WriteLine("ytiga");
-            Console.WriteLine("rxaim");
-            Console.WriteLine("acqxl");
-            Console.WriteLine("nvtum");
-            Console.WriteLine("yktif");
-            Console.WriteLine("xhipm");
-            Console.WriteLine("ehrvu");
-            Console.WriteLine("bweeo");
-            Console.WriteLine("caxee");
-            Console.WriteLine("naraf");
-            Console.WriteLine("enutr");
-            Console.WriteLine("omsbw");
-            Console.WriteLine("upilc");
-            Console.WriteLine("vudyn");
-            Console.WriteLine("vfjga");
         }
     }
 }
