@@ -3909,20 +3909,6 @@ namespace MockCode
             Console.WriteLine("wcfug");
             Console.WriteLine("icbin");
             Console.WriteLine("lmigx");
-            Console.WriteLine("dctbv");
-            Console.WriteLine("sbsht");
-            Console.WriteLine("yshey");
-            Console.WriteLine("nthge");
-            Console.WriteLine("ottce");
-            Console.WriteLine("uwrbu");
-            Console.WriteLine("dalpa");
-            Console.WriteLine("yvcng");
-            Console.WriteLine("tywnk");
-            Console.WriteLine("yvyfc");
-            Console.WriteLine("mkxen");
-            Console.WriteLine("brvok");
-            Console.WriteLine("eawcp");
-            Console.WriteLine("yisbd");
         }
     }
 }
