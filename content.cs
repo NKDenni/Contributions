@@ -3893,21 +3893,6 @@ namespace MockCode
             Console.WriteLine("rkpkd");
             Console.WriteLine("xjnjq");
             Console.WriteLine("llbio");
-            Console.WriteLine("vwtad");
-            Console.WriteLine("uymkl");
-            Console.WriteLine("ylkuf");
-            Console.WriteLine("kscff");
-            Console.WriteLine("qucmo");
-            Console.WriteLine("ulqhp");
-            Console.WriteLine("jypeh");
-            Console.WriteLine("mnkxe");
-            Console.WriteLine("wdmuy");
-            Console.WriteLine("jfiox");
-            Console.WriteLine("yqued");
-            Console.WriteLine("guvqr");
-            Console.WriteLine("lwnla");
-            Console.WriteLine("hxulv");
-            Console.WriteLine("iasqs");
         }
     }
 }
