@@ -3864,21 +3864,6 @@ namespace MockCode
             Console.WriteLine("sxrxu");
             Console.WriteLine("naucl");
             Console.WriteLine("icilv");
-            Console.WriteLine("waand");
-            Console.WriteLine("jfdps");
-            Console.WriteLine("cwkoi");
-            Console.WriteLine("euejp");
-            Console.WriteLine("nbbor");
-            Console.WriteLine("trafk");
-            Console.WriteLine("rfdss");
-            Console.WriteLine("maphl");
-            Console.WriteLine("ledlp");
-            Console.WriteLine("mjsks");
-            Console.WriteLine("cjrfx");
-            Console.WriteLine("fojro");
-            Console.WriteLine("rtwiw");
-            Console.WriteLine("dckgy");
-            Console.WriteLine("kggpe");
         }
     }
 }
