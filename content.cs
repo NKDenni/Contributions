@@ -3894,21 +3894,6 @@ namespace MockCode
             Console.WriteLine("ptxuo");
             Console.WriteLine("ersci");
             Console.WriteLine("olgja");
-            Console.WriteLine("gjaoj");
-            Console.WriteLine("ifwku");
-            Console.WriteLine("odlha");
-            Console.WriteLine("vxqwn");
-            Console.WriteLine("tthph");
-            Console.WriteLine("qdgey");
-            Console.WriteLine("fyvyg");
-            Console.WriteLine("pswhd");
-            Console.WriteLine("wjelo");
-            Console.WriteLine("xqnaj");
-            Console.WriteLine("yyhdv");
-            Console.WriteLine("riuqo");
-            Console.WriteLine("yvjju");
-            Console.WriteLine("lyjsg");
-            Console.WriteLine("vyxle");
         }
     }
 }
