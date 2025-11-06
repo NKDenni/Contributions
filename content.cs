@@ -4206,21 +4206,6 @@ namespace MockCode
             Console.WriteLine("nkkbe");
             Console.WriteLine("uuiic");
             Console.WriteLine("nfpih");
-            Console.WriteLine("pvbnw");
-            Console.WriteLine("wmndq");
-            Console.WriteLine("rdsdq");
-            Console.WriteLine("bvgmu");
-            Console.WriteLine("yksys");
-            Console.WriteLine("bhcsv");
-            Console.WriteLine("wddfo");
-            Console.WriteLine("subdr");
-            Console.WriteLine("ceocw");
-            Console.WriteLine("cawmv");
-            Console.WriteLine("vfdbs");
-            Console.WriteLine("tfbnt");
-            Console.WriteLine("ekqfn");
-            Console.WriteLine("qboas");
-            Console.WriteLine("gfapx");
         }
     }
 }
