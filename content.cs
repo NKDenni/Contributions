@@ -4251,20 +4251,6 @@ namespace MockCode
             Console.WriteLine("wasfr");
             Console.WriteLine("kagwp");
             Console.WriteLine("oyaly");
-            Console.WriteLine("yitgl");
-            Console.WriteLine("jvxvi");
-            Console.WriteLine("icrla");
-            Console.WriteLine("ttrfs");
-            Console.WriteLine("sorbq");
-            Console.WriteLine("pvide");
-            Console.WriteLine("lnfwn");
-            Console.WriteLine("qpwnd");
-            Console.WriteLine("lgpfb");
-            Console.WriteLine("kopgu");
-            Console.WriteLine("avqqv");
-            Console.WriteLine("toipy");
-            Console.WriteLine("udhpc");
-            Console.WriteLine("sxsyf");
         }
     }
 }
