@@ -4205,7 +4205,6 @@ namespace MockCode
             Console.WriteLine("oqmww");
             Console.WriteLine("nkkbe");
             Console.WriteLine("uuiic");
-            Console.WriteLine("nfpih");
         }
     }
 }
