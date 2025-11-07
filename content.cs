@@ -4251,21 +4251,6 @@ namespace MockCode
             Console.WriteLine("kecii");
             Console.WriteLine("jlnju");
             Console.WriteLine("jmhlo");
-            Console.WriteLine("fycbw");
-            Console.WriteLine("tsfsp");
-            Console.WriteLine("qyhdu");
-            Console.WriteLine("ngmia");
-            Console.WriteLine("dakmb");
-            Console.WriteLine("lvmpe");
-            Console.WriteLine("hbtvw");
-            Console.WriteLine("mbfuf");
-            Console.WriteLine("dwhop");
-            Console.WriteLine("qqthc");
-            Console.WriteLine("kkdrk");
-            Console.WriteLine("qhmuo");
-            Console.WriteLine("ivyfj");
-            Console.WriteLine("tvudf");
-            Console.WriteLine("rxuto");
         }
     }
 }
