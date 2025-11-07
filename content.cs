@@ -4266,15 +4266,6 @@ namespace MockCode
             Console.WriteLine("ivyfj");
             Console.WriteLine("tvudf");
             Console.WriteLine("rxuto");
-            Console.WriteLine("gglhb");
-            Console.WriteLine("jyhmk");
-            Console.WriteLine("atwux");
-            Console.WriteLine("wcoth");
-            Console.WriteLine("midnr");
-            Console.WriteLine("dfndi");
-            Console.WriteLine("pfqmy");
-            Console.WriteLine("wnpsi");
-            Console.WriteLine("oslqj");
         }
     }
 }
