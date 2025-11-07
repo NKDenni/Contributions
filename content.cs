@@ -4229,21 +4229,8 @@ namespace MockCode
             Console.WriteLine("gghim");
             Console.WriteLine("krqpd");
             Console.WriteLine("lobki");
-            Console.WriteLine("jqowm");
-            Console.WriteLine("krtho");
-            Console.WriteLine("ditbb");
-            Console.WriteLine("rkeyi");
-            Console.WriteLine("ekgwp");
-            Console.WriteLine("jpdte");
-            Console.WriteLine("xbpud");
-            Console.WriteLine("egkew");
-            Console.WriteLine("mygfa");
-            Console.WriteLine("wmtvg");
-            Console.WriteLine("rumoi");
-            Console.WriteLine("xdvom");
-            Console.WriteLine("fvgvg");
-            Console.WriteLine("hrivt");
-            Console.WriteLine("rpgba");
+            Console.WriteLine("shfwb");
+            Console.WriteLine("jdcop");
         }
     }
 }
