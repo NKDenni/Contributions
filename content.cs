@@ -4236,21 +4236,6 @@ namespace MockCode
             Console.WriteLine("qwbrd");
             Console.WriteLine("rtmda");
             Console.WriteLine("luede");
-            Console.WriteLine("ejlhm");
-            Console.WriteLine("jnfrf");
-            Console.WriteLine("cuwth");
-            Console.WriteLine("adbiv");
-            Console.WriteLine("cvyvw");
-            Console.WriteLine("uvnsw");
-            Console.WriteLine("rxbob");
-            Console.WriteLine("jxmov");
-            Console.WriteLine("nlovq");
-            Console.WriteLine("xuetg");
-            Console.WriteLine("jlcdk");
-            Console.WriteLine("tsgdo");
-            Console.WriteLine("kecii");
-            Console.WriteLine("jlnju");
-            Console.WriteLine("jmhlo");
         }
     }
 }
