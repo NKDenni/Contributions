@@ -4201,21 +4201,6 @@ namespace MockCode
             Console.WriteLine("qxjws");
             Console.WriteLine("pktfd");
             Console.WriteLine("tpryo");
-            Console.WriteLine("gagjo");
-            Console.WriteLine("vdtai");
-            Console.WriteLine("eeccx");
-            Console.WriteLine("efahb");
-            Console.WriteLine("lrfsr");
-            Console.WriteLine("ppvbq");
-            Console.WriteLine("wlluf");
-            Console.WriteLine("fagon");
-            Console.WriteLine("psyav");
-            Console.WriteLine("ypfxm");
-            Console.WriteLine("nmfsg");
-            Console.WriteLine("phpey");
-            Console.WriteLine("fsgtw");
-            Console.WriteLine("ndxeu");
-            Console.WriteLine("hjvim");
         }
     }
 }
