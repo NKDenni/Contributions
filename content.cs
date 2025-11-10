@@ -4246,13 +4246,6 @@ namespace MockCode
             Console.WriteLine("wnmgg");
             Console.WriteLine("kriwo");
             Console.WriteLine("epthu");
-            Console.WriteLine("yqlll");
-            Console.WriteLine("hfgkk");
-            Console.WriteLine("ygavk");
-            Console.WriteLine("wddap");
-            Console.WriteLine("rehtl");
-            Console.WriteLine("jkebt");
-            Console.WriteLine("ucuca");
         }
     }
 }
