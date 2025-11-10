@@ -4193,14 +4193,6 @@ namespace MockCode
             Console.WriteLine("ljtgk");
             Console.WriteLine("ownje");
             Console.WriteLine("vrlcm");
-            Console.WriteLine("cfrvk");
-            Console.WriteLine("mybyg");
-            Console.WriteLine("fonsk");
-            Console.WriteLine("kvidj");
-            Console.WriteLine("vmkxm");
-            Console.WriteLine("qxjws");
-            Console.WriteLine("pktfd");
-            Console.WriteLine("tpryo");
         }
     }
 }
