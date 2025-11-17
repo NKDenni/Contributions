@@ -4210,21 +4210,6 @@ namespace MockCode
             Console.WriteLine("mwflj");
             Console.WriteLine("dueif");
             Console.WriteLine("mvkoy");
-            Console.WriteLine("byrdl");
-            Console.WriteLine("fnjho");
-            Console.WriteLine("iiwbn");
-            Console.WriteLine("pywsk");
-            Console.WriteLine("jhxyd");
-            Console.WriteLine("boalu");
-            Console.WriteLine("bduxc");
-            Console.WriteLine("rlidh");
-            Console.WriteLine("fgxsx");
-            Console.WriteLine("cgxut");
-            Console.WriteLine("uiguy");
-            Console.WriteLine("baxgt");
-            Console.WriteLine("pptrh");
-            Console.WriteLine("jdkdh");
-            Console.WriteLine("exyaq");
         }
     }
 }
