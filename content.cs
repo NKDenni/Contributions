@@ -4315,21 +4315,6 @@ namespace MockCode
             Console.WriteLine("iedvt");
             Console.WriteLine("udlyl");
             Console.WriteLine("damio");
-            Console.WriteLine("pqpbq");
-            Console.WriteLine("vbwvu");
-            Console.WriteLine("nbapm");
-            Console.WriteLine("ggmwc");
-            Console.WriteLine("xvrga");
-            Console.WriteLine("yjmbr");
-            Console.WriteLine("urewf");
-            Console.WriteLine("dqwbb");
-            Console.WriteLine("xtdky");
-            Console.WriteLine("tythq");
-            Console.WriteLine("cgmdd");
-            Console.WriteLine("lrogx");
-            Console.WriteLine("nqlne");
-            Console.WriteLine("royvg");
-            Console.WriteLine("ycygi");
         }
     }
 }
