@@ -4300,21 +4300,6 @@ namespace MockCode
             Console.WriteLine("amluo");
             Console.WriteLine("hlcjm");
             Console.WriteLine("kddja");
-            Console.WriteLine("crutd");
-            Console.WriteLine("jtelk");
-            Console.WriteLine("ahudr");
-            Console.WriteLine("lynda");
-            Console.WriteLine("nwngd");
-            Console.WriteLine("ihxqc");
-            Console.WriteLine("gowsx");
-            Console.WriteLine("jelae");
-            Console.WriteLine("apvys");
-            Console.WriteLine("gymgb");
-            Console.WriteLine("xiapo");
-            Console.WriteLine("maysu");
-            Console.WriteLine("iedvt");
-            Console.WriteLine("udlyl");
-            Console.WriteLine("damio");
         }
     }
 }
