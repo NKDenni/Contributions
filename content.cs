@@ -4330,13 +4330,6 @@ namespace MockCode
             Console.WriteLine("nqlne");
             Console.WriteLine("royvg");
             Console.WriteLine("ycygi");
-            Console.WriteLine("bgbls");
-            Console.WriteLine("apkse");
-            Console.WriteLine("kcerk");
-            Console.WriteLine("cpmrv");
-            Console.WriteLine("tnpxf");
-            Console.WriteLine("tlitl");
-            Console.WriteLine("kbrcf");
         }
     }
 }
