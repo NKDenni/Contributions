@@ -4289,21 +4289,6 @@ namespace MockCode
             Console.WriteLine("oxpel");
             Console.WriteLine("cprej");
             Console.WriteLine("jiaub");
-            Console.WriteLine("uphfi");
-            Console.WriteLine("uains");
-            Console.WriteLine("daqio");
-            Console.WriteLine("fotxi");
-            Console.WriteLine("rbsgs");
-            Console.WriteLine("irpqx");
-            Console.WriteLine("ohpkl");
-            Console.WriteLine("kukfg");
-            Console.WriteLine("htvct");
-            Console.WriteLine("pxrvu");
-            Console.WriteLine("pgbwf");
-            Console.WriteLine("wgrkj");
-            Console.WriteLine("xljof");
-            Console.WriteLine("qngdk");
-            Console.WriteLine("bnvlc");
         }
     }
 }
