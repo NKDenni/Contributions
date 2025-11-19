@@ -4273,9 +4273,6 @@ namespace MockCode
             Console.WriteLine("rwnsj");
             Console.WriteLine("alige");
             Console.WriteLine("dvxdj");
-            Console.WriteLine("qntwl");
-            Console.WriteLine("tuqyv");
-            Console.WriteLine("vfnhd");
         }
     }
 }
