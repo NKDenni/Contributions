@@ -4445,21 +4445,6 @@ namespace MockCode
             Console.WriteLine("hifxi");
             Console.WriteLine("lajos");
             Console.WriteLine("ddytx");
-            Console.WriteLine("kokcm");
-            Console.WriteLine("ebqki");
-            Console.WriteLine("telmc");
-            Console.WriteLine("sgabv");
-            Console.WriteLine("almro");
-            Console.WriteLine("rnudi");
-            Console.WriteLine("xfedj");
-            Console.WriteLine("eysbd");
-            Console.WriteLine("thgos");
-            Console.WriteLine("hgleg");
-            Console.WriteLine("thegm");
-            Console.WriteLine("byoey");
-            Console.WriteLine("iawqs");
-            Console.WriteLine("kvdif");
-            Console.WriteLine("yxnna");
         }
     }
 }
