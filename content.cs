@@ -4430,21 +4430,6 @@ namespace MockCode
             Console.WriteLine("atxmb");
             Console.WriteLine("vfjjk");
             Console.WriteLine("whbss");
-            Console.WriteLine("ehqyt");
-            Console.WriteLine("wtvgb");
-            Console.WriteLine("jvfsk");
-            Console.WriteLine("wsskf");
-            Console.WriteLine("jbxeg");
-            Console.WriteLine("xpbdr");
-            Console.WriteLine("uemdj");
-            Console.WriteLine("momki");
-            Console.WriteLine("nxuhq");
-            Console.WriteLine("uwhjy");
-            Console.WriteLine("bkjta");
-            Console.WriteLine("fjexg");
-            Console.WriteLine("hifxi");
-            Console.WriteLine("lajos");
-            Console.WriteLine("ddytx");
         }
     }
 }
