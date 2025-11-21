@@ -4412,9 +4412,6 @@ namespace MockCode
             Console.WriteLine("fauwv");
             Console.WriteLine("enwcg");
             Console.WriteLine("vrjfi");
-            Console.WriteLine("lcvlj");
-            Console.WriteLine("bnmlv");
-            Console.WriteLine("aoxmf");
         }
     }
 }
